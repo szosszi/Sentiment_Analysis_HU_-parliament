@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xml:id="ParlaMint-HU.ana" xml:lang="hu">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="hu">A Magyar Országgyűlés Korpusza ParlaMint-HU [ParlaMint.ana]</title>
+            <title type="main" xml:lang="en">Hungarian parliamentary corpus ParlaMint-HU [ParlaMint.ana]</title>
+            <title type="sub" xml:lang="hu">A Magyar Országgyűlés ülései, 7., 8. és 9. ciklus (2014 - 2023)</title>
+            <title type="sub" xml:lang="en">Minutes of the National Assembly of Hungary, Term 7, 8 and 9 (2014 - 2023)</title>
+            <meeting ana="#parla.uni #parla.term #OGY.7" corresp="#OGY" n="7">7. ciklus</meeting>
+            <meeting ana="#parla.uni #parla.term #OGY.8" corresp="#OGY" n="8">8. ciklus</meeting>
+            <meeting ana="#parla.uni #parla.term #OGY.9" corresp="#OGY" n="9">9. ciklus</meeting>
+            <respStmt>
+               <persName>Noémi Ligeti-Nagy</persName>
+               <resp xml:lang="hu">A ParlaMint TEI XML formátum előállítása</resp>
+               <resp xml:lang="en">ParlaMint TEI XML corpus encoding</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Réka Dodé</persName>
+               <persName>Kinga Jelencsik-Mátyus</persName>
+               <persName>Zsófia Varga</persName>
+               <resp xml:lang="hu">Metaadatok gyűjtése és rendszerezése</resp>
+               <resp xml:lang="en">Metadata collection and organization</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-7436-9896">Taja Kuzman</persName>
+               <resp xml:lang="en">Compute utterance topics</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0001-7169-9152">Nikola Ljubešić</persName>
+               <resp xml:lang="en">Compute sentence level sentiment</resp>
+            </respStmt>
+            <respStmt>
+               <persName ref="https://orcid.org/0000-0002-0464-9240">Katja Meden</persName>
+               <resp xml:lang="en">Compute utterance level sentiment</resp>
+            </respStmt>
+            <funder>
+               <orgName xml:lang="hu">CLARIN Kutatási Infrastruktúra</orgName>
+               <orgName xml:lang="en">CLARIN Research Infrastructure</orgName>
+            </funder>
+            <funder>
+               <orgName xml:lang="en">OSCARS (Open Science Clusters' Action for Research &amp; Society)</orgName>
+               <ref target="https://oscars-project.eu/projects/parlacap-comparing-agenda-settings-across-parliaments-parlamint-dataset">ParlaCap project</ref>
+            </funder>
+            <funder>
+               <orgName xml:lang="hu">Nyelvtudományi Kutatóközpont</orgName>
+               <orgName xml:lang="en">Hungarian Research Centre for Linguistics</orgName>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>5.0</edition>
+         </editionStmt>
+         <extent>
+            <measure unit="speeches" quantity="116346" xml:lang="hu">116.346 beszéd</measure>
+            <measure unit="speeches" quantity="116346" xml:lang="en">116,346 speeches</measure>
+            <measure unit="words" quantity="30846395" xml:lang="hu">30.846.395 szó</measure>
+            <measure unit="words" quantity="30846395" xml:lang="en">30,846,395 words</measure>
+         </extent>
+         <publicationStmt>
+            <publisher>
+               <orgName xml:lang="hu">CLARIN Kutatási Infrastruktúra</orgName>
+               <orgName xml:lang="en">CLARIN research infrastucture</orgName>
+               <ref target="https://www.clarin.eu/">www.clarin.eu</ref>
+            </publisher>
+            <idno type="URI" subtype="handle">http://hdl.handle.net/11356/2005</idno>
+            <availability status="free">
+               <licence>http://creativecommons.org/licenses/by/4.0/</licence>
+               <p xml:lang="hu">Ez a munka az alábbi licensz alapján használható: <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>
+               </p>
+               <p xml:lang="en">This work is licensed under the <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ref>
+               </p>
+            </availability>
+            <date when="2025-06-16">2025-06-16</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title type="main" xml:lang="hu">A Magyar Országgyűlés ülései</title>
+               <title type="main" xml:lang="en">Minutes of the National Assembly of Hungary</title>
+               <idno type="URI" subtype="parliament">https://www.parlament.hu/</idno>
+               <date from="2014-05-06" to="2023-07-31">2014.05.06 - 2023.07.31.</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p xml:lang="en"><ref target="https://www.clarin.eu/parlamint">ParlaMint</ref> is a project that aims to (1) create a multilingual set of comparable corpora of parliamentary proceedings uniformly encoded according to the <ref target="https://clarin-eric.github.io/ParlaMint/">ParlaMint encoding guidelines</ref>, covering the period from 2015 to mid-2022; (2) add linguistic annotations to the corpora and machine-translate them to English; (3) make the corpora available through concordancers; and (4) build use cases in Political Sciences and Digital Humanities based on the corpus data.</p>
+            <p xml:lang="hu">A <ref target="https://www.clarin.eu/content/parlamint">ParlaMint</ref> projekt célja, hogy (1) többnyelvű, egységes kódolású, összehasonlítható korpuszokat hozzon létre a parlamenti eljárások szövegeiből (2) ezen korpuszokat nyelvileg feldolgozza; (3) a korpuszokat letölthetővé és konkordancia-lekérdezőkön keresztül elérhetővé tegye; és ezáltal (4) a politikatudományok és a digitális bölcsészet területén felhasználható eseteket hozzon létre.</p>
+         </projectDesc>
+         <editorialDecl>
+            <correction>
+               <p xml:lang="en">No correction of source texts was performed.</p>
+            </correction>
+            <normalization>
+               <p xml:lang="en">Text has not been normalised, except for speakers' name and affiliation.</p>
+            </normalization>
+            <hyphenation>
+               <p xml:lang="en">No end-of-line hyphens were present in the source.</p>
+            </hyphenation>
+            <quotation>
+               <p xml:lang="en">Quotation marks have been left in the text and are not explicitly marked up.</p>
+            </quotation>
+            <segmentation>
+               <p xml:lang="en">The texts are segmented into utterances (speeches) and segments (corresponding to paragraphs in the source transcription).</p>
+            </segmentation>
+         </editorialDecl>
+         <tagsDecl>
+            <namespace name="http://www.tei-c.org/ns/1.0">
+               <tagUsage gi="body" occurs="579"/>
+               <tagUsage gi="desc" occurs="99669"/>
+               <tagUsage gi="div" occurs="579"/>
+               <tagUsage gi="gap" occurs="37"/>
+               <tagUsage gi="incident" occurs="3701"/>
+               <tagUsage gi="kinesic" occurs="50570"/>
+               <tagUsage gi="link" occurs="36293453"/>
+               <tagUsage gi="linkGrp" occurs="1730955"/>
+               <tagUsage gi="measure" occurs="1730955"/>
+               <tagUsage gi="name" occurs="770149"/>
+               <tagUsage gi="note" occurs="154671"/>
+               <tagUsage gi="pc" occurs="5447058"/>
+               <tagUsage gi="s" occurs="1730955"/>
+               <tagUsage gi="seg" occurs="486594"/>
+               <tagUsage gi="text" occurs="579"/>
+               <tagUsage gi="u" occurs="116346"/>
+               <tagUsage gi="vocal" occurs="45361"/>
+               <tagUsage gi="w" occurs="30846395"/>
+            </namespace>
+         </tagsDecl>
+         <classDecl>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ParlaMint-taxonomy-subcorpus.xml"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ParlaMint-taxonomy-speaker_types.xml"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ParlaMint-taxonomy-parla.legislature.xml"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ParlaMint-taxonomy-CHES.xml"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ParlaMint-taxonomy-politicalOrientation.xml"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ParlaMint-taxonomy-NER.ana.xml"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ParlaMint-taxonomy-UD-SYN.ana.xml"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ParlaMint-taxonomy-topic.xml"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ParlaMint-taxonomy-sentiment.ana.xml"/>
+         </classDecl>
+         <listPrefixDef>
+            <prefixDef ident="ud-syn" matchPattern="(.+)" replacementPattern="#$1">
+               <p xml:lang="en">Private URIs with this prefix point to elements giving their name. In this document they are simply local references into the UD-SYN taxonomy categories in the corpus root TEI header.</p>
+            </prefixDef>
+            <prefixDef ident="topic" matchPattern="(.+)" replacementPattern="#$1">
+               <p xml:lang="en">Private URIs with this prefix point to elements giving their name. In this document they are simply local references into the Topic taxonomy categories in the corpus root TEI header.</p>
+            </prefixDef>
+            <prefixDef ident="senti" matchPattern="(.+)" replacementPattern="#$1">
+               <p xml:lang="en">Private URIs with this prefix point to elements giving their name. In this document they are simply local references into the Sentiment taxonomy categories in the corpus root TEI header.</p>
+            </prefixDef>
+         </listPrefixDef>
+         <appInfo>
+            <application version="0.5.1" ident="huspacy">
+               <label>HuSpaCy</label>
+               <desc xml:lang="en">HuSpaCy is a spaCy library providing industrial-strength Hungarian language processing facilities through spaCy models. The released pipelines consist of a tokenizer, sentence splitter, lemmatizer, tagger (predicting morphological features as well), dependency parser and a named entity recognition module. It is available from <ref target="https://github.com/huspacy/huspacy">https://github.com/huspacy/huspacy</ref>.</desc>
+            </application>
+            <application ident="parlacap" version="1.0">
+               <label>ParlaCAP</label>
+               <desc>Automatic annotation with <ref target="https://www.comparativeagendas.net/pages/master-codebook">CAP (Comparative Agendas Project)</ref> major topic labels, produced with the multilingual ParlaCAP classifier, available from <ref target="https://huggingface.co/classla/ParlaCAP-Topic-Classifier">https://huggingface.co/classla/ParlaCAP-Topic-Classifier</ref>.</desc>
+            </application>
+            <application ident="parlasent" version="1.0">
+               <label>ParlaSent</label>
+               <desc>Automatic annotation of sentence-level sentiment, produced with the multilingual ParlaSent classifier, available from <ref target="https://huggingface.co/classla/xlm-r-parlasent">https://huggingface.co/classla/xlm-r-parlasent</ref>.</desc>
+            </application>
+         </appInfo>
+      </encodingDesc>
+      <profileDesc>
+         <settingDesc>
+            <setting>
+               <name type="address">Kossuth tér 1-3.</name>
+               <name type="city">Budapest</name>
+               <name type="country" key="HU">Hungary</name>
+               <date from="2014-05-06" to="2023-07-31"/>
+            </setting>
+         </settingDesc>
+         <textClass>
+            <catRef scheme="#ParlaMint-taxonomy-parla.legislature" target="#parla.uni"/>
+         </textClass>
+         <particDesc>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ParlaMint-HU-listOrg.xml"/>
+            <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ParlaMint-HU-listPerson.xml"/>
+         </particDesc>
+         <langUsage>
+            <language ident="hu" xml:lang="hu">magyar</language>
+            <language ident="en" xml:lang="hu">angol</language>
+            <language ident="hu" xml:lang="en">Hungarian</language>
+            <language ident="en" xml:lang="en">English</language>
+            <language ident="de" xml:lang="hu" usage="0">német</language>
+            <language ident="de" xml:lang="en" usage="0">Deutsch</language>
+            <language ident="bg" xml:lang="hu" usage="0">bolgár</language>
+            <language ident="bg" xml:lang="en" usage="0">Bulgarian</language>
+            <language ident="pl" xml:lang="hu" usage="0">lengyel</language>
+            <language ident="pl" xml:lang="en" usage="0">Polish</language>
+            <language ident="sr" xml:lang="hu" usage="0">szerb</language>
+            <language ident="sr" xml:lang="en" usage="0">Serbian</language>
+            <language ident="sk" xml:lang="hu" usage="0">szlovák</language>
+            <language ident="sk" xml:lang="en" usage="0">Slovakian</language>
+            <language ident="cs" xml:lang="hu" usage="0">cseh</language>
+            <language ident="cs" xml:lang="en" usage="0">Czech</language>
+            <language ident="el" xml:lang="hu" usage="0">görög</language>
+            <language ident="el" xml:lang="en" usage="0">Greek</language>
+            <language ident="hr" xml:lang="hu" usage="0">horvát</language>
+            <language ident="hr" xml:lang="en" usage="0">Croatian</language>
+            <language ident="ru" xml:lang="hu" usage="0">orosz</language>
+            <language ident="ru" xml:lang="en" usage="0">Russian</language>
+            <language ident="sl" xml:lang="hu" usage="0">szlovén</language>
+            <language ident="sl" xml:lang="en" usage="0">Slovenian</language>
+            <language ident="uk" xml:lang="hu" usage="0">ukrán</language>
+            <language ident="uk" xml:lang="en" usage="0">Ukranian</language>
+            <language ident="rom" xml:lang="hu" usage="0">romani</language>
+            <language ident="rom" xml:lang="en" usage="0">Romani</language>
+            <language ident="ro" xml:lang="hu" usage="0">román</language>
+            <language ident="ro" xml:lang="en" usage="0">Romanian</language>
+            <language ident="mul" xml:lang="hu" usage="0">többnyelvű</language>
+            <language ident="mul" xml:lang="en" usage="0">Multilingual</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2025-06-16">parlamint2release script: Fix some identifiable erros for the release.</change>
+         <change when="2025-06-15">
+            <name>Tomaž Erjavec</name>: Include topic and sentiment related information.</change>
+         <change when="2024-05-14">parlamint2release script: Fix some identifiable erros for the release.</change>
+         <change when="2022-11-05">xi:include taxonomies and particDesc elements</change>
+         <change when="2022-11-09">new sample made after revision</change>
+         <change when="2023-08-30">Extension with data from July 2022-July 2023</change>
+         <change when="2024-05-14">parlamint-add-common-content script: Adding common content.</change>
+         <change when="2025-06-16">parlamint-add-common-content script: Adding common content.</change>
+      </revisionDesc>
+   </teiHeader>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-05-06.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-05-10.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-05-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-05-13.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-05-26.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-06-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-06-06.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-06-10.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-06-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-06-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-06-23.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-06-30.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-07-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-09-15.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-09-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-09-24.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-09-26.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-10-13.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-10-14.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-10-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-10-27.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-10-28.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-11-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-11-10.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-11-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-11-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-11-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-11-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-11-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-11-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-11-24.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-11-25.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-11-26.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-12-01.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-12-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-12-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-12-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-12-09.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-12-10.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-12-15.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-12-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-12-23-1.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2014/ParlaMint-HU_2014-12-23-2.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-02-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-02-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-02-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-02-23.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-02-26.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-03-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-03-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-03-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-03-05.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-03-09.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-03-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-03-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-03-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-03-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-03-23.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-03-30.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-03-31.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-04-01.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-04-07.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-04-13.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-04-14.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-04-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-04-27.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-04-28.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-04-29.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-05-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-05-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-05-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-05-13.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-05-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-05-26.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-05-27.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-05-28.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-05-29.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-05-30.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-06-01.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-06-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-06-09.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-06-10.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-06-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-06-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-06-15.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-06-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-06-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-06-22.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-06-23.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-06-29.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-06-30.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-07-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-07-06.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-09-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-09-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-09-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-09-22.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-09-28.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-09-29.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-10-05.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-10-06.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-10-07.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-10-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-10-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-10-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-10-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-10-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-10-22.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-10-26.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-11-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-11-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-11-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-11-05.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-11-09.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-11-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-11-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-11-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-11-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-11-23.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-11-30.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-12-01.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-12-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-12-07.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-12-14.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2015/ParlaMint-HU_2015-12-15.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-02-15.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-02-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-02-22.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-02-29.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-03-01.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-03-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-03-07.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-03-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-03-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-03-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-03-29.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-03-30.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-04-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-04-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-04-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-04-13.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-04-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-04-25.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-04-26.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-04-27.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-05-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-05-09.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-05-10.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-05-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-05-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-05-13.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-05-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-05-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-05-23.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-05-24.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-05-25.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-05-30.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-06-06.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-06-07.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-06-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-06-13.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-07-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-08-22.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-09-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-09-13.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-09-14.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-09-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-09-26.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-09-27.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-10-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-10-10.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-10-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-10-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-10-14.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-10-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-10-24.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-10-25.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-10-26.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-11-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-11-07.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-11-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-11-09.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-11-10.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-11-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-11-14.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-11-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-11-22.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-11-23.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-11-28.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-11-29.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-12-05.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-12-06.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-12-07.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-12-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-12-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2016/ParlaMint-HU_2016-12-13.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-02-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-02-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-02-22.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-02-27.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-03-06.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-03-07.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-03-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-03-13.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-03-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-03-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-03-27.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-04-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-04-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-04-10.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-04-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-04-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-04-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-04-24.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-05-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-05-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-05-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-05-05.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-05-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-05-15.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-05-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-05-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-05-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-05-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-05-22.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-05-29.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-05-30.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-05-31.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-06-06.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-06-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-06-13.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-06-14.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-06-15.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-06-23.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-08-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-09-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-09-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-09-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-09-25.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-10-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-10-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-10-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-10-09.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-10-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-10-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-10-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-10-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-10-24.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-10-30.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-10-31.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-11-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-11-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-11-06.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-11-13.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-11-14.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-11-15.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-11-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-11-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-11-27.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-11-28.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-11-30.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-12-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-12-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2017/ParlaMint-HU_2017-12-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-01-30.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-02-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-02-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-02-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-03-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-05-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-05-10.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-05-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-05-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-06-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-06-05.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-06-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-06-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-06-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-06-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-06-25.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-06-26.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-06-27.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-06-28.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-06-29.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-07-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-07-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-07-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-07-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-07-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-08-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-09-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-09-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-09-24.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-10-01.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-10-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-10-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-10-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-10-15.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-10-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-10-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-10-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-10-24.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-10-29.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-10-30.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-10-31.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-11-05.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-11-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-11-13.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-11-14.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-11-15.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-11-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-11-26.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-11-27.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-11-28.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-11-29.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-12-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-12-10.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-12-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-12-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2018/ParlaMint-HU_2018-12-13.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-01-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-02-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-02-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-02-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-02-25.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-03-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-03-05.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-03-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-03-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-03-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-03-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-03-25.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-04-01.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-04-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-05-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-05-27.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-05-28.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-06-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-06-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-06-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-06-13.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-06-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-06-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-06-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-06-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-06-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-06-24.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-06-25.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-07-01.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-07-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-07-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-07-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-09-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-10-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-10-22.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-10-24.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-10-28.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-11-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-11-05.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-11-06.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-11-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-11-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-11-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-11-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-11-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-11-22.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-11-25.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-12-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-12-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-12-09.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-12-10.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-12-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2019/ParlaMint-HU_2019-12-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-02-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-02-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-02-24.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-02-25.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-03-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-03-09.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-03-10.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-03-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-03-23.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-03-24.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-03-30.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-04-06.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-04-07.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-04-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-04-14.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-04-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-04-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-04-27.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-05-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-05-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-05-05.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-05-06.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-05-07.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-05-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-05-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-05-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-05-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-05-25.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-06-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-06-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-06-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-06-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-06-09.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-06-10.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-06-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-06-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-06-15.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-06-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-06-29.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-07-01.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-07-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-07-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-07-13.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-07-14.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-08-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-09-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-09-22.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-09-28.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-10-05.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-10-06.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-10-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-10-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-10-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-10-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-10-26.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-11-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-11-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-11-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-11-05.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-11-09.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-11-10.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-11-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-11-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-11-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-11-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-11-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-11-23.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-11-30.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-12-01.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-12-07.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-12-14.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-12-15.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2020/ParlaMint-HU_2020-12-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-02-01.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-02-15.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-02-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-02-22.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-03-01.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-03-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-03-17-1.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-03-17-2.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-03-22.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-04-07.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-04-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-04-09.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-04-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-04-26.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-04-27.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-04-28.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-04-29.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-04-30.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-05-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-05-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-05-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-05-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-05-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-05-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-05-25.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-05-26.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-05-27.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-05-31.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-06-01.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-06-07.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-06-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-06-14.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-06-15.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-09-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-09-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-09-27.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-09-28.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-10-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-10-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-10-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-10-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-10-25.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-11-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-11-09.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-11-10.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-11-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-11-15.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-11-29.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-11-30.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-12-01.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-12-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-12-06.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-12-13.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2021/ParlaMint-HU_2021-12-14.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-02-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-02-22.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-03-10-1.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-03-10-2.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-05-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-05-09.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-05-10.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-05-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-05-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-05-23.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-05-24.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-06-07.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-06-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-06-13.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-06-14.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-06-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-06-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-06-22.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-06-23.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-06-24.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-06-27.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-06-28.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-06-29.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-07-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-07-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-07-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-07-18.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-07-19.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-08-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-09-26.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-10-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-10-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-10-05.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-10-10.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-10-24.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-10-25.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-10-27.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-11-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-11-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-11-09.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-11-10.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-11-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-11-21.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-11-22.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-12-05.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2022/ParlaMint-HU_2022-12-06.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-02-20.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-02-27.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-02-28.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-03-01.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-03-06.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-03-07.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-03-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-03-27.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-03-28.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-03-29.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-03-31.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-04-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-04-11.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-04-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-04-13.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-04-17.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-05-02.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-05-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-05-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-05-08.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-05-22.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-05-23.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-05-24.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-05-30.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-06-12.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-06-13.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-06-14.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-06-15.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-06-16.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-07-03.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-07-04.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-07-07.ana.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="2023/ParlaMint-HU_2023-07-31.ana.xml"/>
+</teiCorpus>
+
