@@ -1,0 +1,1563 @@
+ID	Parent_ID	Element	Language	Senti_3	Senti_6	Senti_n	Sents	Words	Tokens	Names	
+u2015-11-04-0	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	46	568	668	39	
+ParlaMint-HU_2015-11-04.seg1.1	u2015-11-04-0	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2015-11-04.seg1.2	u2015-11-04-0	s	Hungarian	Neutral	neutral postive	3.144	1	7	8	1	
+ParlaMint-HU_2015-11-04.seg2.1	u2015-11-04-0	s	Hungarian	Neutral	neutral postive	2.873	1	11	13	2	
+ParlaMint-HU_2015-11-04.seg3.1	u2015-11-04-0	s	Hungarian	Positive	mixed positive	3.599	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg3.2	u2015-11-04-0	s	Hungarian	Neutral	neutral negative	1.917	1	7	10	0	
+ParlaMint-HU_2015-11-04.seg4.1	u2015-11-04-0	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg4.2	u2015-11-04-0	s	Hungarian	Positive	mixed positive	4.143	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg5.1	u2015-11-04-0	s	Hungarian	Positive	mixed positive	4.428	1	4	6	0	
+ParlaMint-HU_2015-11-04.seg6.1	u2015-11-04-0	s	Hungarian	Neutral	neutral postive	3.068	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg6.2	u2015-11-04-0	s	Hungarian	Negative	mixed negative	0.899	1	5	7	0	
+ParlaMint-HU_2015-11-04.seg7.1	u2015-11-04-0	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg7.2	u2015-11-04-0	s	Hungarian	Neutral	neutral postive	3.067	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg8.1	u2015-11-04-0	s	Hungarian	Positive	mixed positive	3.605	1	6	8	0	
+ParlaMint-HU_2015-11-04.seg9.1	u2015-11-04-0	s	Hungarian	Neutral	neutral postive	3.144	1	7	8	1	
+ParlaMint-HU_2015-11-04.seg9.2	u2015-11-04-0	s	Hungarian	Neutral	neutral postive	3.172	1	15	17	2	
+ParlaMint-HU_2015-11-04.seg9.3	u2015-11-04-0	s	Hungarian	Positive	positive	5.009	1	9	11	0	
+ParlaMint-HU_2015-11-04.seg10.1	u2015-11-04-0	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg10.2	u2015-11-04-0	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg10.3	u2015-11-04-0	s	Hungarian	Positive	mixed positive	4.109	1	12	14	3	
+ParlaMint-HU_2015-11-04.seg10.4	u2015-11-04-0	s	Hungarian	Positive	mixed positive	3.588	1	19	25	0	
+ParlaMint-HU_2015-11-04.seg10.5	u2015-11-04-0	s	Hungarian	Negative	mixed negative	1.062	1	12	13	1	
+ParlaMint-HU_2015-11-04.seg11.1	u2015-11-04-0	s	Hungarian	Negative	mixed negative	0.548	1	31	34	2	
+ParlaMint-HU_2015-11-04.seg12.1	u2015-11-04-0	s	Hungarian	Negative	negative	0.385	1	16	18	1	
+ParlaMint-HU_2015-11-04.seg12.2	u2015-11-04-0	s	Hungarian	Negative	negative	0.165	1	15	16	0	
+ParlaMint-HU_2015-11-04.seg12.3	u2015-11-04-0	s	Hungarian	Positive	mixed positive	4.141	1	18	20	0	
+ParlaMint-HU_2015-11-04.seg12.4	u2015-11-04-0	s	Hungarian	Neutral	neutral negative	2.110	1	24	27	1	
+ParlaMint-HU_2015-11-04.seg12.5	u2015-11-04-0	s	Hungarian	Negative	negative	0.184	1	17	19	0	
+ParlaMint-HU_2015-11-04.seg12.6	u2015-11-04-0	s	Hungarian	Negative	negative	0.123	1	20	22	0	
+ParlaMint-HU_2015-11-04.seg12.7	u2015-11-04-0	s	Hungarian	Negative	negative	0.128	1	14	15	0	
+ParlaMint-HU_2015-11-04.seg12.8	u2015-11-04-0	s	Hungarian	Positive	mixed positive	4.227	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg13.1	u2015-11-04-0	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg13.2	u2015-11-04-0	s	Hungarian	Neutral	neutral negative	2.430	1	8	9	0	
+ParlaMint-HU_2015-11-04.seg13.3	u2015-11-04-0	s	Hungarian	Neutral	neutral negative	1.863	1	52	61	1	
+ParlaMint-HU_2015-11-04.seg13.4	u2015-11-04-0	s	Hungarian	Positive	positive	4.503	1	21	24	1	
+ParlaMint-HU_2015-11-04.seg14.1	u2015-11-04-0	s	Hungarian	Positive	mixed positive	4.206	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg14.2	u2015-11-04-0	s	Hungarian	Positive	mixed positive	4.234	1	2	3	1	
+ParlaMint-HU_2015-11-04.seg14.3	u2015-11-04-0	s	Hungarian	Positive	positive	4.938	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg15.1	u2015-11-04-0	s	Hungarian	Neutral	neutral postive	3.076	1	11	14	0	
+ParlaMint-HU_2015-11-04.seg16.1	u2015-11-04-0	s	Hungarian	Positive	positive	4.696	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg17.1	u2015-11-04-0	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg17.2	u2015-11-04-0	s	Hungarian	Neutral	neutral postive	2.559	1	107	119	12	
+ParlaMint-HU_2015-11-04.seg18.1	u2015-11-04-0	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2015-11-04.seg18.2	u2015-11-04-0	s	Hungarian	Positive	positive	4.519	1	30	36	5	
+ParlaMint-HU_2015-11-04.seg18.3	u2015-11-04-0	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2015-11-04.seg18.4	u2015-11-04-0	s	Hungarian	Neutral	neutral postive	2.916	1	18	22	2	
+ParlaMint-HU_2015-11-04.seg18.5	u2015-11-04-0	s	Hungarian	Neutral	neutral postive	3.489	1	5	7	0	
+u2015-11-04-1	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	76	1761	2030	48	
+ParlaMint-HU_2015-11-04.seg19.1	u2015-11-04-1	s	Hungarian	Positive	positive	4.507	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg19.2	u2015-11-04-1	s	Hungarian	Positive	positive	4.696	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg19.3	u2015-11-04-1	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg19.4	u2015-11-04-1	s	Hungarian	Positive	mixed positive	4.130	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg19.5	u2015-11-04-1	s	Hungarian	Neutral	neutral postive	2.914	1	25	28	1	
+ParlaMint-HU_2015-11-04.seg20.1	u2015-11-04-1	s	Hungarian	Neutral	neutral postive	2.673	1	31	37	2	
+ParlaMint-HU_2015-11-04.seg20.2	u2015-11-04-1	s	Hungarian	Neutral	neutral negative	2.051	1	3	4	1	
+ParlaMint-HU_2015-11-04.seg20.3	u2015-11-04-1	s	Hungarian	Negative	negative	0.024	1	59	68	2	
+ParlaMint-HU_2015-11-04.seg20.4	u2015-11-04-1	s	Hungarian	Negative	negative	0.102	1	18	21	0	
+ParlaMint-HU_2015-11-04.seg21.1	u2015-11-04-1	s	Hungarian	Negative	negative	0.266	1	65	76	0	
+ParlaMint-HU_2015-11-04.seg22.1	u2015-11-04-1	s	Hungarian	Negative	negative	0.175	1	7	8	0	
+ParlaMint-HU_2015-11-04.seg22.2	u2015-11-04-1	s	Hungarian	Neutral	neutral negative	1.778	1	10	12	0	
+ParlaMint-HU_2015-11-04.seg22.3	u2015-11-04-1	s	Hungarian	Neutral	neutral negative	2.080	1	28	32	2	
+ParlaMint-HU_2015-11-04.seg22.4	u2015-11-04-1	s	Hungarian	Negative	mixed negative	0.611	1	27	30	1	
+ParlaMint-HU_2015-11-04.seg23.1	u2015-11-04-1	s	Hungarian	Negative	mixed negative	1.176	1	41	46	0	
+ParlaMint-HU_2015-11-04.seg23.2	u2015-11-04-1	s	Hungarian	Negative	negative	0.248	1	27	29	1	
+ParlaMint-HU_2015-11-04.seg24.1	u2015-11-04-1	s	Hungarian	Neutral	neutral negative	1.801	1	33	38	0	
+ParlaMint-HU_2015-11-04.seg24.2	u2015-11-04-1	s	Hungarian	Negative	negative	0.204	1	35	41	0	
+ParlaMint-HU_2015-11-04.seg24.3	u2015-11-04-1	s	Hungarian	Positive	mixed positive	3.663	1	17	20	2	
+ParlaMint-HU_2015-11-04.seg24.4	u2015-11-04-1	s	Hungarian	Positive	mixed positive	4.335	1	38	43	0	
+ParlaMint-HU_2015-11-04.seg24.5	u2015-11-04-1	s	Hungarian	Positive	positive	5.005	1	32	37	1	
+ParlaMint-HU_2015-11-04.seg25.1	u2015-11-04-1	s	Hungarian	Positive	positive	4.630	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg25.2	u2015-11-04-1	s	Hungarian	Neutral	neutral postive	3.368	1	9	10	1	
+ParlaMint-HU_2015-11-04.seg25.3	u2015-11-04-1	s	Hungarian	Positive	mixed positive	3.616	1	31	34	0	
+ParlaMint-HU_2015-11-04.seg26.1	u2015-11-04-1	s	Hungarian	Neutral	neutral negative	2.344	1	10	11	1	
+ParlaMint-HU_2015-11-04.seg26.2	u2015-11-04-1	s	Hungarian	Positive	mixed positive	4.197	1	27	30	1	
+ParlaMint-HU_2015-11-04.seg27.1	u2015-11-04-1	s	Hungarian	Positive	positive	4.942	1	41	45	0	
+ParlaMint-HU_2015-11-04.seg27.2	u2015-11-04-1	s	Hungarian	Positive	mixed positive	3.866	1	14	16	0	
+ParlaMint-HU_2015-11-04.seg27.3	u2015-11-04-1	s	Hungarian	Positive	positive	5.011	1	25	29	1	
+ParlaMint-HU_2015-11-04.seg28.1	u2015-11-04-1	s	Hungarian	Positive	mixed positive	4.060	1	31	35	0	
+ParlaMint-HU_2015-11-04.seg28.2	u2015-11-04-1	s	Hungarian	Neutral	neutral postive	3.381	1	18	21	0	
+ParlaMint-HU_2015-11-04.seg28.3	u2015-11-04-1	s	Hungarian	Neutral	neutral postive	3.214	1	16	18	0	
+ParlaMint-HU_2015-11-04.seg28.4	u2015-11-04-1	s	Hungarian	Positive	mixed positive	4.290	1	23	29	1	
+ParlaMint-HU_2015-11-04.seg29.1	u2015-11-04-1	s	Hungarian	Positive	positive	4.963	1	37	43	1	
+ParlaMint-HU_2015-11-04.seg30.1	u2015-11-04-1	s	Hungarian	Neutral	neutral postive	2.962	1	20	22	2	
+ParlaMint-HU_2015-11-04.seg30.2	u2015-11-04-1	s	Hungarian	Negative	negative	0.310	1	19	23	0	
+ParlaMint-HU_2015-11-04.seg30.3	u2015-11-04-1	s	Hungarian	Neutral	neutral postive	2.792	1	33	38	0	
+ParlaMint-HU_2015-11-04.seg30.4	u2015-11-04-1	s	Hungarian	Positive	mixed positive	4.427	1	12	13	0	
+ParlaMint-HU_2015-11-04.seg31.1	u2015-11-04-1	s	Hungarian	Positive	positive	4.640	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg31.2	u2015-11-04-1	s	Hungarian	Positive	mixed positive	4.407	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg31.3	u2015-11-04-1	s	Hungarian	Positive	positive	5.530	1	23	25	2	
+ParlaMint-HU_2015-11-04.seg31.4	u2015-11-04-1	s	Hungarian	Neutral	neutral negative	2.092	1	35	40	0	
+ParlaMint-HU_2015-11-04.seg31.5	u2015-11-04-1	s	Hungarian	Neutral	neutral postive	2.980	1	28	33	0	
+ParlaMint-HU_2015-11-04.seg32.1	u2015-11-04-1	s	Hungarian	Neutral	neutral postive	3.063	1	14	15	1	
+ParlaMint-HU_2015-11-04.seg32.2	u2015-11-04-1	s	Hungarian	Positive	positive	5.342	1	18	21	2	
+ParlaMint-HU_2015-11-04.seg32.3	u2015-11-04-1	s	Hungarian	Positive	mixed positive	3.983	1	39	45	1	
+ParlaMint-HU_2015-11-04.seg32.4	u2015-11-04-1	s	Hungarian	Positive	positive	5.383	1	25	30	0	
+ParlaMint-HU_2015-11-04.seg33.1	u2015-11-04-1	s	Hungarian	Positive	positive	4.526	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg33.2	u2015-11-04-1	s	Hungarian	Positive	mixed positive	4.057	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg33.3	u2015-11-04-1	s	Hungarian	Positive	positive	4.857	1	27	33	1	
+ParlaMint-HU_2015-11-04.seg33.4	u2015-11-04-1	s	Hungarian	Negative	mixed negative	0.529	1	30	34	0	
+ParlaMint-HU_2015-11-04.seg33.5	u2015-11-04-1	s	Hungarian	Neutral	neutral negative	1.556	1	18	20	1	
+ParlaMint-HU_2015-11-04.seg33.6	u2015-11-04-1	s	Hungarian	Negative	mixed negative	0.804	1	19	21	0	
+ParlaMint-HU_2015-11-04.seg34.1	u2015-11-04-1	s	Hungarian	Positive	positive	4.591	1	15	18	0	
+ParlaMint-HU_2015-11-04.seg34.2	u2015-11-04-1	s	Hungarian	Neutral	neutral negative	1.756	1	20	23	0	
+ParlaMint-HU_2015-11-04.seg34.3	u2015-11-04-1	s	Hungarian	Positive	positive	4.713	1	84	96	0	
+ParlaMint-HU_2015-11-04.seg35.1	u2015-11-04-1	s	Hungarian	Positive	mixed positive	3.845	1	24	27	0	
+ParlaMint-HU_2015-11-04.seg35.2	u2015-11-04-1	s	Hungarian	Positive	positive	5.162	1	28	34	0	
+ParlaMint-HU_2015-11-04.seg35.3	u2015-11-04-1	s	Hungarian	Positive	mixed positive	3.799	1	23	27	0	
+ParlaMint-HU_2015-11-04.seg35.4	u2015-11-04-1	s	Hungarian	Positive	mixed positive	4.444	1	29	33	2	
+ParlaMint-HU_2015-11-04.seg36.1	u2015-11-04-1	s	Hungarian	Positive	positive	4.798	1	48	57	1	
+ParlaMint-HU_2015-11-04.seg37.1	u2015-11-04-1	s	Hungarian	Positive	mixed positive	4.466	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg37.2	u2015-11-04-1	s	Hungarian	Positive	mixed positive	4.496	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg37.3	u2015-11-04-1	s	Hungarian	Positive	positive	4.559	1	40	48	2	
+ParlaMint-HU_2015-11-04.seg37.4	u2015-11-04-1	s	Hungarian	Positive	mixed positive	4.313	1	27	31	2	
+ParlaMint-HU_2015-11-04.seg38.1	u2015-11-04-1	s	Hungarian	Negative	mixed negative	1.203	1	46	53	2	
+ParlaMint-HU_2015-11-04.seg38.2	u2015-11-04-1	s	Hungarian	Negative	negative	0.280	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg38.3	u2015-11-04-1	s	Hungarian	Negative	negative	0.478	1	22	24	1	
+ParlaMint-HU_2015-11-04.seg39.1	u2015-11-04-1	s	Hungarian	Positive	mixed positive	4.407	1	11	12	1	
+ParlaMint-HU_2015-11-04.seg39.2	u2015-11-04-1	s	Hungarian	Positive	positive	4.629	1	28	31	2	
+ParlaMint-HU_2015-11-04.seg39.3	u2015-11-04-1	s	Hungarian	Positive	positive	4.524	1	29	34	1	
+ParlaMint-HU_2015-11-04.seg39.4	u2015-11-04-1	s	Hungarian	Positive	positive	4.971	1	45	50	3	
+ParlaMint-HU_2015-11-04.seg39.5	u2015-11-04-1	s	Hungarian	Positive	mixed positive	4.380	1	51	60	2	
+ParlaMint-HU_2015-11-04.seg40.1	u2015-11-04-1	s	Hungarian	Positive	mixed positive	4.087	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg40.2	u2015-11-04-1	s	Hungarian	Positive	mixed positive	4.466	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg40.3	u2015-11-04-1	s	Hungarian	Positive	mixed positive	4.238	1	4	5	0	
+u2015-11-04-2	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	5	55	68	7	
+ParlaMint-HU_2015-11-04.seg41.1	u2015-11-04-2	s	Hungarian	Positive	mixed positive	4.304	1	3	5	0	
+ParlaMint-HU_2015-11-04.seg41.2	u2015-11-04-2	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2015-11-04.seg41.3	u2015-11-04-2	s	Hungarian	Neutral	neutral negative	2.374	1	30	35	4	
+ParlaMint-HU_2015-11-04.seg42.1	u2015-11-04-2	s	Hungarian	Neutral	neutral postive	3.106	1	17	21	2	
+ParlaMint-HU_2015-11-04.seg42.2	u2015-11-04-2	s	Hungarian	Positive	mixed positive	3.585	1	3	4	0	
+u2015-11-04-3	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	57	1827	2110	37	
+ParlaMint-HU_2015-11-04.seg43.1	u2015-11-04-3	s	Hungarian	Positive	mixed positive	4.276	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg43.2	u2015-11-04-3	s	Hungarian	Positive	mixed positive	4.466	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg43.3	u2015-11-04-3	s	Hungarian	Positive	mixed positive	4.084	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg43.4	u2015-11-04-3	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg43.5	u2015-11-04-3	s	Hungarian	Neutral	neutral postive	2.877	1	24	26	3	
+ParlaMint-HU_2015-11-04.seg43.6	u2015-11-04-3	s	Hungarian	Neutral	neutral negative	2.168	1	18	21	2	
+ParlaMint-HU_2015-11-04.seg43.7	u2015-11-04-3	s	Hungarian	Neutral	neutral negative	1.937	1	42	46	1	
+ParlaMint-HU_2015-11-04.seg44.1	u2015-11-04-3	s	Hungarian	Neutral	neutral postive	3.171	1	31	36	1	
+ParlaMint-HU_2015-11-04.seg44.2	u2015-11-04-3	s	Hungarian	Negative	mixed negative	1.196	1	33	39	0	
+ParlaMint-HU_2015-11-04.seg45.1	u2015-11-04-3	s	Hungarian	Negative	negative	0.209	1	60	70	1	
+ParlaMint-HU_2015-11-04.seg46.1	u2015-11-04-3	s	Hungarian	Negative	negative	0.310	1	76	88	3	
+ParlaMint-HU_2015-11-04.seg46.2	u2015-11-04-3	s	Hungarian	Positive	mixed positive	4.202	1	38	42	1	
+ParlaMint-HU_2015-11-04.seg46.3	u2015-11-04-3	s	Hungarian	Positive	mixed positive	3.819	1	21	25	0	
+ParlaMint-HU_2015-11-04.seg46.4	u2015-11-04-3	s	Hungarian	Positive	mixed positive	4.005	1	73	84	3	
+ParlaMint-HU_2015-11-04.seg46.5	u2015-11-04-3	s	Hungarian	Neutral	neutral postive	3.377	1	9	10	0	
+ParlaMint-HU_2015-11-04.seg46.6	u2015-11-04-3	s	Hungarian	Positive	mixed positive	4.405	1	17	20	0	
+ParlaMint-HU_2015-11-04.seg46.7	u2015-11-04-3	s	Hungarian	Positive	positive	5.147	1	31	37	0	
+ParlaMint-HU_2015-11-04.seg46.8	u2015-11-04-3	s	Hungarian	Neutral	neutral postive	2.991	1	46	53	2	
+ParlaMint-HU_2015-11-04.seg46.9	u2015-11-04-3	s	Hungarian	Positive	positive	4.770	1	11	13	0	
+ParlaMint-HU_2015-11-04.seg46.10	u2015-11-04-3	s	Hungarian	Positive	positive	4.934	1	14	16	1	
+ParlaMint-HU_2015-11-04.seg46.11	u2015-11-04-3	s	Hungarian	Positive	positive	5.200	1	22	24	1	
+ParlaMint-HU_2015-11-04.seg47.1	u2015-11-04-3	s	Hungarian	Positive	positive	5.213	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg47.2	u2015-11-04-3	s	Hungarian	Positive	positive	5.184	1	27	30	0	
+ParlaMint-HU_2015-11-04.seg48.1	u2015-11-04-3	s	Hungarian	Positive	mixed positive	4.351	1	30	35	0	
+ParlaMint-HU_2015-11-04.seg48.2	u2015-11-04-3	s	Hungarian	Positive	mixed positive	4.092	1	23	27	0	
+ParlaMint-HU_2015-11-04.seg49.1	u2015-11-04-3	s	Hungarian	Positive	positive	5.309	1	16	18	0	
+ParlaMint-HU_2015-11-04.seg50.1	u2015-11-04-3	s	Hungarian	Positive	positive	4.782	1	75	86	0	
+ParlaMint-HU_2015-11-04.seg50.2	u2015-11-04-3	s	Hungarian	Positive	positive	4.964	1	16	18	0	
+ParlaMint-HU_2015-11-04.seg50.3	u2015-11-04-3	s	Hungarian	Positive	positive	5.021	1	46	53	1	
+ParlaMint-HU_2015-11-04.seg50.4	u2015-11-04-3	s	Hungarian	Neutral	neutral postive	3.182	1	42	49	1	
+ParlaMint-HU_2015-11-04.seg50.5	u2015-11-04-3	s	Hungarian	Positive	positive	5.115	1	34	39	1	
+ParlaMint-HU_2015-11-04.seg51.1	u2015-11-04-3	s	Hungarian	Positive	mixed positive	4.166	1	23	28	0	
+ParlaMint-HU_2015-11-04.seg51.2	u2015-11-04-3	s	Hungarian	Negative	negative	0.245	1	56	68	0	
+ParlaMint-HU_2015-11-04.seg52.1	u2015-11-04-3	s	Hungarian	Negative	negative	0.383	1	41	45	0	
+ParlaMint-HU_2015-11-04.seg52.2	u2015-11-04-3	s	Hungarian	Negative	negative	0.209	1	30	34	1	
+ParlaMint-HU_2015-11-04.seg53.1	u2015-11-04-3	s	Hungarian	Positive	positive	5.322	1	18	20	0	
+ParlaMint-HU_2015-11-04.seg53.2	u2015-11-04-3	s	Hungarian	Positive	mixed positive	3.935	1	28	32	0	
+ParlaMint-HU_2015-11-04.seg54.1	u2015-11-04-3	s	Hungarian	Positive	mixed positive	4.029	1	74	86	3	
+ParlaMint-HU_2015-11-04.seg55.1	u2015-11-04-3	s	Hungarian	Positive	mixed positive	4.407	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg55.2	u2015-11-04-3	s	Hungarian	Neutral	neutral postive	3.436	1	23	25	2	
+ParlaMint-HU_2015-11-04.seg55.3	u2015-11-04-3	s	Hungarian	Positive	positive	4.711	1	18	20	1	
+ParlaMint-HU_2015-11-04.seg55.4	u2015-11-04-3	s	Hungarian	Positive	mixed positive	4.402	1	71	85	0	
+ParlaMint-HU_2015-11-04.seg56.1	u2015-11-04-3	s	Hungarian	Positive	positive	5.525	1	42	50	1	
+ParlaMint-HU_2015-11-04.seg57.1	u2015-11-04-3	s	Hungarian	Positive	mixed positive	3.529	1	21	23	1	
+ParlaMint-HU_2015-11-04.seg57.2	u2015-11-04-3	s	Hungarian	Neutral	neutral negative	1.632	1	27	32	0	
+ParlaMint-HU_2015-11-04.seg58.1	u2015-11-04-3	s	Hungarian	Negative	mixed negative	0.535	1	16	19	0	
+ParlaMint-HU_2015-11-04.seg58.2	u2015-11-04-3	s	Hungarian	Negative	mixed negative	0.532	1	18	22	0	
+ParlaMint-HU_2015-11-04.seg58.3	u2015-11-04-3	s	Hungarian	Positive	positive	4.993	1	42	49	0	
+ParlaMint-HU_2015-11-04.seg59.1	u2015-11-04-3	s	Hungarian	Positive	positive	4.602	1	55	62	0	
+ParlaMint-HU_2015-11-04.seg60.1	u2015-11-04-3	s	Hungarian	Neutral	neutral negative	2.456	1	36	43	0	
+ParlaMint-HU_2015-11-04.seg60.2	u2015-11-04-3	s	Hungarian	Positive	positive	5.216	1	25	30	0	
+ParlaMint-HU_2015-11-04.seg61.1	u2015-11-04-3	s	Hungarian	Positive	positive	4.933	1	113	128	1	
+ParlaMint-HU_2015-11-04.seg62.1	u2015-11-04-3	s	Hungarian	Positive	mixed positive	4.394	1	15	17	1	
+ParlaMint-HU_2015-11-04.seg62.2	u2015-11-04-3	s	Hungarian	Positive	positive	5.315	1	30	35	1	
+ParlaMint-HU_2015-11-04.seg62.3	u2015-11-04-3	s	Hungarian	Positive	positive	5.123	1	92	104	2	
+ParlaMint-HU_2015-11-04.seg62.4	u2015-11-04-3	s	Hungarian	Positive	positive	4.511	1	11	13	1	
+ParlaMint-HU_2015-11-04.seg63.1	u2015-11-04-3	s	Hungarian	Positive	mixed positive	4.031	1	5	7	0	
+u2015-11-04-4	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	8	62	75	7	
+ParlaMint-HU_2015-11-04.seg64.1	u2015-11-04-4	s	Hungarian	Positive	mixed positive	4.095	1	7	9	1	
+ParlaMint-HU_2015-11-04.seg64.2	u2015-11-04-4	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2015-11-04.seg64.3	u2015-11-04-4	s	Hungarian	Positive	mixed positive	4.099	1	12	14	1	
+ParlaMint-HU_2015-11-04.seg64.4	u2015-11-04-4	s	Hungarian	Neutral	neutral negative	1.705	1	16	19	1	
+ParlaMint-HU_2015-11-04.seg65.1	u2015-11-04-4	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2015-11-04.seg65.2	u2015-11-04-4	s	Hungarian	Neutral	neutral postive	2.920	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg65.3	u2015-11-04-4	s	Hungarian	Neutral	neutral postive	2.756	1	8	9	0	
+ParlaMint-HU_2015-11-04.seg65.4	u2015-11-04-4	s	Hungarian	Neutral	neutral postive	3.223	1	10	12	2	
+u2015-11-04-5	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	27	804	925	24	
+ParlaMint-HU_2015-11-04.seg66.1	u2015-11-04-5	s	Hungarian	Positive	mixed positive	4.276	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg66.2	u2015-11-04-5	s	Hungarian	Positive	mixed positive	4.466	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg66.3	u2015-11-04-5	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg66.4	u2015-11-04-5	s	Hungarian	Neutral	neutral postive	3.459	1	48	53	4	
+ParlaMint-HU_2015-11-04.seg67.1	u2015-11-04-5	s	Hungarian	Neutral	neutral postive	3.196	1	20	24	0	
+ParlaMint-HU_2015-11-04.seg68.1	u2015-11-04-5	s	Hungarian	Positive	positive	4.560	1	35	39	1	
+ParlaMint-HU_2015-11-04.seg68.2	u2015-11-04-5	s	Hungarian	Positive	mixed positive	3.563	1	26	30	0	
+ParlaMint-HU_2015-11-04.seg68.3	u2015-11-04-5	s	Hungarian	Neutral	neutral postive	2.588	1	22	26	0	
+ParlaMint-HU_2015-11-04.seg69.1	u2015-11-04-5	s	Hungarian	Positive	mixed positive	3.599	1	55	60	2	
+ParlaMint-HU_2015-11-04.seg70.1	u2015-11-04-5	s	Hungarian	Positive	positive	5.379	1	25	27	0	
+ParlaMint-HU_2015-11-04.seg70.2	u2015-11-04-5	s	Hungarian	Negative	negative	0.283	1	46	55	0	
+ParlaMint-HU_2015-11-04.seg71.1	u2015-11-04-5	s	Hungarian	Negative	negative	0.204	1	56	63	1	
+ParlaMint-HU_2015-11-04.seg71.2	u2015-11-04-5	s	Hungarian	Positive	positive	4.762	1	27	31	0	
+ParlaMint-HU_2015-11-04.seg72.1	u2015-11-04-5	s	Hungarian	Positive	positive	5.068	1	26	29	0	
+ParlaMint-HU_2015-11-04.seg73.1	u2015-11-04-5	s	Hungarian	Positive	positive	4.913	1	106	121	4	
+ParlaMint-HU_2015-11-04.seg73.2	u2015-11-04-5	s	Hungarian	Negative	negative	0.171	1	34	40	1	
+ParlaMint-HU_2015-11-04.seg74.1	u2015-11-04-5	s	Hungarian	Neutral	neutral negative	2.237	1	10	13	1	
+ParlaMint-HU_2015-11-04.seg74.2	u2015-11-04-5	s	Hungarian	Negative	negative	0.357	1	23	26	2	
+ParlaMint-HU_2015-11-04.seg74.3	u2015-11-04-5	s	Hungarian	Negative	negative	0.174	1	17	20	2	
+ParlaMint-HU_2015-11-04.seg74.4	u2015-11-04-5	s	Hungarian	Negative	negative	0.096	1	15	18	0	
+ParlaMint-HU_2015-11-04.seg75.1	u2015-11-04-5	s	Hungarian	Negative	negative	0.102	1	32	37	0	
+ParlaMint-HU_2015-11-04.seg75.2	u2015-11-04-5	s	Hungarian	Positive	positive	5.073	1	57	67	4	
+ParlaMint-HU_2015-11-04.seg76.1	u2015-11-04-5	s	Hungarian	Positive	positive	5.033	1	38	45	0	
+ParlaMint-HU_2015-11-04.seg76.2	u2015-11-04-5	s	Hungarian	Positive	positive	5.253	1	46	52	0	
+ParlaMint-HU_2015-11-04.seg76.3	u2015-11-04-5	s	Hungarian	Positive	positive	4.528	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg77.1	u2015-11-04-5	s	Hungarian	Positive	mixed positive	3.933	1	20	23	2	
+ParlaMint-HU_2015-11-04.seg77.2	u2015-11-04-5	s	Hungarian	Positive	mixed positive	4.186	1	9	11	0	
+u2015-11-04-6	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	5	34	41	4	
+ParlaMint-HU_2015-11-04.seg78.1	u2015-11-04-6	s	Hungarian	Positive	positive	4.696	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg78.2	u2015-11-04-6	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2015-11-04.seg78.3	u2015-11-04-6	s	Hungarian	Neutral	neutral postive	2.859	1	12	14	1	
+ParlaMint-HU_2015-11-04.seg78.4	u2015-11-04-6	s	Hungarian	Neutral	neutral postive	3.023	1	10	12	1	
+ParlaMint-HU_2015-11-04.seg78.5	u2015-11-04-6	s	Hungarian	Neutral	neutral postive	3.324	1	8	9	1	
+u2015-11-04-7	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	52	1248	1457	38	
+ParlaMint-HU_2015-11-04.seg79.1	u2015-11-04-7	s	Hungarian	Positive	mixed positive	4.010	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg79.2	u2015-11-04-7	s	Hungarian	Positive	mixed positive	4.466	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg79.3	u2015-11-04-7	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg79.4	u2015-11-04-7	s	Hungarian	Negative	mixed negative	0.742	1	13	16	1	
+ParlaMint-HU_2015-11-04.seg79.5	u2015-11-04-7	s	Hungarian	Negative	mixed negative	0.784	1	33	38	1	
+ParlaMint-HU_2015-11-04.seg79.6	u2015-11-04-7	s	Hungarian	Negative	mixed negative	1.420	1	20	24	2	
+ParlaMint-HU_2015-11-04.seg79.7	u2015-11-04-7	s	Hungarian	Neutral	neutral negative	2.144	1	34	38	3	
+ParlaMint-HU_2015-11-04.seg79.8	u2015-11-04-7	s	Hungarian	Neutral	neutral postive	2.953	1	29	35	1	
+ParlaMint-HU_2015-11-04.seg79.9	u2015-11-04-7	s	Hungarian	Neutral	neutral negative	2.338	1	6	10	0	
+ParlaMint-HU_2015-11-04.seg79.10	u2015-11-04-7	s	Hungarian	Neutral	neutral negative	2.123	1	20	29	0	
+ParlaMint-HU_2015-11-04.seg79.11	u2015-11-04-7	s	Hungarian	Negative	negative	0.169	1	40	49	1	
+ParlaMint-HU_2015-11-04.seg80.1	u2015-11-04-7	s	Hungarian	Negative	negative	0.199	1	21	24	2	
+ParlaMint-HU_2015-11-04.seg80.2	u2015-11-04-7	s	Hungarian	Negative	mixed negative	0.526	1	24	28	0	
+ParlaMint-HU_2015-11-04.seg81.1	u2015-11-04-7	s	Hungarian	Negative	mixed negative	0.705	1	26	30	1	
+ParlaMint-HU_2015-11-04.seg81.2	u2015-11-04-7	s	Hungarian	Negative	mixed negative	0.503	1	16	19	0	
+ParlaMint-HU_2015-11-04.seg81.3	u2015-11-04-7	s	Hungarian	Negative	negative	0.259	1	16	18	0	
+ParlaMint-HU_2015-11-04.seg82.1	u2015-11-04-7	s	Hungarian	Negative	negative	0.197	1	43	49	1	
+ParlaMint-HU_2015-11-04.seg82.2	u2015-11-04-7	s	Hungarian	Negative	negative	0.361	1	22	24	1	
+ParlaMint-HU_2015-11-04.seg82.3	u2015-11-04-7	s	Hungarian	Negative	mixed negative	1.330	1	15	17	0	
+ParlaMint-HU_2015-11-04.seg83.1	u2015-11-04-7	s	Hungarian	Neutral	neutral negative	2.172	1	58	62	2	
+ParlaMint-HU_2015-11-04.seg83.2	u2015-11-04-7	s	Hungarian	Negative	mixed negative	0.757	1	37	44	1	
+ParlaMint-HU_2015-11-04.seg83.3	u2015-11-04-7	s	Hungarian	Negative	mixed negative	0.804	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg83.4	u2015-11-04-7	s	Hungarian	Neutral	neutral negative	1.765	1	18	20	1	
+ParlaMint-HU_2015-11-04.seg84.1	u2015-11-04-7	s	Hungarian	Positive	mixed positive	3.566	1	11	12	1	
+ParlaMint-HU_2015-11-04.seg84.2	u2015-11-04-7	s	Hungarian	Neutral	neutral negative	2.488	1	31	35	0	
+ParlaMint-HU_2015-11-04.seg84.3	u2015-11-04-7	s	Hungarian	Neutral	neutral negative	1.974	1	18	20	1	
+ParlaMint-HU_2015-11-04.seg84.4	u2015-11-04-7	s	Hungarian	Negative	mixed negative	1.295	1	43	52	2	
+ParlaMint-HU_2015-11-04.seg85.1	u2015-11-04-7	s	Hungarian	Neutral	neutral negative	2.389	1	60	69	0	
+ParlaMint-HU_2015-11-04.seg85.2	u2015-11-04-7	s	Hungarian	Neutral	neutral negative	2.281	1	23	26	1	
+ParlaMint-HU_2015-11-04.seg86.1	u2015-11-04-7	s	Hungarian	Positive	mixed positive	4.298	1	37	43	1	
+ParlaMint-HU_2015-11-04.seg86.2	u2015-11-04-7	s	Hungarian	Negative	negative	0.185	1	8	11	0	
+ParlaMint-HU_2015-11-04.seg86.3	u2015-11-04-7	s	Hungarian	Negative	mixed negative	0.625	1	17	19	1	
+ParlaMint-HU_2015-11-04.seg86.4	u2015-11-04-7	s	Hungarian	Neutral	neutral negative	1.623	1	11	13	0	
+ParlaMint-HU_2015-11-04.seg86.5	u2015-11-04-7	s	Hungarian	Negative	negative	0.285	1	25	30	0	
+ParlaMint-HU_2015-11-04.seg86.6	u2015-11-04-7	s	Hungarian	Negative	negative	0.262	1	28	32	1	
+ParlaMint-HU_2015-11-04.seg86.7	u2015-11-04-7	s	Hungarian	Neutral	neutral negative	2.455	1	45	51	2	
+ParlaMint-HU_2015-11-04.seg86.8	u2015-11-04-7	s	Hungarian	Negative	negative	0.275	1	24	27	0	
+ParlaMint-HU_2015-11-04.seg87.1	u2015-11-04-7	s	Hungarian	Negative	negative	0.341	1	18	21	0	
+ParlaMint-HU_2015-11-04.seg87.2	u2015-11-04-7	s	Hungarian	Neutral	neutral negative	2.059	1	11	13	0	
+ParlaMint-HU_2015-11-04.seg87.3	u2015-11-04-7	s	Hungarian	Neutral	neutral negative	1.608	1	54	64	1	
+ParlaMint-HU_2015-11-04.seg87.4	u2015-11-04-7	s	Hungarian	Negative	negative	0.382	1	18	20	0	
+ParlaMint-HU_2015-11-04.seg87.5	u2015-11-04-7	s	Hungarian	Negative	negative	0.259	1	45	55	0	
+ParlaMint-HU_2015-11-04.seg87.6	u2015-11-04-7	s	Hungarian	Negative	mixed negative	0.878	1	20	24	1	
+ParlaMint-HU_2015-11-04.seg88.1	u2015-11-04-7	s	Hungarian	Negative	negative	0.351	1	49	56	2	
+ParlaMint-HU_2015-11-04.seg88.2	u2015-11-04-7	s	Hungarian	Negative	negative	0.281	1	38	46	0	
+ParlaMint-HU_2015-11-04.seg89.1	u2015-11-04-7	s	Hungarian	Negative	negative	0.307	1	31	36	1	
+ParlaMint-HU_2015-11-04.seg89.2	u2015-11-04-7	s	Hungarian	Negative	negative	0.289	1	14	16	2	
+ParlaMint-HU_2015-11-04.seg89.3	u2015-11-04-7	s	Hungarian	Positive	mixed positive	4.061	1	12	15	0	
+ParlaMint-HU_2015-11-04.seg90.1	u2015-11-04-7	s	Hungarian	Negative	negative	0.290	1	16	17	1	
+ParlaMint-HU_2015-11-04.seg90.2	u2015-11-04-7	s	Hungarian	Negative	negative	0.281	1	32	36	2	
+ParlaMint-HU_2015-11-04.seg90.3	u2015-11-04-7	s	Hungarian	Positive	mixed positive	4.130	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg90.4	u2015-11-04-7	s	Hungarian	Positive	mixed positive	4.384	1	4	5	0	
+u2015-11-04-8	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	2	14	18	2	
+ParlaMint-HU_2015-11-04.seg91.1	u2015-11-04-8	s	Hungarian	Positive	positive	4.506	1	4	6	0	
+ParlaMint-HU_2015-11-04.seg91.2	u2015-11-04-8	s	Hungarian	Positive	mixed positive	3.619	1	10	12	2	
+u2015-11-04-9	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	72	1773	2075	84	
+ParlaMint-HU_2015-11-04.seg92.1	u2015-11-04-9	s	Hungarian	Positive	mixed positive	4.046	1	5	7	0	
+ParlaMint-HU_2015-11-04.seg92.2	u2015-11-04-9	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg92.3	u2015-11-04-9	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg92.4	u2015-11-04-9	s	Hungarian	Positive	mixed positive	4.206	1	6	7	1	
+ParlaMint-HU_2015-11-04.seg92.5	u2015-11-04-9	s	Hungarian	Negative	negative	0.218	1	21	24	2	
+ParlaMint-HU_2015-11-04.seg92.6	u2015-11-04-9	s	Hungarian	Negative	negative	0.155	1	28	32	2	
+ParlaMint-HU_2015-11-04.seg92.7	u2015-11-04-9	s	Hungarian	Negative	negative	0.304	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg93.1	u2015-11-04-9	s	Hungarian	Negative	negative	0.181	1	83	95	4	
+ParlaMint-HU_2015-11-04.seg93.2	u2015-11-04-9	s	Hungarian	Negative	negative	0.142	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg94.1	u2015-11-04-9	s	Hungarian	Positive	mixed positive	4.382	1	26	31	3	
+ParlaMint-HU_2015-11-04.seg94.2	u2015-11-04-9	s	Hungarian	Negative	mixed negative	0.909	1	31	37	1	
+ParlaMint-HU_2015-11-04.seg95.1	u2015-11-04-9	s	Hungarian	Negative	negative	0.452	1	46	53	1	
+ParlaMint-HU_2015-11-04.seg95.2	u2015-11-04-9	s	Hungarian	Negative	negative	0.343	1	59	66	3	
+ParlaMint-HU_2015-11-04.seg95.3	u2015-11-04-9	s	Hungarian	Negative	negative	0.136	1	27	32	1	
+ParlaMint-HU_2015-11-04.seg95.4	u2015-11-04-9	s	Hungarian	Neutral	neutral postive	2.561	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg95.5	u2015-11-04-9	s	Hungarian	Negative	negative	0.093	1	28	31	1	
+ParlaMint-HU_2015-11-04.seg95.6	u2015-11-04-9	s	Hungarian	Positive	positive	4.687	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg96.1	u2015-11-04-9	s	Hungarian	Neutral	neutral postive	2.661	1	21	24	1	
+ParlaMint-HU_2015-11-04.seg96.2	u2015-11-04-9	s	Hungarian	Neutral	neutral postive	3.415	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg96.3	u2015-11-04-9	s	Hungarian	Negative	mixed negative	1.222	1	20	24	1	
+ParlaMint-HU_2015-11-04.seg97.1	u2015-11-04-9	s	Hungarian	Positive	mixed positive	4.370	1	40	48	4	
+ParlaMint-HU_2015-11-04.seg97.2	u2015-11-04-9	s	Hungarian	Negative	mixed negative	1.183	1	47	57	3	
+ParlaMint-HU_2015-11-04.seg97.3	u2015-11-04-9	s	Hungarian	Negative	negative	0.318	1	14	17	2	
+ParlaMint-HU_2015-11-04.seg98.1	u2015-11-04-9	s	Hungarian	Neutral	neutral postive	2.717	1	46	50	1	
+ParlaMint-HU_2015-11-04.seg98.2	u2015-11-04-9	s	Hungarian	Negative	mixed negative	1.413	1	17	19	1	
+ParlaMint-HU_2015-11-04.seg98.3	u2015-11-04-9	s	Hungarian	Neutral	neutral negative	2.099	1	54	61	2	
+ParlaMint-HU_2015-11-04.seg98.4	u2015-11-04-9	s	Hungarian	Positive	positive	4.813	1	12	13	0	
+ParlaMint-HU_2015-11-04.seg99.1	u2015-11-04-9	s	Hungarian	Neutral	neutral postive	3.085	1	7	8	1	
+ParlaMint-HU_2015-11-04.seg99.2	u2015-11-04-9	s	Hungarian	Neutral	neutral postive	3.258	1	16	18	1	
+ParlaMint-HU_2015-11-04.seg99.3	u2015-11-04-9	s	Hungarian	Neutral	neutral postive	3.005	1	6	8	0	
+ParlaMint-HU_2015-11-04.seg99.4	u2015-11-04-9	s	Hungarian	Neutral	neutral negative	2.136	1	56	63	5	
+ParlaMint-HU_2015-11-04.seg100.1	u2015-11-04-9	s	Hungarian	Negative	negative	0.205	1	29	33	1	
+ParlaMint-HU_2015-11-04.seg100.2	u2015-11-04-9	s	Hungarian	Negative	negative	0.359	1	42	47	4	
+ParlaMint-HU_2015-11-04.seg100.3	u2015-11-04-9	s	Hungarian	Neutral	neutral postive	2.665	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg100.4	u2015-11-04-9	s	Hungarian	Neutral	neutral postive	3.037	1	40	50	1	
+ParlaMint-HU_2015-11-04.seg101.1	u2015-11-04-9	s	Hungarian	Neutral	neutral negative	1.960	1	16	20	1	
+ParlaMint-HU_2015-11-04.seg101.2	u2015-11-04-9	s	Hungarian	Negative	mixed negative	1.181	1	62	74	4	
+ParlaMint-HU_2015-11-04.seg102.1	u2015-11-04-9	s	Hungarian	Negative	mixed negative	0.754	1	25	28	1	
+ParlaMint-HU_2015-11-04.seg102.2	u2015-11-04-9	s	Hungarian	Negative	mixed negative	1.411	1	27	33	0	
+ParlaMint-HU_2015-11-04.seg102.3	u2015-11-04-9	s	Hungarian	Negative	mixed negative	0.523	1	72	85	2	
+ParlaMint-HU_2015-11-04.seg103.1	u2015-11-04-9	s	Hungarian	Negative	mixed negative	1.101	1	29	34	2	
+ParlaMint-HU_2015-11-04.seg103.2	u2015-11-04-9	s	Hungarian	Neutral	neutral negative	2.209	1	20	23	1	
+ParlaMint-HU_2015-11-04.seg103.3	u2015-11-04-9	s	Hungarian	Neutral	neutral negative	1.657	1	15	18	0	
+ParlaMint-HU_2015-11-04.seg103.4	u2015-11-04-9	s	Hungarian	Negative	negative	0.477	1	9	10	0	
+ParlaMint-HU_2015-11-04.seg103.5	u2015-11-04-9	s	Hungarian	Negative	mixed negative	0.880	1	31	37	2	
+ParlaMint-HU_2015-11-04.seg104.1	u2015-11-04-9	s	Hungarian	Neutral	neutral postive	2.922	1	7	9	0	
+ParlaMint-HU_2015-11-04.seg104.2	u2015-11-04-9	s	Hungarian	Negative	negative	0.391	1	29	37	0	
+ParlaMint-HU_2015-11-04.seg104.3	u2015-11-04-9	s	Hungarian	Negative	negative	0.471	1	28	33	1	
+ParlaMint-HU_2015-11-04.seg104.4	u2015-11-04-9	s	Hungarian	Negative	negative	0.284	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg105.1	u2015-11-04-9	s	Hungarian	Negative	mixed negative	1.251	1	58	73	1	
+ParlaMint-HU_2015-11-04.seg106.1	u2015-11-04-9	s	Hungarian	Neutral	neutral postive	2.834	1	37	43	0	
+ParlaMint-HU_2015-11-04.seg106.2	u2015-11-04-9	s	Hungarian	Neutral	neutral postive	3.322	1	28	33	1	
+ParlaMint-HU_2015-11-04.seg106.3	u2015-11-04-9	s	Hungarian	Positive	positive	5.442	1	7	9	0	
+ParlaMint-HU_2015-11-04.seg106.4	u2015-11-04-9	s	Hungarian	Positive	mixed positive	3.792	1	12	13	0	
+ParlaMint-HU_2015-11-04.seg107.1	u2015-11-04-9	s	Hungarian	Negative	negative	0.144	1	15	18	1	
+ParlaMint-HU_2015-11-04.seg107.2	u2015-11-04-9	s	Hungarian	Negative	negative	0.275	1	12	14	0	
+ParlaMint-HU_2015-11-04.seg107.3	u2015-11-04-9	s	Hungarian	Neutral	neutral negative	1.907	1	32	37	1	
+ParlaMint-HU_2015-11-04.seg107.4	u2015-11-04-9	s	Hungarian	Neutral	neutral negative	1.985	1	32	38	2	
+ParlaMint-HU_2015-11-04.seg107.5	u2015-11-04-9	s	Hungarian	Neutral	neutral postive	2.815	1	5	7	0	
+ParlaMint-HU_2015-11-04.seg107.6	u2015-11-04-9	s	Hungarian	Neutral	neutral postive	2.573	1	31	35	4	
+ParlaMint-HU_2015-11-04.seg107.7	u2015-11-04-9	s	Hungarian	Neutral	neutral negative	1.760	1	29	34	3	
+ParlaMint-HU_2015-11-04.seg108.1	u2015-11-04-9	s	Hungarian	Neutral	neutral postive	2.580	1	30	35	2	
+ParlaMint-HU_2015-11-04.seg109.1	u2015-11-04-9	s	Hungarian	Negative	negative	0.459	1	34	37	1	
+ParlaMint-HU_2015-11-04.seg109.2	u2015-11-04-9	s	Hungarian	Negative	negative	0.079	1	7	8	0	
+ParlaMint-HU_2015-11-04.seg109.3	u2015-11-04-9	s	Hungarian	Negative	mixed negative	0.826	1	18	20	1	
+ParlaMint-HU_2015-11-04.seg109.4	u2015-11-04-9	s	Hungarian	Negative	negative	0.299	1	39	44	2	
+ParlaMint-HU_2015-11-04.seg109.5	u2015-11-04-9	s	Hungarian	Negative	negative	0.492	1	6	8	0	
+ParlaMint-HU_2015-11-04.seg110.1	u2015-11-04-9	s	Hungarian	Neutral	neutral postive	2.608	1	42	49	1	
+ParlaMint-HU_2015-11-04.seg110.2	u2015-11-04-9	s	Hungarian	Negative	negative	0.260	1	8	9	0	
+ParlaMint-HU_2015-11-04.seg111.1	u2015-11-04-9	s	Hungarian	Negative	negative	0.402	1	51	61	2	
+ParlaMint-HU_2015-11-04.seg111.2	u2015-11-04-9	s	Hungarian	Negative	negative	0.260	1	9	10	1	
+ParlaMint-HU_2015-11-04.seg111.3	u2015-11-04-9	s	Hungarian	Positive	mixed positive	4.384	1	4	5	0	
+u2015-11-04-10	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	2	19	23	3	
+ParlaMint-HU_2015-11-04.seg112.1	u2015-11-04-10	s	Hungarian	Positive	mixed positive	4.498	1	6	8	1	
+ParlaMint-HU_2015-11-04.seg112.2	u2015-11-04-10	s	Hungarian	Neutral	neutral postive	3.443	1	13	15	2	
+u2015-11-04-11	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	39	889	1028	26	
+ParlaMint-HU_2015-11-04.seg113.1	u2015-11-04-11	s	Hungarian	Positive	mixed positive	4.334	1	6	8	0	
+ParlaMint-HU_2015-11-04.seg113.2	u2015-11-04-11	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg113.3	u2015-11-04-11	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg113.4	u2015-11-04-11	s	Hungarian	Positive	positive	4.655	1	18	19	1	
+ParlaMint-HU_2015-11-04.seg114.1	u2015-11-04-11	s	Hungarian	Neutral	neutral postive	3.128	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg115.1	u2015-11-04-11	s	Hungarian	Negative	negative	0.167	1	46	51	3	
+ParlaMint-HU_2015-11-04.seg116.1	u2015-11-04-11	s	Hungarian	Negative	negative	0.376	1	22	24	1	
+ParlaMint-HU_2015-11-04.seg117.1	u2015-11-04-11	s	Hungarian	Neutral	neutral negative	2.330	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg118.1	u2015-11-04-11	s	Hungarian	Negative	negative	0.409	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg119.1	u2015-11-04-11	s	Hungarian	Negative	negative	0.357	1	26	31	0	
+ParlaMint-HU_2015-11-04.seg120.1	u2015-11-04-11	s	Hungarian	Positive	positive	4.613	1	7	9	0	
+ParlaMint-HU_2015-11-04.seg121.1	u2015-11-04-11	s	Hungarian	Positive	positive	4.609	1	24	29	3	
+ParlaMint-HU_2015-11-04.seg121.2	u2015-11-04-11	s	Hungarian	Neutral	neutral postive	2.520	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg122.1	u2015-11-04-11	s	Hungarian	Positive	mixed positive	3.868	1	20	23	0	
+ParlaMint-HU_2015-11-04.seg122.2	u2015-11-04-11	s	Hungarian	Neutral	neutral postive	2.764	1	22	24	0	
+ParlaMint-HU_2015-11-04.seg122.3	u2015-11-04-11	s	Hungarian	Neutral	neutral postive	2.798	1	15	17	0	
+ParlaMint-HU_2015-11-04.seg123.1	u2015-11-04-11	s	Hungarian	Positive	mixed positive	4.290	1	15	18	0	
+ParlaMint-HU_2015-11-04.seg123.2	u2015-11-04-11	s	Hungarian	Positive	mixed positive	3.636	1	15	17	1	
+ParlaMint-HU_2015-11-04.seg124.1	u2015-11-04-11	s	Hungarian	Negative	negative	0.126	1	59	69	2	
+ParlaMint-HU_2015-11-04.seg124.2	u2015-11-04-11	s	Hungarian	Positive	mixed positive	4.347	1	9	11	0	
+ParlaMint-HU_2015-11-04.seg125.1	u2015-11-04-11	s	Hungarian	Neutral	neutral postive	3.079	1	38	43	0	
+ParlaMint-HU_2015-11-04.seg125.2	u2015-11-04-11	s	Hungarian	Positive	positive	5.376	1	44	50	1	
+ParlaMint-HU_2015-11-04.seg125.3	u2015-11-04-11	s	Hungarian	Positive	positive	5.140	1	27	31	0	
+ParlaMint-HU_2015-11-04.seg126.1	u2015-11-04-11	s	Hungarian	Positive	positive	4.819	1	40	44	1	
+ParlaMint-HU_2015-11-04.seg126.2	u2015-11-04-11	s	Hungarian	Positive	positive	5.003	1	15	17	0	
+ParlaMint-HU_2015-11-04.seg127.1	u2015-11-04-11	s	Hungarian	Positive	mixed positive	4.466	1	33	36	1	
+ParlaMint-HU_2015-11-04.seg127.2	u2015-11-04-11	s	Hungarian	Positive	positive	5.547	1	30	35	1	
+ParlaMint-HU_2015-11-04.seg128.1	u2015-11-04-11	s	Hungarian	Neutral	neutral postive	2.642	1	13	15	0	
+ParlaMint-HU_2015-11-04.seg128.2	u2015-11-04-11	s	Hungarian	Negative	negative	0.354	1	28	32	2	
+ParlaMint-HU_2015-11-04.seg129.1	u2015-11-04-11	s	Hungarian	Negative	negative	0.249	1	43	50	2	
+ParlaMint-HU_2015-11-04.seg130.1	u2015-11-04-11	s	Hungarian	Positive	mixed positive	4.385	1	51	60	2	
+ParlaMint-HU_2015-11-04.seg131.1	u2015-11-04-11	s	Hungarian	Neutral	neutral negative	2.361	1	10	13	0	
+ParlaMint-HU_2015-11-04.seg131.2	u2015-11-04-11	s	Hungarian	Positive	positive	5.319	1	25	29	1	
+ParlaMint-HU_2015-11-04.seg131.3	u2015-11-04-11	s	Hungarian	Negative	negative	0.190	1	45	53	1	
+ParlaMint-HU_2015-11-04.seg131.4	u2015-11-04-11	s	Hungarian	Negative	mixed negative	0.893	1	15	18	0	
+ParlaMint-HU_2015-11-04.seg132.1	u2015-11-04-11	s	Hungarian	Positive	positive	5.323	1	29	32	1	
+ParlaMint-HU_2015-11-04.seg133.1	u2015-11-04-11	s	Hungarian	Negative	mixed negative	0.651	1	56	66	0	
+ParlaMint-HU_2015-11-04.seg134.1	u2015-11-04-11	s	Hungarian	Positive	positive	5.271	1	21	25	2	
+ParlaMint-HU_2015-11-04.seg134.2	u2015-11-04-11	s	Hungarian	Positive	positive	4.696	1	2	3	0	
+u2015-11-04-12	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	2	17	21	3	
+ParlaMint-HU_2015-11-04.seg135.1	u2015-11-04-12	s	Hungarian	Positive	positive	4.506	1	6	8	1	
+ParlaMint-HU_2015-11-04.seg135.2	u2015-11-04-12	s	Hungarian	Positive	mixed positive	3.584	1	11	13	2	
+u2015-11-04-13	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	143	3385	3927	96	
+ParlaMint-HU_2015-11-04.seg136.1	u2015-11-04-13	s	Hungarian	Positive	mixed positive	4.334	1	6	8	0	
+ParlaMint-HU_2015-11-04.seg136.2	u2015-11-04-13	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg136.3	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	3.014	1	21	24	2	
+ParlaMint-HU_2015-11-04.seg136.4	u2015-11-04-13	s	Hungarian	Negative	negative	0.355	1	10	13	1	
+ParlaMint-HU_2015-11-04.seg136.5	u2015-11-04-13	s	Hungarian	Negative	negative	0.266	1	35	41	3	
+ParlaMint-HU_2015-11-04.seg136.6	u2015-11-04-13	s	Hungarian	Negative	negative	0.235	1	49	58	3	
+ParlaMint-HU_2015-11-04.seg137.1	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	2.788	1	10	12	0	
+ParlaMint-HU_2015-11-04.seg137.2	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	2.691	1	13	16	0	
+ParlaMint-HU_2015-11-04.seg137.3	u2015-11-04-13	s	Hungarian	Positive	positive	4.610	1	32	38	1	
+ParlaMint-HU_2015-11-04.seg137.4	u2015-11-04-13	s	Hungarian	Neutral	neutral negative	1.992	1	13	15	2	
+ParlaMint-HU_2015-11-04.seg138.1	u2015-11-04-13	s	Hungarian	Negative	negative	0.226	1	61	69	4	
+ParlaMint-HU_2015-11-04.seg139.1	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	3.009	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg139.2	u2015-11-04-13	s	Hungarian	Negative	mixed negative	0.891	1	37	42	3	
+ParlaMint-HU_2015-11-04.seg139.3	u2015-11-04-13	s	Hungarian	Positive	positive	4.793	1	33	39	1	
+ParlaMint-HU_2015-11-04.seg140.1	u2015-11-04-13	s	Hungarian	Negative	negative	0.404	1	47	55	1	
+ParlaMint-HU_2015-11-04.seg141.1	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	3.122	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg141.2	u2015-11-04-13	s	Hungarian	Negative	negative	0.109	1	30	34	3	
+ParlaMint-HU_2015-11-04.seg141.3	u2015-11-04-13	s	Hungarian	Negative	negative	0.090	1	27	31	1	
+ParlaMint-HU_2015-11-04.seg141.4	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	2.685	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg141.5	u2015-11-04-13	s	Hungarian	Negative	mixed negative	1.377	1	64	71	2	
+ParlaMint-HU_2015-11-04.seg141.6	u2015-11-04-13	s	Hungarian	Negative	negative	0.105	1	26	30	2	
+ParlaMint-HU_2015-11-04.seg141.7	u2015-11-04-13	s	Hungarian	Negative	negative	0.078	1	22	25	1	
+ParlaMint-HU_2015-11-04.seg141.8	u2015-11-04-13	s	Hungarian	Negative	negative	0.418	1	16	19	1	
+ParlaMint-HU_2015-11-04.seg141.9	u2015-11-04-13	s	Hungarian	Negative	negative	0.198	1	7	8	0	
+ParlaMint-HU_2015-11-04.seg142.1	u2015-11-04-13	s	Hungarian	Negative	negative	0.202	1	20	23	1	
+ParlaMint-HU_2015-11-04.seg142.2	u2015-11-04-13	s	Hungarian	Negative	negative	0.425	1	86	101	0	
+ParlaMint-HU_2015-11-04.seg143.1	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	3.213	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg143.2	u2015-11-04-13	s	Hungarian	Negative	negative	0.323	1	29	33	2	
+ParlaMint-HU_2015-11-04.seg143.3	u2015-11-04-13	s	Hungarian	Negative	mixed negative	1.450	1	34	37	0	
+ParlaMint-HU_2015-11-04.seg143.4	u2015-11-04-13	s	Hungarian	Negative	negative	0.227	1	6	8	0	
+ParlaMint-HU_2015-11-04.seg143.5	u2015-11-04-13	s	Hungarian	Negative	negative	0.357	1	36	42	1	
+ParlaMint-HU_2015-11-04.seg143.6	u2015-11-04-13	s	Hungarian	Negative	negative	0.339	1	35	41	2	
+ParlaMint-HU_2015-11-04.seg144.1	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	2.579	1	12	14	1	
+ParlaMint-HU_2015-11-04.seg144.2	u2015-11-04-13	s	Hungarian	Negative	mixed negative	0.822	1	25	28	0	
+ParlaMint-HU_2015-11-04.seg144.3	u2015-11-04-13	s	Hungarian	Negative	negative	0.269	1	16	20	0	
+ParlaMint-HU_2015-11-04.seg144.4	u2015-11-04-13	s	Hungarian	Negative	negative	0.249	1	63	74	4	
+ParlaMint-HU_2015-11-04.seg145.1	u2015-11-04-13	s	Hungarian	Neutral	neutral negative	2.338	1	11	13	0	
+ParlaMint-HU_2015-11-04.seg145.2	u2015-11-04-13	s	Hungarian	Negative	mixed negative	0.944	1	7	8	0	
+ParlaMint-HU_2015-11-04.seg145.3	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	2.874	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg145.4	u2015-11-04-13	s	Hungarian	Negative	mixed negative	0.620	1	26	29	1	
+ParlaMint-HU_2015-11-04.seg145.5	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	2.915	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg145.6	u2015-11-04-13	s	Hungarian	Negative	mixed negative	1.051	1	21	24	0	
+ParlaMint-HU_2015-11-04.seg146.1	u2015-11-04-13	s	Hungarian	Negative	negative	0.295	1	54	63	2	
+ParlaMint-HU_2015-11-04.seg146.2	u2015-11-04-13	s	Hungarian	Negative	negative	0.196	1	33	38	0	
+ParlaMint-HU_2015-11-04.seg146.3	u2015-11-04-13	s	Hungarian	Negative	negative	0.142	1	28	32	0	
+ParlaMint-HU_2015-11-04.seg146.4	u2015-11-04-13	s	Hungarian	Negative	negative	0.151	1	7	9	0	
+ParlaMint-HU_2015-11-04.seg146.5	u2015-11-04-13	s	Hungarian	Negative	mixed negative	0.934	1	27	32	1	
+ParlaMint-HU_2015-11-04.seg146.6	u2015-11-04-13	s	Hungarian	Negative	negative	0.112	1	35	40	1	
+ParlaMint-HU_2015-11-04.seg146.7	u2015-11-04-13	s	Hungarian	Negative	negative	0.244	1	21	23	0	
+ParlaMint-HU_2015-11-04.seg146.8	u2015-11-04-13	s	Hungarian	Negative	negative	0.092	1	29	33	2	
+ParlaMint-HU_2015-11-04.seg147.1	u2015-11-04-13	s	Hungarian	Negative	negative	0.105	1	39	45	0	
+ParlaMint-HU_2015-11-04.seg147.2	u2015-11-04-13	s	Hungarian	Neutral	neutral negative	1.581	1	7	8	0	
+ParlaMint-HU_2015-11-04.seg147.3	u2015-11-04-13	s	Hungarian	Negative	negative	0.179	1	44	51	0	
+ParlaMint-HU_2015-11-04.seg147.4	u2015-11-04-13	s	Hungarian	Neutral	neutral negative	2.342	1	41	47	0	
+ParlaMint-HU_2015-11-04.seg147.5	u2015-11-04-13	s	Hungarian	Negative	negative	0.169	1	29	34	1	
+ParlaMint-HU_2015-11-04.seg148.1	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	3.137	1	16	18	0	
+ParlaMint-HU_2015-11-04.seg148.2	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	2.528	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg148.3	u2015-11-04-13	s	Hungarian	Positive	mixed positive	4.424	1	21	24	0	
+ParlaMint-HU_2015-11-04.seg148.4	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	3.093	1	19	22	0	
+ParlaMint-HU_2015-11-04.seg148.5	u2015-11-04-13	s	Hungarian	Negative	negative	0.116	1	55	64	0	
+ParlaMint-HU_2015-11-04.seg148.6	u2015-11-04-13	s	Hungarian	Negative	negative	0.436	1	32	36	0	
+ParlaMint-HU_2015-11-04.seg148.7	u2015-11-04-13	s	Hungarian	Negative	mixed negative	1.016	1	39	45	1	
+ParlaMint-HU_2015-11-04.seg148.8	u2015-11-04-13	s	Hungarian	Negative	negative	0.078	1	42	49	0	
+ParlaMint-HU_2015-11-04.seg148.9	u2015-11-04-13	s	Hungarian	Negative	negative	0.396	1	48	55	2	
+ParlaMint-HU_2015-11-04.seg149.1	u2015-11-04-13	s	Hungarian	Neutral	neutral negative	1.852	1	16	18	0	
+ParlaMint-HU_2015-11-04.seg149.2	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	2.643	1	26	31	0	
+ParlaMint-HU_2015-11-04.seg149.3	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	2.905	1	20	22	0	
+ParlaMint-HU_2015-11-04.seg149.4	u2015-11-04-13	s	Hungarian	Neutral	neutral negative	1.706	1	23	28	1	
+ParlaMint-HU_2015-11-04.seg149.5	u2015-11-04-13	s	Hungarian	Negative	negative	0.359	1	32	37	1	
+ParlaMint-HU_2015-11-04.seg150.1	u2015-11-04-13	s	Hungarian	Negative	mixed negative	0.538	1	12	13	0	
+ParlaMint-HU_2015-11-04.seg150.2	u2015-11-04-13	s	Hungarian	Negative	negative	0.342	1	52	59	2	
+ParlaMint-HU_2015-11-04.seg150.3	u2015-11-04-13	s	Hungarian	Negative	negative	0.177	1	37	41	0	
+ParlaMint-HU_2015-11-04.seg151.1	u2015-11-04-13	s	Hungarian	Negative	negative	0.227	1	27	30	2	
+ParlaMint-HU_2015-11-04.seg151.2	u2015-11-04-13	s	Hungarian	Negative	negative	0.395	1	62	71	0	
+ParlaMint-HU_2015-11-04.seg151.3	u2015-11-04-13	s	Hungarian	Negative	negative	0.280	1	37	41	0	
+ParlaMint-HU_2015-11-04.seg152.1	u2015-11-04-13	s	Hungarian	Positive	mixed positive	3.552	1	10	12	0	
+ParlaMint-HU_2015-11-04.seg152.2	u2015-11-04-13	s	Hungarian	Negative	mixed negative	0.861	1	8	9	0	
+ParlaMint-HU_2015-11-04.seg152.3	u2015-11-04-13	s	Hungarian	Negative	negative	0.221	1	55	64	1	
+ParlaMint-HU_2015-11-04.seg152.4	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	3.229	1	40	47	1	
+ParlaMint-HU_2015-11-04.seg152.5	u2015-11-04-13	s	Hungarian	Negative	negative	0.100	1	31	36	2	
+ParlaMint-HU_2015-11-04.seg153.1	u2015-11-04-13	s	Hungarian	Negative	mixed negative	0.548	1	58	64	1	
+ParlaMint-HU_2015-11-04.seg153.2	u2015-11-04-13	s	Hungarian	Neutral	neutral negative	1.813	1	8	11	0	
+ParlaMint-HU_2015-11-04.seg153.3	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	2.924	1	9	11	0	
+ParlaMint-HU_2015-11-04.seg154.1	u2015-11-04-13	s	Hungarian	Negative	negative	0.266	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg154.2	u2015-11-04-13	s	Hungarian	Positive	mixed positive	3.680	1	15	18	0	
+ParlaMint-HU_2015-11-04.seg154.3	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	3.375	1	23	27	0	
+ParlaMint-HU_2015-11-04.seg154.4	u2015-11-04-13	s	Hungarian	Negative	negative	0.145	1	19	20	0	
+ParlaMint-HU_2015-11-04.seg154.5	u2015-11-04-13	s	Hungarian	Negative	mixed negative	0.635	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg154.6	u2015-11-04-13	s	Hungarian	Negative	negative	0.290	1	33	38	0	
+ParlaMint-HU_2015-11-04.seg154.7	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	2.632	1	27	30	0	
+ParlaMint-HU_2015-11-04.seg154.8	u2015-11-04-13	s	Hungarian	Negative	negative	0.157	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg154.9	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	2.911	1	38	43	1	
+ParlaMint-HU_2015-11-04.seg154.10	u2015-11-04-13	s	Hungarian	Positive	mixed positive	3.736	1	23	27	1	
+ParlaMint-HU_2015-11-04.seg155.1	u2015-11-04-13	s	Hungarian	Negative	negative	0.125	1	15	16	0	
+ParlaMint-HU_2015-11-04.seg155.2	u2015-11-04-13	s	Hungarian	Neutral	neutral negative	2.421	1	15	17	0	
+ParlaMint-HU_2015-11-04.seg156.1	u2015-11-04-13	s	Hungarian	Negative	negative	0.142	1	20	23	1	
+ParlaMint-HU_2015-11-04.seg156.2	u2015-11-04-13	s	Hungarian	Negative	negative	0.369	1	11	13	1	
+ParlaMint-HU_2015-11-04.seg156.3	u2015-11-04-13	s	Hungarian	Negative	negative	0.212	1	48	56	3	
+ParlaMint-HU_2015-11-04.seg156.4	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	2.943	1	10	11	0	
+ParlaMint-HU_2015-11-04.seg156.5	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	2.723	1	13	16	0	
+ParlaMint-HU_2015-11-04.seg157.1	u2015-11-04-13	s	Hungarian	Negative	negative	0.200	1	37	46	2	
+ParlaMint-HU_2015-11-04.seg157.2	u2015-11-04-13	s	Hungarian	Negative	negative	0.141	1	11	13	1	
+ParlaMint-HU_2015-11-04.seg158.1	u2015-11-04-13	s	Hungarian	Negative	negative	0.470	1	39	44	1	
+ParlaMint-HU_2015-11-04.seg158.2	u2015-11-04-13	s	Hungarian	Neutral	neutral negative	1.818	1	42	45	0	
+ParlaMint-HU_2015-11-04.seg159.1	u2015-11-04-13	s	Hungarian	Negative	mixed negative	0.679	1	34	39	1	
+ParlaMint-HU_2015-11-04.seg159.2	u2015-11-04-13	s	Hungarian	Negative	negative	0.148	1	12	16	0	
+ParlaMint-HU_2015-11-04.seg159.3	u2015-11-04-13	s	Hungarian	Negative	mixed negative	0.544	1	19	23	2	
+ParlaMint-HU_2015-11-04.seg159.4	u2015-11-04-13	s	Hungarian	Positive	mixed positive	3.981	1	21	25	0	
+ParlaMint-HU_2015-11-04.seg159.5	u2015-11-04-13	s	Hungarian	Negative	negative	0.196	1	15	20	0	
+ParlaMint-HU_2015-11-04.seg160.1	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	2.617	1	25	31	2	
+ParlaMint-HU_2015-11-04.seg160.2	u2015-11-04-13	s	Hungarian	Negative	mixed negative	0.948	1	17	19	1	
+ParlaMint-HU_2015-11-04.seg160.3	u2015-11-04-13	s	Hungarian	Neutral	neutral negative	2.151	1	12	15	0	
+ParlaMint-HU_2015-11-04.seg160.4	u2015-11-04-13	s	Hungarian	Positive	positive	4.859	1	26	30	0	
+ParlaMint-HU_2015-11-04.seg161.1	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	2.503	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg161.2	u2015-11-04-13	s	Hungarian	Neutral	neutral negative	2.219	1	34	42	0	
+ParlaMint-HU_2015-11-04.seg161.3	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	2.503	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg161.4	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	2.636	1	11	13	0	
+ParlaMint-HU_2015-11-04.seg161.5	u2015-11-04-13	s	Hungarian	Neutral	neutral negative	1.830	1	10	12	0	
+ParlaMint-HU_2015-11-04.seg161.6	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	2.665	1	2	4	0	
+ParlaMint-HU_2015-11-04.seg161.7	u2015-11-04-13	s	Hungarian	Negative	negative	0.340	1	22	25	0	
+ParlaMint-HU_2015-11-04.seg161.8	u2015-11-04-13	s	Hungarian	Negative	negative	0.114	1	22	26	0	
+ParlaMint-HU_2015-11-04.seg162.1	u2015-11-04-13	s	Hungarian	Negative	negative	0.170	1	46	53	2	
+ParlaMint-HU_2015-11-04.seg163.1	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	2.734	1	7	8	0	
+ParlaMint-HU_2015-11-04.seg163.2	u2015-11-04-13	s	Hungarian	Neutral	neutral postive	3.157	1	8	11	0	
+ParlaMint-HU_2015-11-04.seg163.3	u2015-11-04-13	s	Hungarian	Negative	negative	0.160	1	17	20	1	
+ParlaMint-HU_2015-11-04.seg163.4	u2015-11-04-13	s	Hungarian	Negative	negative	0.134	1	32	35	1	
+ParlaMint-HU_2015-11-04.seg163.5	u2015-11-04-13	s	Hungarian	Negative	negative	0.208	1	21	24	1	
+ParlaMint-HU_2015-11-04.seg164.1	u2015-11-04-13	s	Hungarian	Negative	mixed negative	0.732	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg164.2	u2015-11-04-13	s	Hungarian	Negative	negative	0.453	1	13	17	1	
+ParlaMint-HU_2015-11-04.seg164.3	u2015-11-04-13	s	Hungarian	Negative	negative	0.250	1	11	13	1	
+ParlaMint-HU_2015-11-04.seg164.4	u2015-11-04-13	s	Hungarian	Negative	negative	0.227	1	18	21	0	
+ParlaMint-HU_2015-11-04.seg164.5	u2015-11-04-13	s	Hungarian	Negative	negative	0.360	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg164.6	u2015-11-04-13	s	Hungarian	Negative	mixed negative	0.507	1	45	51	3	
+ParlaMint-HU_2015-11-04.seg164.7	u2015-11-04-13	s	Hungarian	Negative	negative	0.201	1	27	33	0	
+ParlaMint-HU_2015-11-04.seg165.1	u2015-11-04-13	s	Hungarian	Negative	negative	0.156	1	26	32	0	
+ParlaMint-HU_2015-11-04.seg165.2	u2015-11-04-13	s	Hungarian	Negative	negative	0.163	1	28	31	3	
+ParlaMint-HU_2015-11-04.seg165.3	u2015-11-04-13	s	Hungarian	Neutral	neutral negative	2.041	1	10	12	0	
+ParlaMint-HU_2015-11-04.seg165.4	u2015-11-04-13	s	Hungarian	Negative	negative	0.260	1	10	11	0	
+ParlaMint-HU_2015-11-04.seg165.5	u2015-11-04-13	s	Hungarian	Negative	negative	0.137	1	22	24	0	
+ParlaMint-HU_2015-11-04.seg166.1	u2015-11-04-13	s	Hungarian	Negative	negative	0.381	1	17	21	1	
+ParlaMint-HU_2015-11-04.seg166.2	u2015-11-04-13	s	Hungarian	Negative	mixed negative	0.718	1	10	11	0	
+ParlaMint-HU_2015-11-04.seg166.3	u2015-11-04-13	s	Hungarian	Negative	mixed negative	0.576	1	13	15	1	
+ParlaMint-HU_2015-11-04.seg166.4	u2015-11-04-13	s	Hungarian	Positive	positive	4.710	1	4	6	0	
+u2015-11-04-14	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	5	20	27	3	
+ParlaMint-HU_2015-11-04.seg167.1	u2015-11-04-14	s	Hungarian	Positive	positive	4.506	1	4	6	0	
+ParlaMint-HU_2015-11-04.seg167.2	u2015-11-04-14	s	Hungarian	Positive	positive	4.981	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg168.1	u2015-11-04-14	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2015-11-04.seg168.2	u2015-11-04-14	s	Hungarian	Positive	mixed positive	3.627	1	11	13	2	
+ParlaMint-HU_2015-11-04.seg168.3	u2015-11-04-14	s	Hungarian	Neutral	neutral postive	3.399	1	1	2	0	
+u2015-11-04-15	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	147	3461	4055	113	
+ParlaMint-HU_2015-11-04.seg169.1	u2015-11-04-15	s	Hungarian	Positive	mixed positive	4.046	1	5	7	0	
+ParlaMint-HU_2015-11-04.seg169.2	u2015-11-04-15	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2015-11-04.seg169.3	u2015-11-04-15	s	Hungarian	Negative	negative	0.484	1	16	20	1	
+ParlaMint-HU_2015-11-04.seg169.4	u2015-11-04-15	s	Hungarian	Negative	negative	0.405	1	39	48	0	
+ParlaMint-HU_2015-11-04.seg169.5	u2015-11-04-15	s	Hungarian	Neutral	neutral postive	2.680	1	28	33	2	
+ParlaMint-HU_2015-11-04.seg169.6	u2015-11-04-15	s	Hungarian	Neutral	neutral postive	3.249	1	23	28	1	
+ParlaMint-HU_2015-11-04.seg169.7	u2015-11-04-15	s	Hungarian	Negative	negative	0.206	1	32	37	4	
+ParlaMint-HU_2015-11-04.seg170.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.473	1	17	20	0	
+ParlaMint-HU_2015-11-04.seg170.2	u2015-11-04-15	s	Hungarian	Negative	negative	0.230	1	17	20	1	
+ParlaMint-HU_2015-11-04.seg170.3	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.592	1	35	42	0	
+ParlaMint-HU_2015-11-04.seg170.4	u2015-11-04-15	s	Hungarian	Positive	mixed positive	3.623	1	22	25	1	
+ParlaMint-HU_2015-11-04.seg171.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.338	1	57	65	1	
+ParlaMint-HU_2015-11-04.seg172.1	u2015-11-04-15	s	Hungarian	Neutral	neutral postive	3.263	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg172.2	u2015-11-04-15	s	Hungarian	Positive	positive	5.175	1	9	10	0	
+ParlaMint-HU_2015-11-04.seg172.3	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.955	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg172.4	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.642	1	35	40	1	
+ParlaMint-HU_2015-11-04.seg173.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.357	1	16	18	1	
+ParlaMint-HU_2015-11-04.seg173.2	u2015-11-04-15	s	Hungarian	Negative	negative	0.265	1	51	63	2	
+ParlaMint-HU_2015-11-04.seg173.3	u2015-11-04-15	s	Hungarian	Negative	negative	0.187	1	71	80	5	
+ParlaMint-HU_2015-11-04.seg173.4	u2015-11-04-15	s	Hungarian	Negative	negative	0.172	1	21	23	3	
+ParlaMint-HU_2015-11-04.seg174.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.140	1	48	55	3	
+ParlaMint-HU_2015-11-04.seg174.2	u2015-11-04-15	s	Hungarian	Positive	mixed positive	3.985	1	10	12	1	
+ParlaMint-HU_2015-11-04.seg175.1	u2015-11-04-15	s	Hungarian	Positive	positive	5.161	1	22	26	0	
+ParlaMint-HU_2015-11-04.seg175.2	u2015-11-04-15	s	Hungarian	Positive	mixed positive	4.319	1	13	14	0	
+ParlaMint-HU_2015-11-04.seg175.3	u2015-11-04-15	s	Hungarian	Positive	mixed positive	4.365	1	10	11	0	
+ParlaMint-HU_2015-11-04.seg176.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.128	1	17	20	2	
+ParlaMint-HU_2015-11-04.seg176.2	u2015-11-04-15	s	Hungarian	Negative	negative	0.271	1	37	43	3	
+ParlaMint-HU_2015-11-04.seg176.3	u2015-11-04-15	s	Hungarian	Negative	negative	0.365	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg176.4	u2015-11-04-15	s	Hungarian	Negative	negative	0.340	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg176.5	u2015-11-04-15	s	Hungarian	Neutral	neutral postive	3.036	1	7	8	1	
+ParlaMint-HU_2015-11-04.seg177.1	u2015-11-04-15	s	Hungarian	Neutral	neutral postive	2.881	1	36	43	0	
+ParlaMint-HU_2015-11-04.seg177.2	u2015-11-04-15	s	Hungarian	Neutral	neutral negative	2.307	1	21	25	0	
+ParlaMint-HU_2015-11-04.seg177.3	u2015-11-04-15	s	Hungarian	Neutral	neutral negative	2.128	1	41	46	0	
+ParlaMint-HU_2015-11-04.seg177.4	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.564	1	17	19	0	
+ParlaMint-HU_2015-11-04.seg177.5	u2015-11-04-15	s	Hungarian	Positive	positive	4.815	1	8	10	0	
+ParlaMint-HU_2015-11-04.seg178.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.361	1	10	13	0	
+ParlaMint-HU_2015-11-04.seg178.2	u2015-11-04-15	s	Hungarian	Negative	negative	0.147	1	11	14	0	
+ParlaMint-HU_2015-11-04.seg178.3	u2015-11-04-15	s	Hungarian	Negative	negative	0.258	1	31	36	0	
+ParlaMint-HU_2015-11-04.seg178.4	u2015-11-04-15	s	Hungarian	Negative	negative	0.269	1	16	19	1	
+ParlaMint-HU_2015-11-04.seg178.5	u2015-11-04-15	s	Hungarian	Negative	negative	0.214	1	43	48	0	
+ParlaMint-HU_2015-11-04.seg178.6	u2015-11-04-15	s	Hungarian	Negative	mixed negative	1.197	1	12	14	0	
+ParlaMint-HU_2015-11-04.seg178.7	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.791	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg178.8	u2015-11-04-15	s	Hungarian	Negative	mixed negative	1.016	1	30	34	1	
+ParlaMint-HU_2015-11-04.seg178.9	u2015-11-04-15	s	Hungarian	Negative	negative	0.400	1	19	21	1	
+ParlaMint-HU_2015-11-04.seg179.1	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.773	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg179.2	u2015-11-04-15	s	Hungarian	Negative	negative	0.415	1	41	48	0	
+ParlaMint-HU_2015-11-04.seg180.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.197	1	57	68	1	
+ParlaMint-HU_2015-11-04.seg181.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.205	1	61	74	3	
+ParlaMint-HU_2015-11-04.seg181.2	u2015-11-04-15	s	Hungarian	Negative	negative	0.384	1	37	46	0	
+ParlaMint-HU_2015-11-04.seg182.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.400	1	27	32	1	
+ParlaMint-HU_2015-11-04.seg182.2	u2015-11-04-15	s	Hungarian	Neutral	neutral negative	2.073	1	50	56	1	
+ParlaMint-HU_2015-11-04.seg182.3	u2015-11-04-15	s	Hungarian	Negative	negative	0.264	1	40	47	0	
+ParlaMint-HU_2015-11-04.seg183.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.084	1	35	40	0	
+ParlaMint-HU_2015-11-04.seg183.2	u2015-11-04-15	s	Hungarian	Negative	negative	0.243	1	37	43	0	
+ParlaMint-HU_2015-11-04.seg184.1	u2015-11-04-15	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2015-11-04.seg184.2	u2015-11-04-15	s	Hungarian	Positive	positive	5.138	1	24	29	0	
+ParlaMint-HU_2015-11-04.seg184.3	u2015-11-04-15	s	Hungarian	Positive	positive	4.934	1	23	29	1	
+ParlaMint-HU_2015-11-04.seg184.4	u2015-11-04-15	s	Hungarian	Negative	negative	0.039	1	35	40	1	
+ParlaMint-HU_2015-11-04.seg185.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.210	1	26	30	1	
+ParlaMint-HU_2015-11-04.seg185.2	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.723	1	19	23	0	
+ParlaMint-HU_2015-11-04.seg186.1	u2015-11-04-15	s	Hungarian	Neutral	neutral postive	2.903	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg186.2	u2015-11-04-15	s	Hungarian	Negative	negative	0.200	1	28	32	1	
+ParlaMint-HU_2015-11-04.seg186.3	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.527	1	9	11	0	
+ParlaMint-HU_2015-11-04.seg186.4	u2015-11-04-15	s	Hungarian	Negative	negative	0.186	1	17	21	1	
+ParlaMint-HU_2015-11-04.seg186.5	u2015-11-04-15	s	Hungarian	Negative	negative	0.282	1	16	19	1	
+ParlaMint-HU_2015-11-04.seg187.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.234	1	24	29	0	
+ParlaMint-HU_2015-11-04.seg187.2	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.770	1	5	6	2	
+ParlaMint-HU_2015-11-04.seg187.3	u2015-11-04-15	s	Hungarian	Negative	negative	0.339	1	16	18	0	
+ParlaMint-HU_2015-11-04.seg187.4	u2015-11-04-15	s	Hungarian	Negative	negative	0.271	1	28	32	3	
+ParlaMint-HU_2015-11-04.seg188.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.169	1	25	30	0	
+ParlaMint-HU_2015-11-04.seg188.2	u2015-11-04-15	s	Hungarian	Neutral	neutral negative	2.164	1	3	5	0	
+ParlaMint-HU_2015-11-04.seg188.3	u2015-11-04-15	s	Hungarian	Negative	negative	0.191	1	31	37	1	
+ParlaMint-HU_2015-11-04.seg188.4	u2015-11-04-15	s	Hungarian	Negative	negative	0.278	1	32	38	0	
+ParlaMint-HU_2015-11-04.seg189.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.444	1	14	16	2	
+ParlaMint-HU_2015-11-04.seg189.2	u2015-11-04-15	s	Hungarian	Neutral	neutral negative	2.163	1	29	34	1	
+ParlaMint-HU_2015-11-04.seg189.3	u2015-11-04-15	s	Hungarian	Negative	mixed negative	1.028	1	41	51	0	
+ParlaMint-HU_2015-11-04.seg190.1	u2015-11-04-15	s	Hungarian	Neutral	neutral negative	2.106	1	22	25	0	
+ParlaMint-HU_2015-11-04.seg191.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.115	1	15	18	0	
+ParlaMint-HU_2015-11-04.seg191.2	u2015-11-04-15	s	Hungarian	Negative	mixed negative	1.103	1	7	8	1	
+ParlaMint-HU_2015-11-04.seg191.3	u2015-11-04-15	s	Hungarian	Neutral	neutral postive	2.916	1	22	25	1	
+ParlaMint-HU_2015-11-04.seg191.4	u2015-11-04-15	s	Hungarian	Neutral	neutral postive	2.993	1	12	15	1	
+ParlaMint-HU_2015-11-04.seg191.5	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.971	1	8	10	0	
+ParlaMint-HU_2015-11-04.seg191.6	u2015-11-04-15	s	Hungarian	Negative	negative	0.426	1	15	18	0	
+ParlaMint-HU_2015-11-04.seg191.7	u2015-11-04-15	s	Hungarian	Negative	negative	0.480	1	8	9	0	
+ParlaMint-HU_2015-11-04.seg191.8	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.513	1	8	9	0	
+ParlaMint-HU_2015-11-04.seg191.9	u2015-11-04-15	s	Hungarian	Neutral	neutral negative	2.189	1	9	10	0	
+ParlaMint-HU_2015-11-04.seg191.10	u2015-11-04-15	s	Hungarian	Negative	negative	0.267	1	32	39	0	
+ParlaMint-HU_2015-11-04.seg191.11	u2015-11-04-15	s	Hungarian	Negative	negative	0.159	1	32	36	1	
+ParlaMint-HU_2015-11-04.seg192.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.404	1	58	71	0	
+ParlaMint-HU_2015-11-04.seg192.2	u2015-11-04-15	s	Hungarian	Negative	negative	0.414	1	11	12	2	
+ParlaMint-HU_2015-11-04.seg192.3	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.794	1	8	10	0	
+ParlaMint-HU_2015-11-04.seg192.4	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.819	1	18	21	2	
+ParlaMint-HU_2015-11-04.seg192.5	u2015-11-04-15	s	Hungarian	Neutral	neutral postive	3.073	1	19	22	2	
+ParlaMint-HU_2015-11-04.seg192.6	u2015-11-04-15	s	Hungarian	Neutral	neutral postive	2.683	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg193.1	u2015-11-04-15	s	Hungarian	Neutral	neutral postive	2.646	1	52	59	3	
+ParlaMint-HU_2015-11-04.seg193.2	u2015-11-04-15	s	Hungarian	Negative	negative	0.280	1	8	10	0	
+ParlaMint-HU_2015-11-04.seg194.1	u2015-11-04-15	s	Hungarian	Neutral	neutral postive	3.387	1	1	2	0	
+ParlaMint-HU_2015-11-04.seg194.2	u2015-11-04-15	s	Hungarian	Neutral	neutral postive	2.920	1	15	18	1	
+ParlaMint-HU_2015-11-04.seg194.3	u2015-11-04-15	s	Hungarian	Neutral	neutral negative	2.253	1	40	45	1	
+ParlaMint-HU_2015-11-04.seg194.4	u2015-11-04-15	s	Hungarian	Neutral	neutral negative	2.397	1	7	8	0	
+ParlaMint-HU_2015-11-04.seg194.5	u2015-11-04-15	s	Hungarian	Negative	negative	0.247	1	55	65	0	
+ParlaMint-HU_2015-11-04.seg195.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.435	1	35	40	2	
+ParlaMint-HU_2015-11-04.seg195.2	u2015-11-04-15	s	Hungarian	Negative	negative	0.232	1	23	26	2	
+ParlaMint-HU_2015-11-04.seg196.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.155	1	45	51	1	
+ParlaMint-HU_2015-11-04.seg196.2	u2015-11-04-15	s	Hungarian	Neutral	neutral postive	3.149	1	20	22	1	
+ParlaMint-HU_2015-11-04.seg196.3	u2015-11-04-15	s	Hungarian	Negative	mixed negative	1.145	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg196.4	u2015-11-04-15	s	Hungarian	Negative	negative	0.207	1	37	42	0	
+ParlaMint-HU_2015-11-04.seg197.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.128	1	11	14	0	
+ParlaMint-HU_2015-11-04.seg198.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.233	1	11	13	0	
+ParlaMint-HU_2015-11-04.seg199.1	u2015-11-04-15	s	Hungarian	Neutral	neutral postive	3.119	1	32	37	3	
+ParlaMint-HU_2015-11-04.seg199.2	u2015-11-04-15	s	Hungarian	Neutral	neutral negative	2.410	1	26	31	1	
+ParlaMint-HU_2015-11-04.seg199.3	u2015-11-04-15	s	Hungarian	Neutral	neutral postive	2.673	1	9	10	0	
+ParlaMint-HU_2015-11-04.seg199.4	u2015-11-04-15	s	Hungarian	Neutral	neutral postive	2.748	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg199.5	u2015-11-04-15	s	Hungarian	Negative	negative	0.151	1	35	44	2	
+ParlaMint-HU_2015-11-04.seg199.6	u2015-11-04-15	s	Hungarian	Negative	mixed negative	1.390	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg200.1	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.883	1	51	62	2	
+ParlaMint-HU_2015-11-04.seg200.2	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.794	1	25	30	1	
+ParlaMint-HU_2015-11-04.seg200.3	u2015-11-04-15	s	Hungarian	Negative	negative	0.034	1	15	18	0	
+ParlaMint-HU_2015-11-04.seg201.1	u2015-11-04-15	s	Hungarian	Negative	mixed negative	1.256	1	28	32	2	
+ParlaMint-HU_2015-11-04.seg201.2	u2015-11-04-15	s	Hungarian	Neutral	neutral negative	2.324	1	12	13	2	
+ParlaMint-HU_2015-11-04.seg201.3	u2015-11-04-15	s	Hungarian	Negative	negative	0.344	1	25	27	1	
+ParlaMint-HU_2015-11-04.seg201.4	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.551	1	50	57	1	
+ParlaMint-HU_2015-11-04.seg201.5	u2015-11-04-15	s	Hungarian	Neutral	neutral negative	2.150	1	15	18	0	
+ParlaMint-HU_2015-11-04.seg201.6	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.837	1	37	42	1	
+ParlaMint-HU_2015-11-04.seg202.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.141	1	25	31	0	
+ParlaMint-HU_2015-11-04.seg202.2	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.562	1	38	45	0	
+ParlaMint-HU_2015-11-04.seg202.3	u2015-11-04-15	s	Hungarian	Negative	negative	0.267	1	26	30	0	
+ParlaMint-HU_2015-11-04.seg202.4	u2015-11-04-15	s	Hungarian	Negative	negative	0.197	1	13	15	0	
+ParlaMint-HU_2015-11-04.seg203.1	u2015-11-04-15	s	Hungarian	Neutral	neutral negative	1.827	1	43	49	3	
+ParlaMint-HU_2015-11-04.seg204.1	u2015-11-04-15	s	Hungarian	Neutral	neutral postive	3.405	1	9	10	0	
+ParlaMint-HU_2015-11-04.seg204.2	u2015-11-04-15	s	Hungarian	Negative	negative	0.207	1	11	14	0	
+ParlaMint-HU_2015-11-04.seg204.3	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.928	1	9	11	0	
+ParlaMint-HU_2015-11-04.seg204.4	u2015-11-04-15	s	Hungarian	Negative	negative	0.243	1	10	11	0	
+ParlaMint-HU_2015-11-04.seg204.5	u2015-11-04-15	s	Hungarian	Negative	negative	0.142	1	42	49	0	
+ParlaMint-HU_2015-11-04.seg205.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.102	1	47	54	0	
+ParlaMint-HU_2015-11-04.seg205.2	u2015-11-04-15	s	Hungarian	Negative	negative	0.220	1	63	73	0	
+ParlaMint-HU_2015-11-04.seg205.3	u2015-11-04-15	s	Hungarian	Negative	negative	0.161	1	29	34	2	
+ParlaMint-HU_2015-11-04.seg206.1	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.852	1	24	26	1	
+ParlaMint-HU_2015-11-04.seg206.2	u2015-11-04-15	s	Hungarian	Negative	mixed negative	1.279	1	30	36	1	
+ParlaMint-HU_2015-11-04.seg207.1	u2015-11-04-15	s	Hungarian	Positive	mixed positive	4.186	1	24	28	0	
+ParlaMint-HU_2015-11-04.seg207.2	u2015-11-04-15	s	Hungarian	Negative	negative	0.176	1	27	32	5	
+ParlaMint-HU_2015-11-04.seg208.1	u2015-11-04-15	s	Hungarian	Negative	mixed negative	0.537	1	25	27	0	
+ParlaMint-HU_2015-11-04.seg208.2	u2015-11-04-15	s	Hungarian	Negative	negative	0.477	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg208.3	u2015-11-04-15	s	Hungarian	Positive	mixed positive	4.082	1	23	28	1	
+ParlaMint-HU_2015-11-04.seg208.4	u2015-11-04-15	s	Hungarian	Negative	negative	0.163	1	15	19	1	
+ParlaMint-HU_2015-11-04.seg209.1	u2015-11-04-15	s	Hungarian	Negative	negative	0.141	1	60	69	3	
+ParlaMint-HU_2015-11-04.seg209.2	u2015-11-04-15	s	Hungarian	Positive	positive	4.696	1	2	3	0	
+u2015-11-04-16	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	5	29	36	2	
+ParlaMint-HU_2015-11-04.seg210.1	u2015-11-04-16	s	Hungarian	Positive	positive	4.547	1	1	2	0	
+ParlaMint-HU_2015-11-04.seg210.2	u2015-11-04-16	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2015-11-04.seg210.3	u2015-11-04-16	s	Hungarian	Neutral	neutral postive	3.186	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg210.4	u2015-11-04-16	s	Hungarian	Neutral	neutral negative	2.374	1	13	15	0	
+ParlaMint-HU_2015-11-04.seg210.5	u2015-11-04-16	s	Hungarian	Positive	mixed positive	3.630	1	8	10	1	
+u2015-11-04-17	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	15	274	320	7	
+ParlaMint-HU_2015-11-04.seg211.1	u2015-11-04-17	s	Hungarian	Positive	positive	4.710	1	4	6	0	
+ParlaMint-HU_2015-11-04.seg211.2	u2015-11-04-17	s	Hungarian	Positive	mixed positive	4.043	1	2	3	1	
+ParlaMint-HU_2015-11-04.seg211.3	u2015-11-04-17	s	Hungarian	Neutral	neutral postive	2.885	1	15	17	1	
+ParlaMint-HU_2015-11-04.seg211.4	u2015-11-04-17	s	Hungarian	Negative	negative	0.220	1	14	17	0	
+ParlaMint-HU_2015-11-04.seg211.5	u2015-11-04-17	s	Hungarian	Neutral	neutral postive	3.080	1	36	43	3	
+ParlaMint-HU_2015-11-04.seg211.6	u2015-11-04-17	s	Hungarian	Negative	negative	0.248	1	21	25	1	
+ParlaMint-HU_2015-11-04.seg211.7	u2015-11-04-17	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg211.8	u2015-11-04-17	s	Hungarian	Neutral	neutral postive	2.585	1	44	51	0	
+ParlaMint-HU_2015-11-04.seg212.1	u2015-11-04-17	s	Hungarian	Negative	mixed negative	0.577	1	45	50	0	
+ParlaMint-HU_2015-11-04.seg212.2	u2015-11-04-17	s	Hungarian	Negative	mixed negative	0.623	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg213.1	u2015-11-04-17	s	Hungarian	Negative	mixed negative	0.510	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg213.2	u2015-11-04-17	s	Hungarian	Negative	negative	0.222	1	29	33	0	
+ParlaMint-HU_2015-11-04.seg213.3	u2015-11-04-17	s	Hungarian	Negative	negative	0.053	1	25	28	1	
+ParlaMint-HU_2015-11-04.seg214.1	u2015-11-04-17	s	Hungarian	Negative	negative	0.246	1	26	30	0	
+ParlaMint-HU_2015-11-04.seg214.2	u2015-11-04-17	s	Hungarian	Positive	positive	4.696	1	2	3	0	
+u2015-11-04-18	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	5	20	26	2	
+ParlaMint-HU_2015-11-04.seg215.1	u2015-11-04-18	s	Hungarian	Positive	positive	4.547	1	1	2	0	
+ParlaMint-HU_2015-11-04.seg215.2	u2015-11-04-18	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2015-11-04.seg215.3	u2015-11-04-18	s	Hungarian	Neutral	neutral postive	3.160	1	8	9	0	
+ParlaMint-HU_2015-11-04.seg215.4	u2015-11-04-18	s	Hungarian	Positive	mixed positive	3.607	1	8	10	1	
+ParlaMint-HU_2015-11-04.seg215.5	u2015-11-04-18	s	Hungarian	Neutral	neutral postive	3.399	1	1	2	0	
+u2015-11-04-19	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	69	1560	1861	42	
+ParlaMint-HU_2015-11-04.seg216.1	u2015-11-04-19	s	Hungarian	Positive	positive	4.710	1	4	6	0	
+ParlaMint-HU_2015-11-04.seg216.2	u2015-11-04-19	s	Hungarian	Negative	negative	0.334	1	7	9	1	
+ParlaMint-HU_2015-11-04.seg216.3	u2015-11-04-19	s	Hungarian	Negative	negative	0.184	1	19	23	1	
+ParlaMint-HU_2015-11-04.seg216.4	u2015-11-04-19	s	Hungarian	Negative	negative	0.269	1	41	52	1	
+ParlaMint-HU_2015-11-04.seg216.5	u2015-11-04-19	s	Hungarian	Negative	negative	0.173	1	8	10	0	
+ParlaMint-HU_2015-11-04.seg216.6	u2015-11-04-19	s	Hungarian	Negative	mixed negative	0.968	1	55	64	4	
+ParlaMint-HU_2015-11-04.seg216.7	u2015-11-04-19	s	Hungarian	Negative	mixed negative	0.995	1	43	48	2	
+ParlaMint-HU_2015-11-04.seg217.1	u2015-11-04-19	s	Hungarian	Negative	negative	0.307	1	66	79	1	
+ParlaMint-HU_2015-11-04.seg218.1	u2015-11-04-19	s	Hungarian	Negative	negative	0.322	1	16	19	0	
+ParlaMint-HU_2015-11-04.seg218.2	u2015-11-04-19	s	Hungarian	Neutral	neutral postive	2.543	1	20	23	0	
+ParlaMint-HU_2015-11-04.seg218.3	u2015-11-04-19	s	Hungarian	Negative	mixed negative	0.649	1	44	51	0	
+ParlaMint-HU_2015-11-04.seg218.4	u2015-11-04-19	s	Hungarian	Neutral	neutral postive	2.854	1	12	14	0	
+ParlaMint-HU_2015-11-04.seg218.5	u2015-11-04-19	s	Hungarian	Negative	mixed negative	0.546	1	17	19	1	
+ParlaMint-HU_2015-11-04.seg219.1	u2015-11-04-19	s	Hungarian	Negative	mixed negative	0.856	1	10	11	1	
+ParlaMint-HU_2015-11-04.seg219.2	u2015-11-04-19	s	Hungarian	Negative	mixed negative	1.422	1	52	58	3	
+ParlaMint-HU_2015-11-04.seg219.3	u2015-11-04-19	s	Hungarian	Neutral	neutral negative	2.370	1	12	14	0	
+ParlaMint-HU_2015-11-04.seg220.1	u2015-11-04-19	s	Hungarian	Negative	negative	0.112	1	69	81	2	
+ParlaMint-HU_2015-11-04.seg220.2	u2015-11-04-19	s	Hungarian	Neutral	neutral postive	3.070	1	56	67	0	
+ParlaMint-HU_2015-11-04.seg220.3	u2015-11-04-19	s	Hungarian	Negative	mixed negative	1.193	1	7	9	0	
+ParlaMint-HU_2015-11-04.seg220.4	u2015-11-04-19	s	Hungarian	Negative	negative	0.326	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg221.1	u2015-11-04-19	s	Hungarian	Negative	mixed negative	0.504	1	27	31	1	
+ParlaMint-HU_2015-11-04.seg222.1	u2015-11-04-19	s	Hungarian	Neutral	neutral postive	2.750	1	10	13	0	
+ParlaMint-HU_2015-11-04.seg223.1	u2015-11-04-19	s	Hungarian	Negative	mixed negative	0.699	1	24	29	1	
+ParlaMint-HU_2015-11-04.seg223.2	u2015-11-04-19	s	Hungarian	Negative	mixed negative	0.512	1	30	36	1	
+ParlaMint-HU_2015-11-04.seg223.3	u2015-11-04-19	s	Hungarian	Negative	negative	0.390	1	19	24	1	
+ParlaMint-HU_2015-11-04.seg223.4	u2015-11-04-19	s	Hungarian	Negative	mixed negative	0.686	1	10	13	0	
+ParlaMint-HU_2015-11-04.seg223.5	u2015-11-04-19	s	Hungarian	Negative	mixed negative	0.793	1	26	31	2	
+ParlaMint-HU_2015-11-04.seg223.6	u2015-11-04-19	s	Hungarian	Neutral	neutral negative	1.921	1	21	25	0	
+ParlaMint-HU_2015-11-04.seg224.1	u2015-11-04-19	s	Hungarian	Positive	mixed positive	4.414	1	18	21	1	
+ParlaMint-HU_2015-11-04.seg224.2	u2015-11-04-19	s	Hungarian	Positive	positive	5.083	1	16	20	0	
+ParlaMint-HU_2015-11-04.seg224.3	u2015-11-04-19	s	Hungarian	Neutral	neutral negative	1.873	1	20	23	0	
+ParlaMint-HU_2015-11-04.seg224.4	u2015-11-04-19	s	Hungarian	Negative	mixed negative	1.404	1	8	10	0	
+ParlaMint-HU_2015-11-04.seg224.5	u2015-11-04-19	s	Hungarian	Negative	mixed negative	0.941	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg225.1	u2015-11-04-19	s	Hungarian	Negative	negative	0.178	1	23	27	0	
+ParlaMint-HU_2015-11-04.seg225.2	u2015-11-04-19	s	Hungarian	Negative	mixed negative	0.956	1	39	45	2	
+ParlaMint-HU_2015-11-04.seg226.1	u2015-11-04-19	s	Hungarian	Negative	mixed negative	1.370	1	2	4	0	
+ParlaMint-HU_2015-11-04.seg226.2	u2015-11-04-19	s	Hungarian	Negative	negative	0.403	1	8	10	0	
+ParlaMint-HU_2015-11-04.seg227.1	u2015-11-04-19	s	Hungarian	Neutral	neutral negative	2.164	1	11	14	0	
+ParlaMint-HU_2015-11-04.seg227.2	u2015-11-04-19	s	Hungarian	Negative	negative	0.307	1	20	22	1	
+ParlaMint-HU_2015-11-04.seg228.1	u2015-11-04-19	s	Hungarian	Neutral	neutral negative	2.199	1	7	8	0	
+ParlaMint-HU_2015-11-04.seg228.2	u2015-11-04-19	s	Hungarian	Negative	mixed negative	0.652	1	52	64	2	
+ParlaMint-HU_2015-11-04.seg229.1	u2015-11-04-19	s	Hungarian	Neutral	neutral negative	2.366	1	26	29	2	
+ParlaMint-HU_2015-11-04.seg229.2	u2015-11-04-19	s	Hungarian	Neutral	neutral postive	3.006	1	25	29	0	
+ParlaMint-HU_2015-11-04.seg229.3	u2015-11-04-19	s	Hungarian	Negative	negative	0.246	1	31	36	0	
+ParlaMint-HU_2015-11-04.seg229.4	u2015-11-04-19	s	Hungarian	Negative	negative	0.198	1	18	23	0	
+ParlaMint-HU_2015-11-04.seg229.5	u2015-11-04-19	s	Hungarian	Negative	negative	0.386	1	29	34	0	
+ParlaMint-HU_2015-11-04.seg230.1	u2015-11-04-19	s	Hungarian	Negative	mixed negative	1.147	1	70	82	2	
+ParlaMint-HU_2015-11-04.seg230.2	u2015-11-04-19	s	Hungarian	Neutral	neutral postive	2.957	1	3	5	0	
+ParlaMint-HU_2015-11-04.seg230.3	u2015-11-04-19	s	Hungarian	Negative	negative	0.185	1	25	29	0	
+ParlaMint-HU_2015-11-04.seg230.4	u2015-11-04-19	s	Hungarian	Negative	mixed negative	1.193	1	12	16	0	
+ParlaMint-HU_2015-11-04.seg230.5	u2015-11-04-19	s	Hungarian	Negative	negative	0.404	1	45	53	1	
+ParlaMint-HU_2015-11-04.seg230.6	u2015-11-04-19	s	Hungarian	Neutral	neutral negative	1.802	1	21	26	2	
+ParlaMint-HU_2015-11-04.seg231.1	u2015-11-04-19	s	Hungarian	Neutral	neutral postive	2.811	1	5	6	1	
+ParlaMint-HU_2015-11-04.seg231.2	u2015-11-04-19	s	Hungarian	Negative	mixed negative	1.180	1	49	57	2	
+ParlaMint-HU_2015-11-04.seg231.3	u2015-11-04-19	s	Hungarian	Negative	mixed negative	0.839	1	11	14	0	
+ParlaMint-HU_2015-11-04.seg231.4	u2015-11-04-19	s	Hungarian	Neutral	neutral negative	1.893	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg231.5	u2015-11-04-19	s	Hungarian	Neutral	neutral postive	3.307	1	23	29	1	
+ParlaMint-HU_2015-11-04.seg231.6	u2015-11-04-19	s	Hungarian	Neutral	neutral postive	2.864	1	22	27	1	
+ParlaMint-HU_2015-11-04.seg231.7	u2015-11-04-19	s	Hungarian	Negative	mixed negative	0.544	1	1	2	0	
+ParlaMint-HU_2015-11-04.seg231.8	u2015-11-04-19	s	Hungarian	Neutral	neutral postive	2.571	1	33	43	0	
+ParlaMint-HU_2015-11-04.seg231.9	u2015-11-04-19	s	Hungarian	Neutral	neutral postive	2.597	1	14	17	0	
+ParlaMint-HU_2015-11-04.seg231.10	u2015-11-04-19	s	Hungarian	Positive	mixed positive	4.363	1	22	25	1	
+ParlaMint-HU_2015-11-04.seg231.11	u2015-11-04-19	s	Hungarian	Positive	positive	4.807	1	9	11	0	
+ParlaMint-HU_2015-11-04.seg231.12	u2015-11-04-19	s	Hungarian	Neutral	neutral negative	2.319	1	19	23	0	
+ParlaMint-HU_2015-11-04.seg231.13	u2015-11-04-19	s	Hungarian	Negative	negative	0.446	1	27	33	0	
+ParlaMint-HU_2015-11-04.seg231.14	u2015-11-04-19	s	Hungarian	Negative	mixed negative	1.363	1	13	15	0	
+ParlaMint-HU_2015-11-04.seg231.15	u2015-11-04-19	s	Hungarian	Neutral	neutral negative	1.904	1	12	14	0	
+ParlaMint-HU_2015-11-04.seg231.16	u2015-11-04-19	s	Hungarian	Negative	mixed negative	0.846	1	29	34	0	
+ParlaMint-HU_2015-11-04.seg232.1	u2015-11-04-19	s	Hungarian	Positive	mixed positive	4.316	1	4	6	0	
+u2015-11-04-20	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	4	15	21	1	
+ParlaMint-HU_2015-11-04.seg233.1	u2015-11-04-20	s	Hungarian	Positive	mixed positive	4.215	1	3	5	0	
+ParlaMint-HU_2015-11-04.seg233.2	u2015-11-04-20	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg233.3	u2015-11-04-20	s	Hungarian	Neutral	neutral postive	3.191	1	7	9	1	
+ParlaMint-HU_2015-11-04.seg233.4	u2015-11-04-20	s	Hungarian	Positive	mixed positive	3.837	1	3	4	0	
+u2015-11-04-21	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	64	1746	2060	27	
+ParlaMint-HU_2015-11-04.seg234.1	u2015-11-04-21	s	Hungarian	Positive	mixed positive	4.046	1	5	7	0	
+ParlaMint-HU_2015-11-04.seg234.2	u2015-11-04-21	s	Hungarian	Positive	mixed positive	4.084	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg234.3	u2015-11-04-21	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg234.4	u2015-11-04-21	s	Hungarian	Positive	mixed positive	4.232	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg234.5	u2015-11-04-21	s	Hungarian	Negative	mixed negative	0.541	1	19	22	1	
+ParlaMint-HU_2015-11-04.seg235.1	u2015-11-04-21	s	Hungarian	Neutral	neutral negative	1.586	1	58	68	1	
+ParlaMint-HU_2015-11-04.seg235.2	u2015-11-04-21	s	Hungarian	Neutral	neutral postive	3.465	1	15	18	0	
+ParlaMint-HU_2015-11-04.seg236.1	u2015-11-04-21	s	Hungarian	Neutral	neutral postive	3.387	1	53	61	0	
+ParlaMint-HU_2015-11-04.seg236.2	u2015-11-04-21	s	Hungarian	Negative	mixed negative	1.115	1	45	53	1	
+ParlaMint-HU_2015-11-04.seg236.3	u2015-11-04-21	s	Hungarian	Negative	mixed negative	0.558	1	12	14	0	
+ParlaMint-HU_2015-11-04.seg236.4	u2015-11-04-21	s	Hungarian	Negative	negative	0.244	1	64	75	1	
+ParlaMint-HU_2015-11-04.seg237.1	u2015-11-04-21	s	Hungarian	Neutral	neutral negative	1.545	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg237.2	u2015-11-04-21	s	Hungarian	Neutral	neutral postive	3.343	1	10	11	0	
+ParlaMint-HU_2015-11-04.seg237.3	u2015-11-04-21	s	Hungarian	Neutral	neutral negative	2.439	1	12	14	0	
+ParlaMint-HU_2015-11-04.seg237.4	u2015-11-04-21	s	Hungarian	Neutral	neutral negative	1.976	1	35	41	0	
+ParlaMint-HU_2015-11-04.seg237.5	u2015-11-04-21	s	Hungarian	Negative	mixed negative	0.631	1	38	47	0	
+ParlaMint-HU_2015-11-04.seg238.1	u2015-11-04-21	s	Hungarian	Negative	negative	0.365	1	47	55	1	
+ParlaMint-HU_2015-11-04.seg238.2	u2015-11-04-21	s	Hungarian	Neutral	neutral negative	1.767	1	56	65	0	
+ParlaMint-HU_2015-11-04.seg239.1	u2015-11-04-21	s	Hungarian	Negative	negative	0.193	1	32	35	1	
+ParlaMint-HU_2015-11-04.seg240.1	u2015-11-04-21	s	Hungarian	Negative	negative	0.345	1	70	83	1	
+ParlaMint-HU_2015-11-04.seg240.2	u2015-11-04-21	s	Hungarian	Negative	mixed negative	0.600	1	12	14	0	
+ParlaMint-HU_2015-11-04.seg240.3	u2015-11-04-21	s	Hungarian	Neutral	neutral negative	2.386	1	9	11	0	
+ParlaMint-HU_2015-11-04.seg240.4	u2015-11-04-21	s	Hungarian	Negative	mixed negative	0.725	1	10	12	0	
+ParlaMint-HU_2015-11-04.seg240.5	u2015-11-04-21	s	Hungarian	Negative	negative	0.427	1	11	14	0	
+ParlaMint-HU_2015-11-04.seg240.6	u2015-11-04-21	s	Hungarian	Negative	mixed negative	0.586	1	7	8	0	
+ParlaMint-HU_2015-11-04.seg240.7	u2015-11-04-21	s	Hungarian	Negative	negative	0.402	1	7	8	0	
+ParlaMint-HU_2015-11-04.seg240.8	u2015-11-04-21	s	Hungarian	Negative	negative	0.447	1	55	63	2	
+ParlaMint-HU_2015-11-04.seg240.9	u2015-11-04-21	s	Hungarian	Neutral	neutral postive	3.169	1	34	39	1	
+ParlaMint-HU_2015-11-04.seg241.1	u2015-11-04-21	s	Hungarian	Negative	negative	0.241	1	44	51	0	
+ParlaMint-HU_2015-11-04.seg241.2	u2015-11-04-21	s	Hungarian	Negative	mixed negative	0.984	1	54	64	1	
+ParlaMint-HU_2015-11-04.seg241.3	u2015-11-04-21	s	Hungarian	Negative	negative	0.340	1	18	21	0	
+ParlaMint-HU_2015-11-04.seg242.1	u2015-11-04-21	s	Hungarian	Negative	negative	0.174	1	90	106	0	
+ParlaMint-HU_2015-11-04.seg243.1	u2015-11-04-21	s	Hungarian	Negative	negative	0.392	1	16	20	0	
+ParlaMint-HU_2015-11-04.seg243.2	u2015-11-04-21	s	Hungarian	Negative	mixed negative	1.357	1	22	29	0	
+ParlaMint-HU_2015-11-04.seg243.3	u2015-11-04-21	s	Hungarian	Negative	negative	0.408	1	25	28	1	
+ParlaMint-HU_2015-11-04.seg244.1	u2015-11-04-21	s	Hungarian	Negative	negative	0.220	1	25	29	2	
+ParlaMint-HU_2015-11-04.seg244.2	u2015-11-04-21	s	Hungarian	Neutral	neutral postive	3.490	1	14	16	0	
+ParlaMint-HU_2015-11-04.seg244.3	u2015-11-04-21	s	Hungarian	Negative	mixed negative	0.568	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg245.1	u2015-11-04-21	s	Hungarian	Negative	negative	0.143	1	35	42	0	
+ParlaMint-HU_2015-11-04.seg245.2	u2015-11-04-21	s	Hungarian	Negative	negative	0.262	1	62	71	3	
+ParlaMint-HU_2015-11-04.seg245.3	u2015-11-04-21	s	Hungarian	Neutral	neutral postive	2.987	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg245.4	u2015-11-04-21	s	Hungarian	Negative	mixed negative	0.769	1	14	17	0	
+ParlaMint-HU_2015-11-04.seg245.5	u2015-11-04-21	s	Hungarian	Neutral	neutral negative	1.875	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg245.6	u2015-11-04-21	s	Hungarian	Negative	mixed negative	1.489	1	24	27	1	
+ParlaMint-HU_2015-11-04.seg245.7	u2015-11-04-21	s	Hungarian	Negative	mixed negative	0.950	1	20	24	0	
+ParlaMint-HU_2015-11-04.seg245.8	u2015-11-04-21	s	Hungarian	Negative	mixed negative	0.656	1	68	80	0	
+ParlaMint-HU_2015-11-04.seg246.1	u2015-11-04-21	s	Hungarian	Neutral	neutral negative	1.935	1	30	38	0	
+ParlaMint-HU_2015-11-04.seg246.2	u2015-11-04-21	s	Hungarian	Neutral	neutral postive	3.383	1	8	10	0	
+ParlaMint-HU_2015-11-04.seg246.3	u2015-11-04-21	s	Hungarian	Neutral	neutral postive	3.371	1	16	20	0	
+ParlaMint-HU_2015-11-04.seg246.4	u2015-11-04-21	s	Hungarian	Neutral	neutral postive	3.402	1	36	42	0	
+ParlaMint-HU_2015-11-04.seg246.5	u2015-11-04-21	s	Hungarian	Negative	negative	0.179	1	31	39	0	
+ParlaMint-HU_2015-11-04.seg246.6	u2015-11-04-21	s	Hungarian	Negative	negative	0.148	1	46	53	1	
+ParlaMint-HU_2015-11-04.seg246.7	u2015-11-04-21	s	Hungarian	Negative	negative	0.115	1	50	60	3	
+ParlaMint-HU_2015-11-04.seg246.8	u2015-11-04-21	s	Hungarian	Negative	negative	0.256	1	25	30	1	
+ParlaMint-HU_2015-11-04.seg246.9	u2015-11-04-21	s	Hungarian	Negative	mixed negative	1.245	1	15	18	0	
+ParlaMint-HU_2015-11-04.seg246.10	u2015-11-04-21	s	Hungarian	Negative	negative	0.264	1	57	66	2	
+ParlaMint-HU_2015-11-04.seg246.11	u2015-11-04-21	s	Hungarian	Negative	negative	0.251	1	18	21	0	
+ParlaMint-HU_2015-11-04.seg246.12	u2015-11-04-21	s	Hungarian	Negative	negative	0.040	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg246.13	u2015-11-04-21	s	Hungarian	Negative	mixed negative	0.561	1	32	37	0	
+ParlaMint-HU_2015-11-04.seg246.14	u2015-11-04-21	s	Hungarian	Negative	mixed negative	0.724	1	63	75	2	
+ParlaMint-HU_2015-11-04.seg246.15	u2015-11-04-21	s	Hungarian	Negative	mixed negative	1.021	1	7	9	0	
+ParlaMint-HU_2015-11-04.seg246.16	u2015-11-04-21	s	Hungarian	Neutral	neutral negative	2.264	1	27	31	0	
+ParlaMint-HU_2015-11-04.seg247.1	u2015-11-04-21	s	Hungarian	Positive	mixed positive	3.531	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg247.2	u2015-11-04-21	s	Hungarian	Positive	mixed positive	4.205	1	4	5	0	
+u2015-11-04-22	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	4	16	23	1	
+ParlaMint-HU_2015-11-04.seg248.1	u2015-11-04-22	s	Hungarian	Positive	mixed positive	4.215	1	3	5	0	
+ParlaMint-HU_2015-11-04.seg248.2	u2015-11-04-22	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg248.3	u2015-11-04-22	s	Hungarian	Positive	mixed positive	3.622	1	8	10	1	
+ParlaMint-HU_2015-11-04.seg248.4	u2015-11-04-22	s	Hungarian	Positive	mixed positive	3.564	1	3	5	0	
+u2015-11-04-23	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	52	1559	1851	23	
+ParlaMint-HU_2015-11-04.seg249.1	u2015-11-04-23	s	Hungarian	Positive	positive	4.696	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg249.2	u2015-11-04-23	s	Hungarian	Positive	mixed positive	4.466	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg249.3	u2015-11-04-23	s	Hungarian	Positive	mixed positive	3.790	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg249.4	u2015-11-04-23	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2015-11-04.seg249.5	u2015-11-04-23	s	Hungarian	Negative	negative	0.282	1	30	36	0	
+ParlaMint-HU_2015-11-04.seg249.6	u2015-11-04-23	s	Hungarian	Positive	positive	5.130	1	31	39	0	
+ParlaMint-HU_2015-11-04.seg249.7	u2015-11-04-23	s	Hungarian	Negative	mixed negative	0.678	1	30	35	0	
+ParlaMint-HU_2015-11-04.seg249.8	u2015-11-04-23	s	Hungarian	Negative	mixed negative	0.511	1	21	24	0	
+ParlaMint-HU_2015-11-04.seg250.1	u2015-11-04-23	s	Hungarian	Neutral	neutral negative	1.894	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg250.2	u2015-11-04-23	s	Hungarian	Negative	negative	0.179	1	39	50	1	
+ParlaMint-HU_2015-11-04.seg251.1	u2015-11-04-23	s	Hungarian	Neutral	neutral negative	2.272	1	61	70	1	
+ParlaMint-HU_2015-11-04.seg251.2	u2015-11-04-23	s	Hungarian	Negative	negative	0.268	1	31	36	0	
+ParlaMint-HU_2015-11-04.seg252.1	u2015-11-04-23	s	Hungarian	Neutral	neutral postive	3.181	1	31	37	0	
+ParlaMint-HU_2015-11-04.seg252.2	u2015-11-04-23	s	Hungarian	Negative	negative	0.408	1	16	18	0	
+ParlaMint-HU_2015-11-04.seg252.3	u2015-11-04-23	s	Hungarian	Negative	negative	0.423	1	41	47	4	
+ParlaMint-HU_2015-11-04.seg252.4	u2015-11-04-23	s	Hungarian	Neutral	neutral postive	3.402	1	63	75	2	
+ParlaMint-HU_2015-11-04.seg253.1	u2015-11-04-23	s	Hungarian	Negative	negative	0.386	1	66	78	1	
+ParlaMint-HU_2015-11-04.seg253.2	u2015-11-04-23	s	Hungarian	Neutral	neutral postive	2.908	1	17	22	0	
+ParlaMint-HU_2015-11-04.seg253.3	u2015-11-04-23	s	Hungarian	Negative	mixed negative	0.512	1	22	25	1	
+ParlaMint-HU_2015-11-04.seg254.1	u2015-11-04-23	s	Hungarian	Negative	mixed negative	0.539	1	134	159	3	
+ParlaMint-HU_2015-11-04.seg255.1	u2015-11-04-23	s	Hungarian	Negative	negative	0.133	1	38	46	0	
+ParlaMint-HU_2015-11-04.seg255.2	u2015-11-04-23	s	Hungarian	Negative	negative	0.249	1	24	29	0	
+ParlaMint-HU_2015-11-04.seg256.1	u2015-11-04-23	s	Hungarian	Negative	negative	0.193	1	29	34	0	
+ParlaMint-HU_2015-11-04.seg256.2	u2015-11-04-23	s	Hungarian	Negative	negative	0.485	1	54	64	1	
+ParlaMint-HU_2015-11-04.seg256.3	u2015-11-04-23	s	Hungarian	Negative	negative	0.157	1	47	56	1	
+ParlaMint-HU_2015-11-04.seg256.4	u2015-11-04-23	s	Hungarian	Negative	mixed negative	1.023	1	25	29	1	
+ParlaMint-HU_2015-11-04.seg257.1	u2015-11-04-23	s	Hungarian	Negative	mixed negative	1.128	1	39	48	3	
+ParlaMint-HU_2015-11-04.seg257.2	u2015-11-04-23	s	Hungarian	Neutral	neutral negative	1.539	1	33	40	1	
+ParlaMint-HU_2015-11-04.seg257.3	u2015-11-04-23	s	Hungarian	Negative	negative	0.191	1	8	9	0	
+ParlaMint-HU_2015-11-04.seg258.1	u2015-11-04-23	s	Hungarian	Positive	mixed positive	3.800	1	26	32	0	
+ParlaMint-HU_2015-11-04.seg258.2	u2015-11-04-23	s	Hungarian	Negative	mixed negative	0.980	1	18	21	0	
+ParlaMint-HU_2015-11-04.seg258.3	u2015-11-04-23	s	Hungarian	Positive	mixed positive	3.641	1	35	41	0	
+ParlaMint-HU_2015-11-04.seg258.4	u2015-11-04-23	s	Hungarian	Negative	negative	0.201	1	23	28	0	
+ParlaMint-HU_2015-11-04.seg258.5	u2015-11-04-23	s	Hungarian	Negative	negative	0.135	1	79	93	0	
+ParlaMint-HU_2015-11-04.seg258.6	u2015-11-04-23	s	Hungarian	Negative	negative	0.253	1	27	32	0	
+ParlaMint-HU_2015-11-04.seg258.7	u2015-11-04-23	s	Hungarian	Negative	mixed negative	1.101	1	43	50	0	
+ParlaMint-HU_2015-11-04.seg258.8	u2015-11-04-23	s	Hungarian	Neutral	neutral negative	2.174	1	8	9	0	
+ParlaMint-HU_2015-11-04.seg259.1	u2015-11-04-23	s	Hungarian	Neutral	neutral postive	2.515	1	12	15	0	
+ParlaMint-HU_2015-11-04.seg259.2	u2015-11-04-23	s	Hungarian	Negative	negative	0.311	1	16	19	0	
+ParlaMint-HU_2015-11-04.seg259.3	u2015-11-04-23	s	Hungarian	Negative	mixed negative	0.900	1	56	66	1	
+ParlaMint-HU_2015-11-04.seg259.4	u2015-11-04-23	s	Hungarian	Negative	negative	0.140	1	14	15	0	
+ParlaMint-HU_2015-11-04.seg260.1	u2015-11-04-23	s	Hungarian	Neutral	neutral postive	2.870	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg260.2	u2015-11-04-23	s	Hungarian	Neutral	neutral negative	2.381	1	15	17	0	
+ParlaMint-HU_2015-11-04.seg260.3	u2015-11-04-23	s	Hungarian	Negative	negative	0.119	1	27	31	0	
+ParlaMint-HU_2015-11-04.seg260.4	u2015-11-04-23	s	Hungarian	Neutral	neutral negative	2.010	1	21	26	0	
+ParlaMint-HU_2015-11-04.seg260.5	u2015-11-04-23	s	Hungarian	Neutral	neutral postive	3.499	1	13	14	0	
+ParlaMint-HU_2015-11-04.seg261.1	u2015-11-04-23	s	Hungarian	Negative	negative	0.444	1	14	16	0	
+ParlaMint-HU_2015-11-04.seg261.2	u2015-11-04-23	s	Hungarian	Negative	negative	0.325	1	48	54	0	
+ParlaMint-HU_2015-11-04.seg261.3	u2015-11-04-23	s	Hungarian	Negative	negative	0.220	1	20	24	0	
+ParlaMint-HU_2015-11-04.seg261.4	u2015-11-04-23	s	Hungarian	Negative	mixed negative	0.905	1	24	29	1	
+ParlaMint-HU_2015-11-04.seg261.5	u2015-11-04-23	s	Hungarian	Negative	negative	0.436	1	70	86	0	
+ParlaMint-HU_2015-11-04.seg262.1	u2015-11-04-23	s	Hungarian	Positive	mixed positive	4.087	1	4	5	0	
+u2015-11-04-24	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	4	17	23	1	
+ParlaMint-HU_2015-11-04.seg263.1	u2015-11-04-24	s	Hungarian	Positive	positive	4.506	1	4	6	0	
+ParlaMint-HU_2015-11-04.seg263.2	u2015-11-04-24	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg263.3	u2015-11-04-24	s	Hungarian	Neutral	neutral postive	2.745	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg263.4	u2015-11-04-24	s	Hungarian	Positive	mixed positive	3.624	1	8	10	1	
+u2015-11-04-25	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	44	1187	1379	39	
+ParlaMint-HU_2015-11-04.seg264.1	u2015-11-04-25	s	Hungarian	Positive	positive	4.710	1	4	6	0	
+ParlaMint-HU_2015-11-04.seg264.2	u2015-11-04-25	s	Hungarian	Negative	negative	0.209	1	71	84	4	
+ParlaMint-HU_2015-11-04.seg264.3	u2015-11-04-25	s	Hungarian	Negative	mixed negative	1.251	1	21	23	2	
+ParlaMint-HU_2015-11-04.seg264.4	u2015-11-04-25	s	Hungarian	Negative	negative	0.233	1	25	29	0	
+ParlaMint-HU_2015-11-04.seg264.5	u2015-11-04-25	s	Hungarian	Neutral	neutral negative	1.634	1	34	41	1	
+ParlaMint-HU_2015-11-04.seg264.6	u2015-11-04-25	s	Hungarian	Negative	mixed negative	0.767	1	25	28	0	
+ParlaMint-HU_2015-11-04.seg265.1	u2015-11-04-25	s	Hungarian	Negative	negative	0.167	1	13	15	0	
+ParlaMint-HU_2015-11-04.seg265.2	u2015-11-04-25	s	Hungarian	Negative	mixed negative	0.660	1	55	64	4	
+ParlaMint-HU_2015-11-04.seg265.3	u2015-11-04-25	s	Hungarian	Negative	negative	0.193	1	26	30	1	
+ParlaMint-HU_2015-11-04.seg265.4	u2015-11-04-25	s	Hungarian	Negative	negative	0.384	1	15	20	2	
+ParlaMint-HU_2015-11-04.seg265.5	u2015-11-04-25	s	Hungarian	Negative	mixed negative	0.506	1	14	16	1	
+ParlaMint-HU_2015-11-04.seg266.1	u2015-11-04-25	s	Hungarian	Negative	mixed negative	0.761	1	37	44	0	
+ParlaMint-HU_2015-11-04.seg266.2	u2015-11-04-25	s	Hungarian	Neutral	neutral postive	2.646	1	41	46	0	
+ParlaMint-HU_2015-11-04.seg267.1	u2015-11-04-25	s	Hungarian	Negative	negative	0.173	1	33	38	0	
+ParlaMint-HU_2015-11-04.seg268.1	u2015-11-04-25	s	Hungarian	Negative	negative	0.113	1	22	27	0	
+ParlaMint-HU_2015-11-04.seg268.2	u2015-11-04-25	s	Hungarian	Negative	negative	0.245	1	9	10	0	
+ParlaMint-HU_2015-11-04.seg268.3	u2015-11-04-25	s	Hungarian	Neutral	neutral negative	1.503	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg268.4	u2015-11-04-25	s	Hungarian	Negative	negative	0.072	1	51	56	2	
+ParlaMint-HU_2015-11-04.seg268.5	u2015-11-04-25	s	Hungarian	Negative	negative	0.185	1	4	6	0	
+ParlaMint-HU_2015-11-04.seg268.6	u2015-11-04-25	s	Hungarian	Negative	negative	0.230	1	7	9	0	
+ParlaMint-HU_2015-11-04.seg269.1	u2015-11-04-25	s	Hungarian	Neutral	neutral negative	2.225	1	114	130	6	
+ParlaMint-HU_2015-11-04.seg269.2	u2015-11-04-25	s	Hungarian	Negative	mixed negative	0.559	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg269.3	u2015-11-04-25	s	Hungarian	Negative	negative	0.231	1	12	13	0	
+ParlaMint-HU_2015-11-04.seg269.4	u2015-11-04-25	s	Hungarian	Neutral	neutral negative	2.235	1	25	27	3	
+ParlaMint-HU_2015-11-04.seg270.1	u2015-11-04-25	s	Hungarian	Negative	mixed negative	0.656	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg270.2	u2015-11-04-25	s	Hungarian	Negative	negative	0.132	1	34	40	1	
+ParlaMint-HU_2015-11-04.seg270.3	u2015-11-04-25	s	Hungarian	Negative	negative	0.126	1	10	12	0	
+ParlaMint-HU_2015-11-04.seg271.1	u2015-11-04-25	s	Hungarian	Negative	negative	0.382	1	50	58	3	
+ParlaMint-HU_2015-11-04.seg271.2	u2015-11-04-25	s	Hungarian	Negative	mixed negative	0.573	1	27	31	1	
+ParlaMint-HU_2015-11-04.seg271.3	u2015-11-04-25	s	Hungarian	Negative	negative	0.480	1	12	15	0	
+ParlaMint-HU_2015-11-04.seg271.4	u2015-11-04-25	s	Hungarian	Negative	negative	0.240	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg271.5	u2015-11-04-25	s	Hungarian	Negative	mixed negative	1.231	1	27	31	2	
+ParlaMint-HU_2015-11-04.seg271.6	u2015-11-04-25	s	Hungarian	Neutral	neutral postive	2.937	1	18	20	2	
+ParlaMint-HU_2015-11-04.seg271.7	u2015-11-04-25	s	Hungarian	Negative	negative	0.299	1	34	37	1	
+ParlaMint-HU_2015-11-04.seg271.8	u2015-11-04-25	s	Hungarian	Negative	mixed negative	0.621	1	12	14	1	
+ParlaMint-HU_2015-11-04.seg271.9	u2015-11-04-25	s	Hungarian	Negative	negative	0.096	1	46	53	0	
+ParlaMint-HU_2015-11-04.seg271.10	u2015-11-04-25	s	Hungarian	Negative	negative	0.338	1	14	16	0	
+ParlaMint-HU_2015-11-04.seg271.11	u2015-11-04-25	s	Hungarian	Negative	mixed negative	0.937	1	72	84	1	
+ParlaMint-HU_2015-11-04.seg271.12	u2015-11-04-25	s	Hungarian	Negative	negative	0.228	1	15	18	1	
+ParlaMint-HU_2015-11-04.seg271.13	u2015-11-04-25	s	Hungarian	Neutral	neutral postive	2.659	1	25	28	0	
+ParlaMint-HU_2015-11-04.seg271.14	u2015-11-04-25	s	Hungarian	Negative	negative	0.214	1	31	36	0	
+ParlaMint-HU_2015-11-04.seg271.15	u2015-11-04-25	s	Hungarian	Positive	mixed positive	3.977	1	41	49	0	
+ParlaMint-HU_2015-11-04.seg271.16	u2015-11-04-25	s	Hungarian	Negative	negative	0.061	1	40	49	0	
+ParlaMint-HU_2015-11-04.seg271.17	u2015-11-04-25	s	Hungarian	Positive	positive	4.696	1	2	3	0	
+u2015-11-04-26	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	4	16	22	2	
+ParlaMint-HU_2015-11-04.seg272.1	u2015-11-04-26	s	Hungarian	Positive	mixed positive	4.215	1	3	5	0	
+ParlaMint-HU_2015-11-04.seg272.2	u2015-11-04-26	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg272.3	u2015-11-04-26	s	Hungarian	Neutral	neutral postive	2.794	1	3	4	1	
+ParlaMint-HU_2015-11-04.seg272.4	u2015-11-04-26	s	Hungarian	Positive	mixed positive	3.622	1	8	10	1	
+u2015-11-04-27	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	14	316	383	9	
+ParlaMint-HU_2015-11-04.seg273.1	u2015-11-04-27	s	Hungarian	Positive	mixed positive	4.466	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg273.2	u2015-11-04-27	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2015-11-04.seg273.3	u2015-11-04-27	s	Hungarian	Negative	mixed negative	0.629	1	12	14	0	
+ParlaMint-HU_2015-11-04.seg273.4	u2015-11-04-27	s	Hungarian	Negative	negative	0.185	1	27	32	1	
+ParlaMint-HU_2015-11-04.seg273.5	u2015-11-04-27	s	Hungarian	Negative	mixed negative	1.422	1	28	34	0	
+ParlaMint-HU_2015-11-04.seg273.6	u2015-11-04-27	s	Hungarian	Negative	negative	0.124	1	39	45	2	
+ParlaMint-HU_2015-11-04.seg273.7	u2015-11-04-27	s	Hungarian	Negative	mixed negative	0.901	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg273.8	u2015-11-04-27	s	Hungarian	Neutral	neutral negative	2.446	1	28	32	2	
+ParlaMint-HU_2015-11-04.seg273.9	u2015-11-04-27	s	Hungarian	Neutral	neutral negative	1.550	1	63	77	1	
+ParlaMint-HU_2015-11-04.seg274.1	u2015-11-04-27	s	Hungarian	Negative	negative	0.395	1	24	31	0	
+ParlaMint-HU_2015-11-04.seg274.2	u2015-11-04-27	s	Hungarian	Negative	mixed negative	1.291	1	16	20	1	
+ParlaMint-HU_2015-11-04.seg275.1	u2015-11-04-27	s	Hungarian	Negative	negative	0.250	1	37	46	0	
+ParlaMint-HU_2015-11-04.seg275.2	u2015-11-04-27	s	Hungarian	Positive	mixed positive	4.154	1	29	35	1	
+ParlaMint-HU_2015-11-04.seg275.3	u2015-11-04-27	s	Hungarian	Positive	positive	4.696	1	2	3	0	
+u2015-11-04-28	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	3	14	19	2	
+ParlaMint-HU_2015-11-04.seg276.1	u2015-11-04-28	s	Hungarian	Positive	mixed positive	4.215	1	3	5	0	
+ParlaMint-HU_2015-11-04.seg276.2	u2015-11-04-28	s	Hungarian	Neutral	neutral postive	3.174	1	10	12	2	
+ParlaMint-HU_2015-11-04.seg276.3	u2015-11-04-28	s	Hungarian	Neutral	neutral postive	3.399	1	1	2	0	
+u2015-11-04-29	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	12	262	298	10	
+ParlaMint-HU_2015-11-04.seg277.1	u2015-11-04-29	s	Hungarian	Positive	positive	4.710	1	4	6	0	
+ParlaMint-HU_2015-11-04.seg277.2	u2015-11-04-29	s	Hungarian	Neutral	neutral postive	2.806	1	12	13	1	
+ParlaMint-HU_2015-11-04.seg278.1	u2015-11-04-29	s	Hungarian	Neutral	neutral postive	2.942	1	26	29	1	
+ParlaMint-HU_2015-11-04.seg279.1	u2015-11-04-29	s	Hungarian	Neutral	neutral postive	3.022	1	16	17	1	
+ParlaMint-HU_2015-11-04.seg279.2	u2015-11-04-29	s	Hungarian	Positive	mixed positive	4.445	1	13	15	0	
+ParlaMint-HU_2015-11-04.seg279.3	u2015-11-04-29	s	Hungarian	Neutral	neutral postive	3.109	1	11	12	1	
+ParlaMint-HU_2015-11-04.seg280.1	u2015-11-04-29	s	Hungarian	Negative	negative	0.291	1	26	29	1	
+ParlaMint-HU_2015-11-04.seg280.2	u2015-11-04-29	s	Hungarian	Neutral	neutral postive	2.576	1	48	54	2	
+ParlaMint-HU_2015-11-04.seg280.3	u2015-11-04-29	s	Hungarian	Neutral	neutral postive	2.644	1	21	24	0	
+ParlaMint-HU_2015-11-04.seg280.4	u2015-11-04-29	s	Hungarian	Neutral	neutral negative	1.692	1	58	66	2	
+ParlaMint-HU_2015-11-04.seg281.1	u2015-11-04-29	s	Hungarian	Positive	positive	5.356	1	23	27	1	
+ParlaMint-HU_2015-11-04.seg281.2	u2015-11-04-29	s	Hungarian	Positive	positive	4.710	1	4	6	0	
+u2015-11-04-30	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	4	17	23	2	
+ParlaMint-HU_2015-11-04.seg282.1	u2015-11-04-30	s	Hungarian	Positive	mixed positive	4.215	1	3	5	0	
+ParlaMint-HU_2015-11-04.seg282.2	u2015-11-04-30	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg282.3	u2015-11-04-30	s	Hungarian	Neutral	neutral postive	3.021	1	9	11	2	
+ParlaMint-HU_2015-11-04.seg282.4	u2015-11-04-30	s	Hungarian	Positive	mixed positive	3.837	1	3	4	0	
+u2015-11-04-31	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	68	1802	2149	22	
+ParlaMint-HU_2015-11-04.seg283.1	u2015-11-04-31	s	Hungarian	Positive	positive	4.710	1	4	6	0	
+ParlaMint-HU_2015-11-04.seg283.2	u2015-11-04-31	s	Hungarian	Negative	negative	0.273	1	15	19	1	
+ParlaMint-HU_2015-11-04.seg283.3	u2015-11-04-31	s	Hungarian	Negative	negative	0.325	1	17	23	0	
+ParlaMint-HU_2015-11-04.seg283.4	u2015-11-04-31	s	Hungarian	Negative	mixed negative	0.894	1	9	12	0	
+ParlaMint-HU_2015-11-04.seg283.5	u2015-11-04-31	s	Hungarian	Negative	negative	0.353	1	18	22	0	
+ParlaMint-HU_2015-11-04.seg283.6	u2015-11-04-31	s	Hungarian	Negative	mixed negative	0.923	1	19	23	0	
+ParlaMint-HU_2015-11-04.seg283.7	u2015-11-04-31	s	Hungarian	Neutral	neutral negative	1.809	1	36	41	0	
+ParlaMint-HU_2015-11-04.seg283.8	u2015-11-04-31	s	Hungarian	Positive	mixed positive	4.432	1	48	56	0	
+ParlaMint-HU_2015-11-04.seg283.9	u2015-11-04-31	s	Hungarian	Negative	mixed negative	1.365	1	57	66	2	
+ParlaMint-HU_2015-11-04.seg283.10	u2015-11-04-31	s	Hungarian	Negative	negative	0.177	1	19	23	0	
+ParlaMint-HU_2015-11-04.seg283.11	u2015-11-04-31	s	Hungarian	Negative	mixed negative	0.626	1	23	30	0	
+ParlaMint-HU_2015-11-04.seg283.12	u2015-11-04-31	s	Hungarian	Neutral	neutral postive	3.049	1	58	68	1	
+ParlaMint-HU_2015-11-04.seg283.13	u2015-11-04-31	s	Hungarian	Positive	mixed positive	4.047	1	27	31	1	
+ParlaMint-HU_2015-11-04.seg283.14	u2015-11-04-31	s	Hungarian	Negative	negative	0.394	1	8	10	0	
+ParlaMint-HU_2015-11-04.seg283.15	u2015-11-04-31	s	Hungarian	Negative	negative	0.162	1	20	22	0	
+ParlaMint-HU_2015-11-04.seg283.16	u2015-11-04-31	s	Hungarian	Negative	negative	0.372	1	88	106	0	
+ParlaMint-HU_2015-11-04.seg283.17	u2015-11-04-31	s	Hungarian	Neutral	neutral postive	3.024	1	27	32	0	
+ParlaMint-HU_2015-11-04.seg283.18	u2015-11-04-31	s	Hungarian	Neutral	neutral postive	2.790	1	26	29	0	
+ParlaMint-HU_2015-11-04.seg283.19	u2015-11-04-31	s	Hungarian	Negative	mixed negative	1.426	1	43	53	0	
+ParlaMint-HU_2015-11-04.seg283.20	u2015-11-04-31	s	Hungarian	Neutral	neutral postive	2.516	1	85	100	3	
+ParlaMint-HU_2015-11-04.seg283.21	u2015-11-04-31	s	Hungarian	Negative	mixed negative	1.020	1	34	38	1	
+ParlaMint-HU_2015-11-04.seg283.22	u2015-11-04-31	s	Hungarian	Negative	negative	0.319	1	20	24	0	
+ParlaMint-HU_2015-11-04.seg283.23	u2015-11-04-31	s	Hungarian	Negative	negative	0.172	1	18	22	1	
+ParlaMint-HU_2015-11-04.seg283.24	u2015-11-04-31	s	Hungarian	Positive	mixed positive	4.233	1	55	63	1	
+ParlaMint-HU_2015-11-04.seg283.25	u2015-11-04-31	s	Hungarian	Negative	mixed negative	0.889	1	42	50	2	
+ParlaMint-HU_2015-11-04.seg283.26	u2015-11-04-31	s	Hungarian	Negative	negative	0.273	1	34	41	1	
+ParlaMint-HU_2015-11-04.seg283.27	u2015-11-04-31	s	Hungarian	Negative	negative	0.100	1	35	44	0	
+ParlaMint-HU_2015-11-04.seg284.1	u2015-11-04-31	s	Hungarian	Negative	negative	0.306	1	22	29	0	
+ParlaMint-HU_2015-11-04.seg284.2	u2015-11-04-31	s	Hungarian	Negative	negative	0.124	1	23	27	0	
+ParlaMint-HU_2015-11-04.seg285.1	u2015-11-04-31	s	Hungarian	Negative	mixed negative	1.411	1	32	41	0	
+ParlaMint-HU_2015-11-04.seg285.2	u2015-11-04-31	s	Hungarian	Negative	negative	0.365	1	20	23	1	
+ParlaMint-HU_2015-11-04.seg285.3	u2015-11-04-31	s	Hungarian	Negative	mixed negative	0.991	1	14	16	0	
+ParlaMint-HU_2015-11-04.seg285.4	u2015-11-04-31	s	Hungarian	Neutral	neutral postive	3.301	1	7	8	0	
+ParlaMint-HU_2015-11-04.seg285.5	u2015-11-04-31	s	Hungarian	Neutral	neutral postive	2.776	1	19	23	0	
+ParlaMint-HU_2015-11-04.seg285.6	u2015-11-04-31	s	Hungarian	Neutral	neutral postive	2.871	1	9	12	0	
+ParlaMint-HU_2015-11-04.seg286.1	u2015-11-04-31	s	Hungarian	Negative	negative	0.376	1	39	45	1	
+ParlaMint-HU_2015-11-04.seg286.2	u2015-11-04-31	s	Hungarian	Negative	negative	0.321	1	33	36	1	
+ParlaMint-HU_2015-11-04.seg286.3	u2015-11-04-31	s	Hungarian	Positive	positive	4.656	1	10	11	0	
+ParlaMint-HU_2015-11-04.seg286.4	u2015-11-04-31	s	Hungarian	Negative	mixed negative	1.192	1	35	39	0	
+ParlaMint-HU_2015-11-04.seg286.5	u2015-11-04-31	s	Hungarian	Negative	mixed negative	1.035	1	19	22	0	
+ParlaMint-HU_2015-11-04.seg286.6	u2015-11-04-31	s	Hungarian	Negative	mixed negative	1.000	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg286.7	u2015-11-04-31	s	Hungarian	Negative	mixed negative	0.680	1	23	29	0	
+ParlaMint-HU_2015-11-04.seg286.8	u2015-11-04-31	s	Hungarian	Neutral	neutral postive	2.519	1	2	4	1	
+ParlaMint-HU_2015-11-04.seg286.9	u2015-11-04-31	s	Hungarian	Negative	negative	0.327	1	37	45	1	
+ParlaMint-HU_2015-11-04.seg286.10	u2015-11-04-31	s	Hungarian	Neutral	neutral postive	2.566	1	16	20	0	
+ParlaMint-HU_2015-11-04.seg286.11	u2015-11-04-31	s	Hungarian	Neutral	neutral postive	3.266	1	10	12	0	
+ParlaMint-HU_2015-11-04.seg286.12	u2015-11-04-31	s	Hungarian	Neutral	neutral postive	2.748	1	12	14	0	
+ParlaMint-HU_2015-11-04.seg286.13	u2015-11-04-31	s	Hungarian	Neutral	neutral negative	2.474	1	9	12	0	
+ParlaMint-HU_2015-11-04.seg286.14	u2015-11-04-31	s	Hungarian	Neutral	neutral postive	2.734	1	18	22	0	
+ParlaMint-HU_2015-11-04.seg286.15	u2015-11-04-31	s	Hungarian	Neutral	neutral negative	1.803	1	44	51	0	
+ParlaMint-HU_2015-11-04.seg286.16	u2015-11-04-31	s	Hungarian	Neutral	neutral negative	2.213	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg286.17	u2015-11-04-31	s	Hungarian	Neutral	neutral negative	2.403	1	27	31	0	
+ParlaMint-HU_2015-11-04.seg286.18	u2015-11-04-31	s	Hungarian	Negative	negative	0.103	1	14	20	0	
+ParlaMint-HU_2015-11-04.seg286.19	u2015-11-04-31	s	Hungarian	Negative	negative	0.111	1	41	49	0	
+ParlaMint-HU_2015-11-04.seg286.20	u2015-11-04-31	s	Hungarian	Negative	negative	0.433	1	18	23	0	
+ParlaMint-HU_2015-11-04.seg286.21	u2015-11-04-31	s	Hungarian	Negative	negative	0.185	1	52	63	0	
+ParlaMint-HU_2015-11-04.seg286.22	u2015-11-04-31	s	Hungarian	Neutral	neutral negative	2.387	1	5	7	0	
+ParlaMint-HU_2015-11-04.seg286.23	u2015-11-04-31	s	Hungarian	Neutral	neutral postive	2.818	1	14	16	0	
+ParlaMint-HU_2015-11-04.seg286.24	u2015-11-04-31	s	Hungarian	Positive	mixed positive	3.504	1	22	27	0	
+ParlaMint-HU_2015-11-04.seg286.25	u2015-11-04-31	s	Hungarian	Negative	mixed negative	0.807	1	34	40	1	
+ParlaMint-HU_2015-11-04.seg286.26	u2015-11-04-31	s	Hungarian	Neutral	neutral postive	2.646	1	12	13	0	
+ParlaMint-HU_2015-11-04.seg286.27	u2015-11-04-31	s	Hungarian	Negative	negative	0.161	1	105	121	0	
+ParlaMint-HU_2015-11-04.seg286.28	u2015-11-04-31	s	Hungarian	Negative	mixed negative	0.609	1	35	41	0	
+ParlaMint-HU_2015-11-04.seg286.29	u2015-11-04-31	s	Hungarian	Negative	negative	0.228	1	8	10	0	
+ParlaMint-HU_2015-11-04.seg286.30	u2015-11-04-31	s	Hungarian	Positive	mixed positive	4.001	1	10	11	1	
+ParlaMint-HU_2015-11-04.seg286.31	u2015-11-04-31	s	Hungarian	Negative	mixed negative	0.994	1	35	41	1	
+ParlaMint-HU_2015-11-04.seg286.32	u2015-11-04-31	s	Hungarian	Negative	negative	0.328	1	17	22	0	
+ParlaMint-HU_2015-11-04.seg287.1	u2015-11-04-31	s	Hungarian	Positive	positive	4.710	1	4	6	0	
+u2015-11-04-32	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	4	11	16	2	
+ParlaMint-HU_2015-11-04.seg288.1	u2015-11-04-32	s	Hungarian	Positive	positive	4.547	1	1	2	0	
+ParlaMint-HU_2015-11-04.seg288.2	u2015-11-04-32	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2015-11-04.seg288.3	u2015-11-04-32	s	Hungarian	Neutral	neutral postive	3.191	1	7	9	1	
+ParlaMint-HU_2015-11-04.seg288.4	u2015-11-04-32	s	Hungarian	Neutral	neutral postive	3.399	1	1	2	0	
+u2015-11-04-33	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	59	1822	2142	46	
+ParlaMint-HU_2015-11-04.seg289.1	u2015-11-04-33	s	Hungarian	Positive	mixed positive	4.046	1	5	7	0	
+ParlaMint-HU_2015-11-04.seg289.2	u2015-11-04-33	s	Hungarian	Positive	mixed positive	4.084	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg289.3	u2015-11-04-33	s	Hungarian	Positive	mixed positive	4.232	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg289.4	u2015-11-04-33	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg289.5	u2015-11-04-33	s	Hungarian	Negative	mixed negative	0.972	1	64	75	2	
+ParlaMint-HU_2015-11-04.seg289.6	u2015-11-04-33	s	Hungarian	Neutral	neutral postive	3.252	1	7	9	0	
+ParlaMint-HU_2015-11-04.seg290.1	u2015-11-04-33	s	Hungarian	Negative	negative	0.230	1	25	28	2	
+ParlaMint-HU_2015-11-04.seg290.2	u2015-11-04-33	s	Hungarian	Negative	mixed negative	0.732	1	27	30	1	
+ParlaMint-HU_2015-11-04.seg290.3	u2015-11-04-33	s	Hungarian	Negative	mixed negative	1.048	1	42	47	0	
+ParlaMint-HU_2015-11-04.seg290.4	u2015-11-04-33	s	Hungarian	Neutral	neutral negative	1.739	1	25	31	0	
+ParlaMint-HU_2015-11-04.seg290.5	u2015-11-04-33	s	Hungarian	Neutral	neutral negative	2.347	1	24	27	0	
+ParlaMint-HU_2015-11-04.seg290.6	u2015-11-04-33	s	Hungarian	Positive	mixed positive	3.817	1	19	23	0	
+ParlaMint-HU_2015-11-04.seg290.7	u2015-11-04-33	s	Hungarian	Negative	negative	0.177	1	64	73	2	
+ParlaMint-HU_2015-11-04.seg291.1	u2015-11-04-33	s	Hungarian	Negative	negative	0.342	1	7	8	0	
+ParlaMint-HU_2015-11-04.seg291.2	u2015-11-04-33	s	Hungarian	Neutral	neutral negative	2.055	1	39	45	0	
+ParlaMint-HU_2015-11-04.seg291.3	u2015-11-04-33	s	Hungarian	Negative	mixed negative	0.639	1	15	17	0	
+ParlaMint-HU_2015-11-04.seg291.4	u2015-11-04-33	s	Hungarian	Negative	mixed negative	0.713	1	64	77	3	
+ParlaMint-HU_2015-11-04.seg291.5	u2015-11-04-33	s	Hungarian	Negative	negative	0.245	1	46	55	2	
+ParlaMint-HU_2015-11-04.seg292.1	u2015-11-04-33	s	Hungarian	Neutral	neutral postive	3.101	1	4	5	1	
+ParlaMint-HU_2015-11-04.seg292.2	u2015-11-04-33	s	Hungarian	Negative	negative	0.162	1	23	28	1	
+ParlaMint-HU_2015-11-04.seg292.3	u2015-11-04-33	s	Hungarian	Neutral	neutral postive	2.699	1	59	68	2	
+ParlaMint-HU_2015-11-04.seg293.1	u2015-11-04-33	s	Hungarian	Negative	mixed negative	0.792	1	22	24	0	
+ParlaMint-HU_2015-11-04.seg293.2	u2015-11-04-33	s	Hungarian	Negative	negative	0.280	1	92	109	0	
+ParlaMint-HU_2015-11-04.seg293.3	u2015-11-04-33	s	Hungarian	Negative	mixed negative	0.573	1	27	34	1	
+ParlaMint-HU_2015-11-04.seg293.4	u2015-11-04-33	s	Hungarian	Negative	mixed negative	0.518	1	62	70	2	
+ParlaMint-HU_2015-11-04.seg293.5	u2015-11-04-33	s	Hungarian	Negative	mixed negative	0.606	1	15	18	0	
+ParlaMint-HU_2015-11-04.seg293.6	u2015-11-04-33	s	Hungarian	Neutral	neutral postive	2.927	1	9	11	0	
+ParlaMint-HU_2015-11-04.seg293.7	u2015-11-04-33	s	Hungarian	Negative	mixed negative	1.449	1	12	14	0	
+ParlaMint-HU_2015-11-04.seg293.8	u2015-11-04-33	s	Hungarian	Negative	mixed negative	0.517	1	28	34	1	
+ParlaMint-HU_2015-11-04.seg293.9	u2015-11-04-33	s	Hungarian	Negative	negative	0.389	1	5	7	0	
+ParlaMint-HU_2015-11-04.seg293.10	u2015-11-04-33	s	Hungarian	Negative	negative	0.358	1	36	43	0	
+ParlaMint-HU_2015-11-04.seg293.11	u2015-11-04-33	s	Hungarian	Negative	negative	0.456	1	57	67	3	
+ParlaMint-HU_2015-11-04.seg293.12	u2015-11-04-33	s	Hungarian	Negative	negative	0.372	1	31	37	2	
+ParlaMint-HU_2015-11-04.seg293.13	u2015-11-04-33	s	Hungarian	Negative	negative	0.236	1	31	35	1	
+ParlaMint-HU_2015-11-04.seg293.14	u2015-11-04-33	s	Hungarian	Negative	negative	0.238	1	85	99	3	
+ParlaMint-HU_2015-11-04.seg293.15	u2015-11-04-33	s	Hungarian	Neutral	neutral postive	2.825	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg293.16	u2015-11-04-33	s	Hungarian	Negative	negative	0.177	1	41	48	2	
+ParlaMint-HU_2015-11-04.seg293.17	u2015-11-04-33	s	Hungarian	Negative	negative	0.173	1	20	25	1	
+ParlaMint-HU_2015-11-04.seg293.18	u2015-11-04-33	s	Hungarian	Negative	mixed negative	0.589	1	57	66	0	
+ParlaMint-HU_2015-11-04.seg293.19	u2015-11-04-33	s	Hungarian	Positive	mixed positive	3.834	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg293.20	u2015-11-04-33	s	Hungarian	Neutral	neutral negative	1.757	1	17	20	0	
+ParlaMint-HU_2015-11-04.seg293.21	u2015-11-04-33	s	Hungarian	Negative	negative	0.405	1	11	13	0	
+ParlaMint-HU_2015-11-04.seg293.22	u2015-11-04-33	s	Hungarian	Negative	negative	0.288	1	90	105	5	
+ParlaMint-HU_2015-11-04.seg293.23	u2015-11-04-33	s	Hungarian	Negative	mixed negative	1.146	1	17	21	0	
+ParlaMint-HU_2015-11-04.seg293.24	u2015-11-04-33	s	Hungarian	Negative	negative	0.248	1	28	32	0	
+ParlaMint-HU_2015-11-04.seg294.1	u2015-11-04-33	s	Hungarian	Neutral	neutral postive	2.829	1	41	49	0	
+ParlaMint-HU_2015-11-04.seg294.2	u2015-11-04-33	s	Hungarian	Negative	mixed negative	0.515	1	18	21	1	
+ParlaMint-HU_2015-11-04.seg294.3	u2015-11-04-33	s	Hungarian	Neutral	neutral negative	2.267	1	8	9	0	
+ParlaMint-HU_2015-11-04.seg294.4	u2015-11-04-33	s	Hungarian	Negative	mixed negative	0.716	1	21	24	1	
+ParlaMint-HU_2015-11-04.seg294.5	u2015-11-04-33	s	Hungarian	Positive	mixed positive	3.504	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg294.6	u2015-11-04-33	s	Hungarian	Negative	negative	0.208	1	20	23	0	
+ParlaMint-HU_2015-11-04.seg294.7	u2015-11-04-33	s	Hungarian	Negative	negative	0.416	1	32	36	1	
+ParlaMint-HU_2015-11-04.seg295.1	u2015-11-04-33	s	Hungarian	Negative	negative	0.177	1	71	83	0	
+ParlaMint-HU_2015-11-04.seg295.2	u2015-11-04-33	s	Hungarian	Negative	negative	0.129	1	36	43	2	
+ParlaMint-HU_2015-11-04.seg295.3	u2015-11-04-33	s	Hungarian	Negative	negative	0.258	1	71	83	3	
+ParlaMint-HU_2015-11-04.seg295.4	u2015-11-04-33	s	Hungarian	Negative	negative	0.376	1	72	88	0	
+ParlaMint-HU_2015-11-04.seg296.1	u2015-11-04-33	s	Hungarian	Negative	negative	0.438	1	17	22	1	
+ParlaMint-HU_2015-11-04.seg296.2	u2015-11-04-33	s	Hungarian	Negative	negative	0.009	1	35	41	0	
+ParlaMint-HU_2015-11-04.seg296.3	u2015-11-04-33	s	Hungarian	Positive	mixed positive	4.205	1	4	5	0	
+u2015-11-04-34	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	4	15	21	1	
+ParlaMint-HU_2015-11-04.seg297.1	u2015-11-04-34	s	Hungarian	Positive	mixed positive	4.215	1	3	5	0	
+ParlaMint-HU_2015-11-04.seg297.2	u2015-11-04-34	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg297.3	u2015-11-04-34	s	Hungarian	Neutral	neutral postive	3.132	1	7	9	1	
+ParlaMint-HU_2015-11-04.seg297.4	u2015-11-04-34	s	Hungarian	Positive	mixed positive	3.585	1	3	4	0	
+u2015-11-04-35	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	29	1106	1283	33	
+ParlaMint-HU_2015-11-04.seg298.1	u2015-11-04-35	s	Hungarian	Positive	positive	4.828	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg298.2	u2015-11-04-35	s	Hungarian	Positive	mixed positive	4.466	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg298.3	u2015-11-04-35	s	Hungarian	Positive	mixed positive	4.201	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg298.4	u2015-11-04-35	s	Hungarian	Negative	negative	0.468	1	73	84	1	
+ParlaMint-HU_2015-11-04.seg299.1	u2015-11-04-35	s	Hungarian	Negative	mixed negative	0.794	1	42	52	1	
+ParlaMint-HU_2015-11-04.seg299.2	u2015-11-04-35	s	Hungarian	Negative	negative	0.244	1	78	89	3	
+ParlaMint-HU_2015-11-04.seg299.3	u2015-11-04-35	s	Hungarian	Positive	positive	4.779	1	28	32	1	
+ParlaMint-HU_2015-11-04.seg299.4	u2015-11-04-35	s	Hungarian	Positive	positive	5.116	1	18	21	0	
+ParlaMint-HU_2015-11-04.seg299.5	u2015-11-04-35	s	Hungarian	Negative	negative	0.498	1	66	77	1	
+ParlaMint-HU_2015-11-04.seg299.6	u2015-11-04-35	s	Hungarian	Neutral	neutral postive	2.791	1	47	54	2	
+ParlaMint-HU_2015-11-04.seg299.7	u2015-11-04-35	s	Hungarian	Negative	negative	0.436	1	68	79	3	
+ParlaMint-HU_2015-11-04.seg299.8	u2015-11-04-35	s	Hungarian	Negative	negative	0.490	1	57	66	2	
+ParlaMint-HU_2015-11-04.seg299.9	u2015-11-04-35	s	Hungarian	Positive	positive	4.810	1	40	47	0	
+ParlaMint-HU_2015-11-04.seg300.1	u2015-11-04-35	s	Hungarian	Negative	negative	0.327	1	86	102	3	
+ParlaMint-HU_2015-11-04.seg300.2	u2015-11-04-35	s	Hungarian	Positive	positive	4.878	1	31	35	1	
+ParlaMint-HU_2015-11-04.seg301.1	u2015-11-04-35	s	Hungarian	Negative	negative	0.165	1	18	23	0	
+ParlaMint-HU_2015-11-04.seg301.2	u2015-11-04-35	s	Hungarian	Negative	mixed negative	0.667	1	34	38	1	
+ParlaMint-HU_2015-11-04.seg301.3	u2015-11-04-35	s	Hungarian	Positive	mixed positive	3.770	1	40	47	0	
+ParlaMint-HU_2015-11-04.seg301.4	u2015-11-04-35	s	Hungarian	Negative	negative	0.395	1	42	48	4	
+ParlaMint-HU_2015-11-04.seg301.5	u2015-11-04-35	s	Hungarian	Negative	negative	0.337	1	21	25	1	
+ParlaMint-HU_2015-11-04.seg301.6	u2015-11-04-35	s	Hungarian	Positive	mixed positive	3.750	1	37	41	1	
+ParlaMint-HU_2015-11-04.seg301.7	u2015-11-04-35	s	Hungarian	Negative	negative	0.291	1	12	14	0	
+ParlaMint-HU_2015-11-04.seg301.8	u2015-11-04-35	s	Hungarian	Negative	negative	0.494	1	28	33	2	
+ParlaMint-HU_2015-11-04.seg301.9	u2015-11-04-35	s	Hungarian	Neutral	neutral negative	1.624	1	26	30	0	
+ParlaMint-HU_2015-11-04.seg301.10	u2015-11-04-35	s	Hungarian	Positive	positive	4.630	1	74	85	1	
+ParlaMint-HU_2015-11-04.seg301.11	u2015-11-04-35	s	Hungarian	Negative	negative	0.451	1	54	61	1	
+ParlaMint-HU_2015-11-04.seg302.1	u2015-11-04-35	s	Hungarian	Negative	negative	0.178	1	39	45	2	
+ParlaMint-HU_2015-11-04.seg302.2	u2015-11-04-35	s	Hungarian	Negative	negative	0.251	1	33	37	2	
+ParlaMint-HU_2015-11-04.seg302.3	u2015-11-04-35	s	Hungarian	Positive	mixed positive	4.205	1	4	5	0	
+u2015-11-04-36	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	7	49	64	2	
+ParlaMint-HU_2015-11-04.seg303.1	u2015-11-04-36	s	Hungarian	Positive	positive	4.506	1	4	6	0	
+ParlaMint-HU_2015-11-04.seg303.2	u2015-11-04-36	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg303.3	u2015-11-04-36	s	Hungarian	Neutral	neutral postive	2.599	1	10	12	0	
+ParlaMint-HU_2015-11-04.seg304.1	u2015-11-04-36	s	Hungarian	Neutral	neutral negative	2.384	1	8	10	0	
+ParlaMint-HU_2015-11-04.seg305.1	u2015-11-04-36	s	Hungarian	Neutral	neutral postive	2.760	1	14	17	2	
+ParlaMint-HU_2015-11-04.seg306.1	u2015-11-04-36	s	Hungarian	Positive	mixed positive	3.878	1	7	10	0	
+ParlaMint-HU_2015-11-04.seg306.2	u2015-11-04-36	s	Hungarian	Positive	mixed positive	3.594	1	4	6	0	
+u2015-11-04-37	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	100	1723	2049	14	
+ParlaMint-HU_2015-11-04.seg307.1	u2015-11-04-37	s	Hungarian	Positive	positive	4.696	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg307.2	u2015-11-04-37	s	Hungarian	Negative	mixed negative	1.035	1	21	25	0	
+ParlaMint-HU_2015-11-04.seg307.3	u2015-11-04-37	s	Hungarian	Positive	mixed positive	3.913	1	29	38	0	
+ParlaMint-HU_2015-11-04.seg307.4	u2015-11-04-37	s	Hungarian	Negative	mixed negative	1.235	1	8	10	0	
+ParlaMint-HU_2015-11-04.seg307.5	u2015-11-04-37	s	Hungarian	Negative	mixed negative	0.689	1	11	13	0	
+ParlaMint-HU_2015-11-04.seg308.1	u2015-11-04-37	s	Hungarian	Positive	positive	5.290	1	62	72	3	
+ParlaMint-HU_2015-11-04.seg308.2	u2015-11-04-37	s	Hungarian	Positive	mixed positive	3.659	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg309.1	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	3.303	1	33	41	0	
+ParlaMint-HU_2015-11-04.seg309.2	u2015-11-04-37	s	Hungarian	Positive	positive	4.896	1	19	23	0	
+ParlaMint-HU_2015-11-04.seg309.3	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.535	1	11	14	0	
+ParlaMint-HU_2015-11-04.seg310.1	u2015-11-04-37	s	Hungarian	Negative	mixed negative	1.450	1	16	21	1	
+ParlaMint-HU_2015-11-04.seg310.2	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	3.085	1	23	26	1	
+ParlaMint-HU_2015-11-04.seg310.3	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.839	1	6	8	0	
+ParlaMint-HU_2015-11-04.seg310.4	u2015-11-04-37	s	Hungarian	Neutral	neutral negative	1.807	1	18	21	0	
+ParlaMint-HU_2015-11-04.seg310.5	u2015-11-04-37	s	Hungarian	Neutral	neutral negative	2.068	1	30	37	0	
+ParlaMint-HU_2015-11-04.seg311.1	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	3.178	1	17	20	0	
+ParlaMint-HU_2015-11-04.seg311.2	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.879	1	13	16	0	
+ParlaMint-HU_2015-11-04.seg311.3	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	3.307	1	39	46	0	
+ParlaMint-HU_2015-11-04.seg311.4	u2015-11-04-37	s	Hungarian	Negative	mixed negative	0.950	1	15	19	1	
+ParlaMint-HU_2015-11-04.seg312.1	u2015-11-04-37	s	Hungarian	Positive	positive	5.228	1	20	22	0	
+ParlaMint-HU_2015-11-04.seg312.2	u2015-11-04-37	s	Hungarian	Negative	negative	0.419	1	21	26	0	
+ParlaMint-HU_2015-11-04.seg312.3	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	3.125	1	20	21	0	
+ParlaMint-HU_2015-11-04.seg312.4	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	3.241	1	22	26	1	
+ParlaMint-HU_2015-11-04.seg313.1	u2015-11-04-37	s	Hungarian	Positive	mixed positive	4.018	1	16	18	0	
+ParlaMint-HU_2015-11-04.seg313.2	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.912	1	17	21	0	
+ParlaMint-HU_2015-11-04.seg313.3	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.896	1	16	20	0	
+ParlaMint-HU_2015-11-04.seg313.4	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	3.116	1	14	15	0	
+ParlaMint-HU_2015-11-04.seg314.1	u2015-11-04-37	s	Hungarian	Negative	mixed negative	1.174	1	35	41	0	
+ParlaMint-HU_2015-11-04.seg314.2	u2015-11-04-37	s	Hungarian	Positive	mixed positive	4.152	1	22	25	0	
+ParlaMint-HU_2015-11-04.seg314.3	u2015-11-04-37	s	Hungarian	Negative	mixed negative	0.789	1	30	35	1	
+ParlaMint-HU_2015-11-04.seg315.1	u2015-11-04-37	s	Hungarian	Positive	positive	4.711	1	8	9	0	
+ParlaMint-HU_2015-11-04.seg315.2	u2015-11-04-37	s	Hungarian	Positive	positive	4.920	1	31	37	0	
+ParlaMint-HU_2015-11-04.seg315.3	u2015-11-04-37	s	Hungarian	Positive	mixed positive	3.689	1	19	23	0	
+ParlaMint-HU_2015-11-04.seg315.4	u2015-11-04-37	s	Hungarian	Positive	positive	4.727	1	23	27	0	
+ParlaMint-HU_2015-11-04.seg315.5	u2015-11-04-37	s	Hungarian	Neutral	neutral negative	1.626	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg315.6	u2015-11-04-37	s	Hungarian	Positive	positive	5.263	1	14	16	0	
+ParlaMint-HU_2015-11-04.seg315.7	u2015-11-04-37	s	Hungarian	Negative	mixed negative	1.094	1	11	13	0	
+ParlaMint-HU_2015-11-04.seg315.8	u2015-11-04-37	s	Hungarian	Negative	negative	0.449	1	29	34	0	
+ParlaMint-HU_2015-11-04.seg316.1	u2015-11-04-37	s	Hungarian	Neutral	neutral negative	2.033	1	23	26	2	
+ParlaMint-HU_2015-11-04.seg316.2	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	3.210	1	3	5	0	
+ParlaMint-HU_2015-11-04.seg316.3	u2015-11-04-37	s	Hungarian	Positive	positive	4.805	1	65	80	2	
+ParlaMint-HU_2015-11-04.seg316.4	u2015-11-04-37	s	Hungarian	Neutral	neutral negative	2.065	1	5	7	0	
+ParlaMint-HU_2015-11-04.seg317.1	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.507	1	13	15	0	
+ParlaMint-HU_2015-11-04.seg317.2	u2015-11-04-37	s	Hungarian	Neutral	neutral negative	2.011	1	8	10	0	
+ParlaMint-HU_2015-11-04.seg317.3	u2015-11-04-37	s	Hungarian	Neutral	neutral negative	2.393	1	18	21	0	
+ParlaMint-HU_2015-11-04.seg317.4	u2015-11-04-37	s	Hungarian	Positive	mixed positive	4.276	1	38	44	0	
+ParlaMint-HU_2015-11-04.seg318.1	u2015-11-04-37	s	Hungarian	Positive	mixed positive	3.728	1	7	9	0	
+ParlaMint-HU_2015-11-04.seg318.2	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.569	1	38	46	0	
+ParlaMint-HU_2015-11-04.seg318.3	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	3.261	1	16	18	0	
+ParlaMint-HU_2015-11-04.seg319.1	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.509	1	6	8	0	
+ParlaMint-HU_2015-11-04.seg319.2	u2015-11-04-37	s	Hungarian	Negative	mixed negative	1.458	1	13	14	0	
+ParlaMint-HU_2015-11-04.seg319.3	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	3.044	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg319.4	u2015-11-04-37	s	Hungarian	Negative	mixed negative	1.068	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg319.5	u2015-11-04-37	s	Hungarian	Neutral	neutral negative	2.136	1	7	8	0	
+ParlaMint-HU_2015-11-04.seg320.1	u2015-11-04-37	s	Hungarian	Negative	mixed negative	1.388	1	5	7	0	
+ParlaMint-HU_2015-11-04.seg320.2	u2015-11-04-37	s	Hungarian	Neutral	neutral negative	2.033	1	13	16	0	
+ParlaMint-HU_2015-11-04.seg320.3	u2015-11-04-37	s	Hungarian	Positive	mixed positive	3.898	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg321.1	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.554	1	12	15	0	
+ParlaMint-HU_2015-11-04.seg322.1	u2015-11-04-37	s	Hungarian	Negative	mixed negative	0.935	1	11	13	0	
+ParlaMint-HU_2015-11-04.seg322.2	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	3.271	1	17	20	0	
+ParlaMint-HU_2015-11-04.seg322.3	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.942	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg322.4	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.709	1	27	30	0	
+ParlaMint-HU_2015-11-04.seg322.5	u2015-11-04-37	s	Hungarian	Positive	mixed positive	3.878	1	23	26	0	
+ParlaMint-HU_2015-11-04.seg323.1	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.682	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg323.2	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.796	1	8	10	0	
+ParlaMint-HU_2015-11-04.seg323.3	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.855	1	16	18	1	
+ParlaMint-HU_2015-11-04.seg323.4	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.801	1	10	11	0	
+ParlaMint-HU_2015-11-04.seg324.1	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.882	1	11	13	0	
+ParlaMint-HU_2015-11-04.seg324.2	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.888	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg325.1	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.713	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg325.2	u2015-11-04-37	s	Hungarian	Negative	negative	0.313	1	16	18	1	
+ParlaMint-HU_2015-11-04.seg326.1	u2015-11-04-37	s	Hungarian	Neutral	neutral negative	1.960	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg326.2	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	3.373	1	18	22	0	
+ParlaMint-HU_2015-11-04.seg326.3	u2015-11-04-37	s	Hungarian	Neutral	neutral negative	1.621	1	14	16	0	
+ParlaMint-HU_2015-11-04.seg327.1	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	3.161	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg327.2	u2015-11-04-37	s	Hungarian	Negative	negative	0.317	1	14	16	0	
+ParlaMint-HU_2015-11-04.seg327.3	u2015-11-04-37	s	Hungarian	Neutral	neutral negative	2.053	1	20	24	0	
+ParlaMint-HU_2015-11-04.seg327.4	u2015-11-04-37	s	Hungarian	Neutral	neutral negative	2.275	1	38	46	0	
+ParlaMint-HU_2015-11-04.seg327.5	u2015-11-04-37	s	Hungarian	Neutral	neutral negative	2.473	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg327.6	u2015-11-04-37	s	Hungarian	Neutral	neutral negative	1.922	1	11	13	0	
+ParlaMint-HU_2015-11-04.seg327.7	u2015-11-04-37	s	Hungarian	Neutral	neutral negative	1.562	1	10	12	0	
+ParlaMint-HU_2015-11-04.seg327.8	u2015-11-04-37	s	Hungarian	Negative	mixed negative	0.847	1	13	16	0	
+ParlaMint-HU_2015-11-04.seg327.9	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.796	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg327.10	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	3.483	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg327.11	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.635	1	26	31	0	
+ParlaMint-HU_2015-11-04.seg327.12	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.735	1	18	21	0	
+ParlaMint-HU_2015-11-04.seg327.13	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.924	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg327.14	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.566	1	9	10	0	
+ParlaMint-HU_2015-11-04.seg327.15	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	2.684	1	15	17	0	
+ParlaMint-HU_2015-11-04.seg327.16	u2015-11-04-37	s	Hungarian	Positive	positive	5.294	1	13	15	0	
+ParlaMint-HU_2015-11-04.seg327.17	u2015-11-04-37	s	Hungarian	Negative	mixed negative	1.497	1	36	44	0	
+ParlaMint-HU_2015-11-04.seg327.18	u2015-11-04-37	s	Hungarian	Positive	positive	5.068	1	60	71	0	
+ParlaMint-HU_2015-11-04.seg328.1	u2015-11-04-37	s	Hungarian	Negative	negative	0.326	1	40	47	0	
+ParlaMint-HU_2015-11-04.seg328.2	u2015-11-04-37	s	Hungarian	Negative	negative	0.109	1	17	20	0	
+ParlaMint-HU_2015-11-04.seg329.1	u2015-11-04-37	s	Hungarian	Positive	mixed positive	3.798	1	10	13	0	
+ParlaMint-HU_2015-11-04.seg330.1	u2015-11-04-37	s	Hungarian	Neutral	neutral negative	2.414	1	22	25	0	
+ParlaMint-HU_2015-11-04.seg330.2	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	3.124	1	7	8	0	
+ParlaMint-HU_2015-11-04.seg330.3	u2015-11-04-37	s	Hungarian	Positive	mixed positive	3.804	1	47	57	0	
+ParlaMint-HU_2015-11-04.seg330.4	u2015-11-04-37	s	Hungarian	Neutral	neutral postive	3.208	1	32	36	0	
+ParlaMint-HU_2015-11-04.seg330.5	u2015-11-04-37	s	Hungarian	Positive	positive	4.696	1	2	3	0	
+u2015-11-04-38	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	4	21	27	4	
+ParlaMint-HU_2015-11-04.seg331.1	u2015-11-04-38	s	Hungarian	Positive	mixed positive	4.284	1	6	7	1	
+ParlaMint-HU_2015-11-04.seg331.2	u2015-11-04-38	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg331.3	u2015-11-04-38	s	Hungarian	Positive	mixed positive	3.521	1	10	12	2	
+ParlaMint-HU_2015-11-04.seg331.4	u2015-11-04-38	s	Hungarian	Positive	mixed positive	3.780	1	3	5	1	
+u2015-11-04-39	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	40	812	956	13	
+ParlaMint-HU_2015-11-04.seg332.1	u2015-11-04-39	s	Hungarian	Positive	mixed positive	4.276	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg332.2	u2015-11-04-39	s	Hungarian	Positive	mixed positive	4.466	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg332.3	u2015-11-04-39	s	Hungarian	Positive	mixed positive	4.228	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg332.4	u2015-11-04-39	s	Hungarian	Positive	mixed positive	3.761	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg332.5	u2015-11-04-39	s	Hungarian	Positive	mixed positive	4.051	1	1	2	0	
+ParlaMint-HU_2015-11-04.seg332.6	u2015-11-04-39	s	Hungarian	Negative	negative	0.370	1	11	12	0	
+ParlaMint-HU_2015-11-04.seg332.7	u2015-11-04-39	s	Hungarian	Positive	positive	5.077	1	45	53	0	
+ParlaMint-HU_2015-11-04.seg332.8	u2015-11-04-39	s	Hungarian	Positive	positive	5.033	1	54	60	0	
+ParlaMint-HU_2015-11-04.seg333.1	u2015-11-04-39	s	Hungarian	Negative	negative	0.373	1	19	24	0	
+ParlaMint-HU_2015-11-04.seg333.2	u2015-11-04-39	s	Hungarian	Neutral	neutral postive	2.966	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg333.3	u2015-11-04-39	s	Hungarian	Neutral	neutral negative	1.949	1	19	21	0	
+ParlaMint-HU_2015-11-04.seg333.4	u2015-11-04-39	s	Hungarian	Neutral	neutral postive	2.836	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg333.5	u2015-11-04-39	s	Hungarian	Negative	mixed negative	0.836	1	28	33	1	
+ParlaMint-HU_2015-11-04.seg333.6	u2015-11-04-39	s	Hungarian	Negative	mixed negative	0.989	1	40	47	0	
+ParlaMint-HU_2015-11-04.seg334.1	u2015-11-04-39	s	Hungarian	Negative	negative	0.270	1	15	17	0	
+ParlaMint-HU_2015-11-04.seg334.2	u2015-11-04-39	s	Hungarian	Positive	mixed positive	4.454	1	21	24	0	
+ParlaMint-HU_2015-11-04.seg334.3	u2015-11-04-39	s	Hungarian	Negative	mixed negative	1.088	1	40	44	0	
+ParlaMint-HU_2015-11-04.seg334.4	u2015-11-04-39	s	Hungarian	Positive	positive	4.722	1	44	51	0	
+ParlaMint-HU_2015-11-04.seg335.1	u2015-11-04-39	s	Hungarian	Negative	negative	0.271	1	20	22	2	
+ParlaMint-HU_2015-11-04.seg336.1	u2015-11-04-39	s	Hungarian	Neutral	neutral postive	2.615	1	31	37	2	
+ParlaMint-HU_2015-11-04.seg336.2	u2015-11-04-39	s	Hungarian	Neutral	neutral postive	3.036	1	27	32	1	
+ParlaMint-HU_2015-11-04.seg336.3	u2015-11-04-39	s	Hungarian	Negative	negative	0.198	1	30	33	1	
+ParlaMint-HU_2015-11-04.seg336.4	u2015-11-04-39	s	Hungarian	Negative	negative	0.126	1	19	22	0	
+ParlaMint-HU_2015-11-04.seg337.1	u2015-11-04-39	s	Hungarian	Neutral	neutral postive	3.080	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg337.2	u2015-11-04-39	s	Hungarian	Neutral	neutral postive	3.487	1	20	24	0	
+ParlaMint-HU_2015-11-04.seg337.3	u2015-11-04-39	s	Hungarian	Neutral	neutral postive	2.924	1	22	27	0	
+ParlaMint-HU_2015-11-04.seg338.1	u2015-11-04-39	s	Hungarian	Negative	negative	0.186	1	29	34	0	
+ParlaMint-HU_2015-11-04.seg338.2	u2015-11-04-39	s	Hungarian	Neutral	neutral negative	2.267	1	45	55	0	
+ParlaMint-HU_2015-11-04.seg338.3	u2015-11-04-39	s	Hungarian	Negative	negative	0.104	1	8	10	0	
+ParlaMint-HU_2015-11-04.seg338.4	u2015-11-04-39	s	Hungarian	Negative	negative	0.213	1	11	13	1	
+ParlaMint-HU_2015-11-04.seg338.5	u2015-11-04-39	s	Hungarian	Negative	negative	0.246	1	31	39	0	
+ParlaMint-HU_2015-11-04.seg338.6	u2015-11-04-39	s	Hungarian	Neutral	neutral negative	2.303	1	24	30	2	
+ParlaMint-HU_2015-11-04.seg338.7	u2015-11-04-39	s	Hungarian	Negative	negative	0.423	1	29	34	0	
+ParlaMint-HU_2015-11-04.seg338.8	u2015-11-04-39	s	Hungarian	Negative	mixed negative	1.218	1	10	13	0	
+ParlaMint-HU_2015-11-04.seg338.9	u2015-11-04-39	s	Hungarian	Negative	mixed negative	1.240	1	9	10	0	
+ParlaMint-HU_2015-11-04.seg338.10	u2015-11-04-39	s	Hungarian	Negative	negative	0.255	1	15	17	0	
+ParlaMint-HU_2015-11-04.seg338.11	u2015-11-04-39	s	Hungarian	Positive	positive	5.244	1	46	54	2	
+ParlaMint-HU_2015-11-04.seg338.12	u2015-11-04-39	s	Hungarian	Positive	positive	5.208	1	10	12	0	
+ParlaMint-HU_2015-11-04.seg338.13	u2015-11-04-39	s	Hungarian	Positive	mixed positive	3.772	1	8	10	1	
+ParlaMint-HU_2015-11-04.seg339.1	u2015-11-04-39	s	Hungarian	Positive	mixed positive	4.091	1	6	8	0	
+u2015-11-04-40	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	11	88	102	4	
+ParlaMint-HU_2015-11-04.seg340.1	u2015-11-04-40	s	Hungarian	Positive	positive	4.901	1	4	5	0	
+ParlaMint-HU_2015-11-04.seg340.2	u2015-11-04-40	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg340.3	u2015-11-04-40	s	Hungarian	Neutral	neutral postive	2.960	1	9	10	0	
+ParlaMint-HU_2015-11-04.seg340.4	u2015-11-04-40	s	Hungarian	Positive	positive	4.720	1	11	12	0	
+ParlaMint-HU_2015-11-04.seg340.5	u2015-11-04-40	s	Hungarian	Positive	positive	4.515	1	1	2	0	
+ParlaMint-HU_2015-11-04.seg341.1	u2015-11-04-40	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2015-11-04.seg341.2	u2015-11-04-40	s	Hungarian	Positive	mixed positive	3.807	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg341.3	u2015-11-04-40	s	Hungarian	Neutral	neutral postive	2.554	1	28	29	1	
+ParlaMint-HU_2015-11-04.seg341.4	u2015-11-04-40	s	Hungarian	Neutral	neutral postive	3.023	1	9	10	0	
+ParlaMint-HU_2015-11-04.seg342.1	u2015-11-04-40	s	Hungarian	Neutral	neutral postive	3.219	1	15	18	2	
+ParlaMint-HU_2015-11-04.seg342.2	u2015-11-04-40	s	Hungarian	Positive	mixed positive	3.662	1	5	7	0	
+u2015-11-04-41	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	48	927	1040	13	
+ParlaMint-HU_2015-11-04.seg343.1	u2015-11-04-41	s	Hungarian	Positive	positive	4.710	1	4	6	0	
+ParlaMint-HU_2015-11-04.seg343.2	u2015-11-04-41	s	Hungarian	Positive	mixed positive	4.466	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg343.3	u2015-11-04-41	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg343.4	u2015-11-04-41	s	Hungarian	Positive	mixed positive	4.212	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg343.5	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	3.091	1	18	20	0	
+ParlaMint-HU_2015-11-04.seg343.6	u2015-11-04-41	s	Hungarian	Positive	mixed positive	3.523	1	13	14	0	
+ParlaMint-HU_2015-11-04.seg343.7	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	2.957	1	23	25	1	
+ParlaMint-HU_2015-11-04.seg343.8	u2015-11-04-41	s	Hungarian	Negative	negative	0.383	1	27	29	0	
+ParlaMint-HU_2015-11-04.seg343.9	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	3.303	1	25	28	2	
+ParlaMint-HU_2015-11-04.seg343.10	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	2.916	1	8	9	0	
+ParlaMint-HU_2015-11-04.seg344.1	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	3.256	1	25	27	1	
+ParlaMint-HU_2015-11-04.seg344.2	u2015-11-04-41	s	Hungarian	Positive	mixed positive	3.655	1	29	34	2	
+ParlaMint-HU_2015-11-04.seg344.3	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	2.638	1	26	29	0	
+ParlaMint-HU_2015-11-04.seg345.1	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	3.257	1	24	27	0	
+ParlaMint-HU_2015-11-04.seg345.2	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	3.101	1	28	30	0	
+ParlaMint-HU_2015-11-04.seg345.3	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	3.038	1	26	28	0	
+ParlaMint-HU_2015-11-04.seg345.4	u2015-11-04-41	s	Hungarian	Neutral	neutral negative	2.447	1	23	26	0	
+ParlaMint-HU_2015-11-04.seg345.5	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	2.639	1	22	25	0	
+ParlaMint-HU_2015-11-04.seg346.1	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	3.496	1	23	27	1	
+ParlaMint-HU_2015-11-04.seg346.2	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	2.561	1	42	48	0	
+ParlaMint-HU_2015-11-04.seg347.1	u2015-11-04-41	s	Hungarian	Neutral	neutral negative	2.384	1	16	17	0	
+ParlaMint-HU_2015-11-04.seg347.2	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	3.249	1	24	25	0	
+ParlaMint-HU_2015-11-04.seg347.3	u2015-11-04-41	s	Hungarian	Positive	mixed positive	3.670	1	31	37	0	
+ParlaMint-HU_2015-11-04.seg347.4	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	3.185	1	32	35	0	
+ParlaMint-HU_2015-11-04.seg348.1	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	3.009	1	20	22	0	
+ParlaMint-HU_2015-11-04.seg349.1	u2015-11-04-41	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2015-11-04.seg349.2	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	2.589	1	14	16	0	
+ParlaMint-HU_2015-11-04.seg349.3	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	2.721	1	8	9	1	
+ParlaMint-HU_2015-11-04.seg349.4	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	2.686	1	35	37	3	
+ParlaMint-HU_2015-11-04.seg349.5	u2015-11-04-41	s	Hungarian	Neutral	neutral negative	2.465	1	38	43	1	
+ParlaMint-HU_2015-11-04.seg350.1	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	3.151	1	16	18	0	
+ParlaMint-HU_2015-11-04.seg350.2	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	3.491	1	31	35	0	
+ParlaMint-HU_2015-11-04.seg351.1	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	2.765	1	16	18	0	
+ParlaMint-HU_2015-11-04.seg351.2	u2015-11-04-41	s	Hungarian	Positive	mixed positive	4.053	1	21	24	0	
+ParlaMint-HU_2015-11-04.seg351.3	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	3.038	1	23	26	0	
+ParlaMint-HU_2015-11-04.seg351.4	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	2.796	1	7	8	0	
+ParlaMint-HU_2015-11-04.seg351.5	u2015-11-04-41	s	Hungarian	Neutral	neutral negative	2.113	1	13	14	0	
+ParlaMint-HU_2015-11-04.seg351.6	u2015-11-04-41	s	Hungarian	Neutral	neutral negative	1.714	1	31	34	0	
+ParlaMint-HU_2015-11-04.seg351.7	u2015-11-04-41	s	Hungarian	Neutral	neutral negative	2.065	1	39	43	0	
+ParlaMint-HU_2015-11-04.seg351.8	u2015-11-04-41	s	Hungarian	Negative	mixed negative	0.713	1	20	22	0	
+ParlaMint-HU_2015-11-04.seg351.9	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	2.877	1	15	17	0	
+ParlaMint-HU_2015-11-04.seg351.10	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	2.501	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg351.11	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	2.770	1	15	17	0	
+ParlaMint-HU_2015-11-04.seg351.12	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	3.378	1	20	22	0	
+ParlaMint-HU_2015-11-04.seg351.13	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	3.184	1	13	15	0	
+ParlaMint-HU_2015-11-04.seg351.14	u2015-11-04-41	s	Hungarian	Positive	mixed positive	3.580	1	11	13	0	
+ParlaMint-HU_2015-11-04.seg352.1	u2015-11-04-41	s	Hungarian	Neutral	neutral postive	3.114	1	9	10	0	
+ParlaMint-HU_2015-11-04.seg352.2	u2015-11-04-41	s	Hungarian	Positive	mixed positive	4.206	1	8	11	0	
+u2015-11-04-42	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	3	16	20	2	
+ParlaMint-HU_2015-11-04.seg353.1	u2015-11-04-42	s	Hungarian	Positive	positive	4.981	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg353.2	u2015-11-04-42	s	Hungarian	Neutral	neutral postive	2.809	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg353.3	u2015-11-04-42	s	Hungarian	Neutral	neutral postive	3.500	1	9	11	2	
+u2015-11-04-43	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	34	675	753	22	
+ParlaMint-HU_2015-11-04.seg354.1	u2015-11-04-43	s	Hungarian	Positive	mixed positive	4.046	1	5	7	0	
+ParlaMint-HU_2015-11-04.seg354.2	u2015-11-04-43	s	Hungarian	Positive	mixed positive	4.466	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg354.3	u2015-11-04-43	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg354.4	u2015-11-04-43	s	Hungarian	Positive	mixed positive	4.320	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg354.5	u2015-11-04-43	s	Hungarian	Neutral	neutral postive	3.054	1	55	60	1	
+ParlaMint-HU_2015-11-04.seg354.6	u2015-11-04-43	s	Hungarian	Positive	mixed positive	3.547	1	21	23	0	
+ParlaMint-HU_2015-11-04.seg354.7	u2015-11-04-43	s	Hungarian	Positive	mixed positive	3.725	1	16	18	0	
+ParlaMint-HU_2015-11-04.seg355.1	u2015-11-04-43	s	Hungarian	Neutral	neutral postive	3.032	1	24	26	1	
+ParlaMint-HU_2015-11-04.seg355.2	u2015-11-04-43	s	Hungarian	Neutral	neutral postive	2.877	1	19	20	1	
+ParlaMint-HU_2015-11-04.seg356.1	u2015-11-04-43	s	Hungarian	Neutral	neutral postive	3.176	1	9	11	0	
+ParlaMint-HU_2015-11-04.seg356.2	u2015-11-04-43	s	Hungarian	Neutral	neutral postive	2.837	1	35	41	6	
+ParlaMint-HU_2015-11-04.seg356.3	u2015-11-04-43	s	Hungarian	Neutral	neutral postive	2.744	1	13	14	2	
+ParlaMint-HU_2015-11-04.seg356.4	u2015-11-04-43	s	Hungarian	Neutral	neutral postive	3.046	1	22	25	3	
+ParlaMint-HU_2015-11-04.seg356.5	u2015-11-04-43	s	Hungarian	Neutral	neutral postive	3.033	1	11	12	1	
+ParlaMint-HU_2015-11-04.seg357.1	u2015-11-04-43	s	Hungarian	Neutral	neutral postive	3.044	1	30	32	1	
+ParlaMint-HU_2015-11-04.seg357.2	u2015-11-04-43	s	Hungarian	Neutral	neutral postive	3.310	1	36	40	1	
+ParlaMint-HU_2015-11-04.seg358.1	u2015-11-04-43	s	Hungarian	Neutral	neutral postive	3.463	1	35	39	1	
+ParlaMint-HU_2015-11-04.seg358.2	u2015-11-04-43	s	Hungarian	Positive	mixed positive	3.965	1	34	38	1	
+ParlaMint-HU_2015-11-04.seg358.3	u2015-11-04-43	s	Hungarian	Neutral	neutral postive	2.981	1	20	21	2	
+ParlaMint-HU_2015-11-04.seg358.4	u2015-11-04-43	s	Hungarian	Positive	mixed positive	4.442	1	17	19	0	
+ParlaMint-HU_2015-11-04.seg358.5	u2015-11-04-43	s	Hungarian	Neutral	neutral postive	2.709	1	16	18	0	
+ParlaMint-HU_2015-11-04.seg358.6	u2015-11-04-43	s	Hungarian	Positive	mixed positive	3.605	1	8	9	0	
+ParlaMint-HU_2015-11-04.seg358.7	u2015-11-04-43	s	Hungarian	Neutral	neutral postive	2.879	1	10	11	0	
+ParlaMint-HU_2015-11-04.seg358.8	u2015-11-04-43	s	Hungarian	Neutral	neutral postive	2.733	1	31	35	0	
+ParlaMint-HU_2015-11-04.seg359.1	u2015-11-04-43	s	Hungarian	Neutral	neutral postive	2.764	1	25	27	0	
+ParlaMint-HU_2015-11-04.seg359.2	u2015-11-04-43	s	Hungarian	Neutral	neutral negative	2.162	1	15	16	0	
+ParlaMint-HU_2015-11-04.seg359.3	u2015-11-04-43	s	Hungarian	Neutral	neutral negative	2.412	1	25	27	0	
+ParlaMint-HU_2015-11-04.seg360.1	u2015-11-04-43	s	Hungarian	Neutral	neutral postive	2.564	1	16	18	0	
+ParlaMint-HU_2015-11-04.seg360.2	u2015-11-04-43	s	Hungarian	Neutral	neutral postive	2.809	1	19	20	1	
+ParlaMint-HU_2015-11-04.seg360.3	u2015-11-04-43	s	Hungarian	Neutral	neutral postive	2.890	1	32	35	0	
+ParlaMint-HU_2015-11-04.seg360.4	u2015-11-04-43	s	Hungarian	Neutral	neutral postive	2.519	1	29	33	0	
+ParlaMint-HU_2015-11-04.seg361.1	u2015-11-04-43	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg361.2	u2015-11-04-43	s	Hungarian	Positive	positive	5.064	1	34	40	0	
+ParlaMint-HU_2015-11-04.seg361.3	u2015-11-04-43	s	Hungarian	Positive	mixed positive	4.131	1	3	4	0	
+u2015-11-04-44	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	1	10	12	2	
+ParlaMint-HU_2015-11-04.seg362.1	u2015-11-04-44	s	Hungarian	Neutral	neutral postive	3.337	1	10	12	2	
+u2015-11-04-45	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	36	956	1120	19	
+ParlaMint-HU_2015-11-04.seg363.1	u2015-11-04-45	s	Hungarian	Positive	positive	4.828	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg363.2	u2015-11-04-45	s	Hungarian	Positive	mixed positive	4.466	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg363.3	u2015-11-04-45	s	Hungarian	Positive	mixed positive	4.232	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg363.4	u2015-11-04-45	s	Hungarian	Positive	mixed positive	4.051	1	1	2	0	
+ParlaMint-HU_2015-11-04.seg363.5	u2015-11-04-45	s	Hungarian	Positive	positive	4.937	1	19	21	0	
+ParlaMint-HU_2015-11-04.seg363.6	u2015-11-04-45	s	Hungarian	Positive	positive	5.297	1	22	27	0	
+ParlaMint-HU_2015-11-04.seg363.7	u2015-11-04-45	s	Hungarian	Positive	positive	5.276	1	24	28	0	
+ParlaMint-HU_2015-11-04.seg363.8	u2015-11-04-45	s	Hungarian	Positive	positive	5.054	1	30	34	1	
+ParlaMint-HU_2015-11-04.seg363.9	u2015-11-04-45	s	Hungarian	Negative	negative	0.341	1	9	11	0	
+ParlaMint-HU_2015-11-04.seg363.10	u2015-11-04-45	s	Hungarian	Neutral	neutral postive	2.654	1	17	19	0	
+ParlaMint-HU_2015-11-04.seg363.11	u2015-11-04-45	s	Hungarian	Negative	negative	0.400	1	50	56	1	
+ParlaMint-HU_2015-11-04.seg363.12	u2015-11-04-45	s	Hungarian	Negative	mixed negative	0.816	1	37	43	1	
+ParlaMint-HU_2015-11-04.seg363.13	u2015-11-04-45	s	Hungarian	Positive	mixed positive	3.928	1	22	27	1	
+ParlaMint-HU_2015-11-04.seg363.14	u2015-11-04-45	s	Hungarian	Negative	negative	0.387	1	23	26	0	
+ParlaMint-HU_2015-11-04.seg363.15	u2015-11-04-45	s	Hungarian	Positive	positive	5.466	1	9	11	1	
+ParlaMint-HU_2015-11-04.seg363.16	u2015-11-04-45	s	Hungarian	Negative	negative	0.479	1	34	40	4	
+ParlaMint-HU_2015-11-04.seg363.17	u2015-11-04-45	s	Hungarian	Neutral	neutral postive	2.694	1	8	9	0	
+ParlaMint-HU_2015-11-04.seg363.18	u2015-11-04-45	s	Hungarian	Neutral	neutral negative	2.417	1	22	25	0	
+ParlaMint-HU_2015-11-04.seg363.19	u2015-11-04-45	s	Hungarian	Neutral	neutral negative	1.867	1	15	18	1	
+ParlaMint-HU_2015-11-04.seg363.20	u2015-11-04-45	s	Hungarian	Negative	mixed negative	0.832	1	18	21	1	
+ParlaMint-HU_2015-11-04.seg363.21	u2015-11-04-45	s	Hungarian	Positive	mixed positive	4.498	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg363.22	u2015-11-04-45	s	Hungarian	Neutral	neutral postive	3.017	1	14	18	0	
+ParlaMint-HU_2015-11-04.seg363.23	u2015-11-04-45	s	Hungarian	Negative	mixed negative	1.257	1	43	50	0	
+ParlaMint-HU_2015-11-04.seg363.24	u2015-11-04-45	s	Hungarian	Positive	mixed positive	3.949	1	23	28	0	
+ParlaMint-HU_2015-11-04.seg363.25	u2015-11-04-45	s	Hungarian	Neutral	neutral postive	2.756	1	27	32	0	
+ParlaMint-HU_2015-11-04.seg364.1	u2015-11-04-45	s	Hungarian	Negative	negative	0.477	1	48	58	1	
+ParlaMint-HU_2015-11-04.seg364.2	u2015-11-04-45	s	Hungarian	Negative	mixed negative	0.550	1	41	48	0	
+ParlaMint-HU_2015-11-04.seg364.3	u2015-11-04-45	s	Hungarian	Negative	negative	0.265	1	20	22	0	
+ParlaMint-HU_2015-11-04.seg365.1	u2015-11-04-45	s	Hungarian	Positive	mixed positive	3.955	1	39	45	0	
+ParlaMint-HU_2015-11-04.seg365.2	u2015-11-04-45	s	Hungarian	Negative	negative	0.370	1	58	68	1	
+ParlaMint-HU_2015-11-04.seg365.3	u2015-11-04-45	s	Hungarian	Negative	negative	0.479	1	70	81	0	
+ParlaMint-HU_2015-11-04.seg365.4	u2015-11-04-45	s	Hungarian	Positive	positive	4.823	1	65	77	1	
+ParlaMint-HU_2015-11-04.seg365.5	u2015-11-04-45	s	Hungarian	Negative	negative	0.149	1	60	70	1	
+ParlaMint-HU_2015-11-04.seg365.6	u2015-11-04-45	s	Hungarian	Negative	negative	0.257	1	61	72	3	
+ParlaMint-HU_2015-11-04.seg366.1	u2015-11-04-45	s	Hungarian	Negative	mixed negative	0.702	1	8	9	1	
+ParlaMint-HU_2015-11-04.seg366.2	u2015-11-04-45	s	Hungarian	Positive	mixed positive	4.205	1	4	5	0	
+u2015-11-04-46	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	1	10	12	2	
+ParlaMint-HU_2015-11-04.seg367.1	u2015-11-04-46	s	Hungarian	Neutral	neutral postive	3.394	1	10	12	2	
+u2015-11-04-47	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	2	47	57	0	
+ParlaMint-HU_2015-11-04.seg368.1	u2015-11-04-47	s	Hungarian	Positive	positive	4.710	1	4	6	0	
+ParlaMint-HU_2015-11-04.seg368.2	u2015-11-04-47	s	Hungarian	Negative	negative	0.335	1	43	51	0	
+u2015-11-04-48	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	1	6	9	0	
+ParlaMint-HU_2015-11-04.seg369.1	u2015-11-04-48	s	Hungarian	Neutral	neutral postive	2.627	1	6	9	0	
+u2015-11-04-49	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	36	782	918	25	
+ParlaMint-HU_2015-11-04.seg370.1	u2015-11-04-49	s	Hungarian	Positive	mixed positive	4.304	1	3	5	0	
+ParlaMint-HU_2015-11-04.seg371.1	u2015-11-04-49	s	Hungarian	Negative	negative	0.383	1	28	35	1	
+ParlaMint-HU_2015-11-04.seg371.2	u2015-11-04-49	s	Hungarian	Negative	negative	0.132	1	19	22	0	
+ParlaMint-HU_2015-11-04.seg371.3	u2015-11-04-49	s	Hungarian	Negative	mixed negative	0.504	1	33	41	1	
+ParlaMint-HU_2015-11-04.seg371.4	u2015-11-04-49	s	Hungarian	Neutral	neutral postive	3.003	1	12	14	0	
+ParlaMint-HU_2015-11-04.seg371.5	u2015-11-04-49	s	Hungarian	Negative	negative	0.347	1	17	21	1	
+ParlaMint-HU_2015-11-04.seg371.6	u2015-11-04-49	s	Hungarian	Negative	mixed negative	0.566	1	20	24	2	
+ParlaMint-HU_2015-11-04.seg371.7	u2015-11-04-49	s	Hungarian	Negative	mixed negative	0.595	1	18	20	1	
+ParlaMint-HU_2015-11-04.seg372.1	u2015-11-04-49	s	Hungarian	Negative	mixed negative	0.986	1	7	8	0	
+ParlaMint-HU_2015-11-04.seg372.2	u2015-11-04-49	s	Hungarian	Neutral	neutral postive	3.052	1	14	16	0	
+ParlaMint-HU_2015-11-04.seg372.3	u2015-11-04-49	s	Hungarian	Negative	negative	0.412	1	49	56	0	
+ParlaMint-HU_2015-11-04.seg372.4	u2015-11-04-49	s	Hungarian	Negative	negative	0.235	1	20	23	0	
+ParlaMint-HU_2015-11-04.seg372.5	u2015-11-04-49	s	Hungarian	Neutral	neutral negative	1.912	1	7	8	0	
+ParlaMint-HU_2015-11-04.seg372.6	u2015-11-04-49	s	Hungarian	Negative	negative	0.173	1	20	24	2	
+ParlaMint-HU_2015-11-04.seg373.1	u2015-11-04-49	s	Hungarian	Neutral	neutral negative	2.109	1	11	13	0	
+ParlaMint-HU_2015-11-04.seg373.2	u2015-11-04-49	s	Hungarian	Neutral	neutral negative	1.703	1	16	18	0	
+ParlaMint-HU_2015-11-04.seg373.3	u2015-11-04-49	s	Hungarian	Neutral	neutral postive	2.997	1	57	65	6	
+ParlaMint-HU_2015-11-04.seg373.4	u2015-11-04-49	s	Hungarian	Negative	mixed negative	1.498	1	9	11	0	
+ParlaMint-HU_2015-11-04.seg373.5	u2015-11-04-49	s	Hungarian	Neutral	neutral postive	3.166	1	3	4	0	
+ParlaMint-HU_2015-11-04.seg373.6	u2015-11-04-49	s	Hungarian	Negative	negative	0.408	1	24	26	1	
+ParlaMint-HU_2015-11-04.seg374.1	u2015-11-04-49	s	Hungarian	Negative	negative	0.380	1	62	73	1	
+ParlaMint-HU_2015-11-04.seg374.2	u2015-11-04-49	s	Hungarian	Positive	mixed positive	4.069	1	4	6	1	
+ParlaMint-HU_2015-11-04.seg375.1	u2015-11-04-49	s	Hungarian	Negative	mixed negative	0.502	1	87	98	1	
+ParlaMint-HU_2015-11-04.seg375.2	u2015-11-04-49	s	Hungarian	Negative	mixed negative	0.585	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg376.1	u2015-11-04-49	s	Hungarian	Negative	mixed negative	0.653	1	8	9	0	
+ParlaMint-HU_2015-11-04.seg376.2	u2015-11-04-49	s	Hungarian	Neutral	neutral negative	1.558	1	15	17	0	
+ParlaMint-HU_2015-11-04.seg376.3	u2015-11-04-49	s	Hungarian	Neutral	neutral negative	2.277	1	19	23	0	
+ParlaMint-HU_2015-11-04.seg376.4	u2015-11-04-49	s	Hungarian	Negative	negative	0.249	1	24	29	0	
+ParlaMint-HU_2015-11-04.seg376.5	u2015-11-04-49	s	Hungarian	Neutral	neutral postive	3.281	1	16	20	1	
+ParlaMint-HU_2015-11-04.seg376.6	u2015-11-04-49	s	Hungarian	Negative	negative	0.400	1	23	26	1	
+ParlaMint-HU_2015-11-04.seg376.7	u2015-11-04-49	s	Hungarian	Negative	negative	0.277	1	21	25	1	
+ParlaMint-HU_2015-11-04.seg377.1	u2015-11-04-49	s	Hungarian	Negative	negative	0.341	1	30	36	2	
+ParlaMint-HU_2015-11-04.seg377.2	u2015-11-04-49	s	Hungarian	Neutral	neutral postive	3.088	1	20	22	0	
+ParlaMint-HU_2015-11-04.seg377.3	u2015-11-04-49	s	Hungarian	Negative	negative	0.131	1	55	65	2	
+ParlaMint-HU_2015-11-04.seg378.1	u2015-11-04-49	s	Hungarian	Neutral	neutral postive	3.276	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg378.2	u2015-11-04-49	s	Hungarian	Positive	mixed positive	4.304	1	3	5	0	
+u2015-11-04-50	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	7	36	46	1	
+ParlaMint-HU_2015-11-04.seg379.1	u2015-11-04-50	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg379.2	u2015-11-04-50	s	Hungarian	Neutral	neutral negative	2.109	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg379.3	u2015-11-04-50	s	Hungarian	Neutral	neutral postive	2.923	1	8	10	0	
+ParlaMint-HU_2015-11-04.seg380.1	u2015-11-04-50	s	Hungarian	Neutral	neutral postive	2.593	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg380.2	u2015-11-04-50	s	Hungarian	Neutral	neutral postive	3.371	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg381.1	u2015-11-04-50	s	Hungarian	Neutral	neutral postive	3.044	1	9	11	1	
+ParlaMint-HU_2015-11-04.seg382.1	u2015-11-04-50	s	Hungarian	Positive	mixed positive	3.662	1	5	7	0	
+u2015-11-04-51	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	17	313	366	1	
+ParlaMint-HU_2015-11-04.seg383.1	u2015-11-04-51	s	Hungarian	Positive	positive	4.710	1	4	6	0	
+ParlaMint-HU_2015-11-04.seg383.2	u2015-11-04-51	s	Hungarian	Positive	mixed positive	3.888	1	6	7	0	
+ParlaMint-HU_2015-11-04.seg383.3	u2015-11-04-51	s	Hungarian	Neutral	neutral postive	3.244	1	14	17	0	
+ParlaMint-HU_2015-11-04.seg383.4	u2015-11-04-51	s	Hungarian	Neutral	neutral negative	2.462	1	24	27	0	
+ParlaMint-HU_2015-11-04.seg383.5	u2015-11-04-51	s	Hungarian	Positive	mixed positive	4.190	1	29	35	0	
+ParlaMint-HU_2015-11-04.seg383.6	u2015-11-04-51	s	Hungarian	Neutral	neutral postive	3.387	1	12	13	0	
+ParlaMint-HU_2015-11-04.seg383.7	u2015-11-04-51	s	Hungarian	Neutral	neutral postive	3.016	1	27	33	0	
+ParlaMint-HU_2015-11-04.seg383.8	u2015-11-04-51	s	Hungarian	Neutral	neutral negative	2.325	1	27	31	0	
+ParlaMint-HU_2015-11-04.seg383.9	u2015-11-04-51	s	Hungarian	Neutral	neutral negative	2.480	1	12	14	0	
+ParlaMint-HU_2015-11-04.seg384.1	u2015-11-04-51	s	Hungarian	Neutral	neutral negative	2.151	1	34	39	0	
+ParlaMint-HU_2015-11-04.seg384.2	u2015-11-04-51	s	Hungarian	Neutral	neutral postive	2.678	1	10	11	0	
+ParlaMint-HU_2015-11-04.seg384.3	u2015-11-04-51	s	Hungarian	Neutral	neutral negative	2.332	1	8	9	0	
+ParlaMint-HU_2015-11-04.seg384.4	u2015-11-04-51	s	Hungarian	Neutral	neutral postive	3.035	1	15	17	0	
+ParlaMint-HU_2015-11-04.seg384.5	u2015-11-04-51	s	Hungarian	Neutral	neutral postive	2.806	1	25	29	0	
+ParlaMint-HU_2015-11-04.seg385.1	u2015-11-04-51	s	Hungarian	Negative	mixed negative	1.326	1	41	47	0	
+ParlaMint-HU_2015-11-04.seg385.2	u2015-11-04-51	s	Hungarian	Positive	positive	5.007	1	21	25	1	
+ParlaMint-HU_2015-11-04.seg385.3	u2015-11-04-51	s	Hungarian	Positive	positive	4.710	1	4	6	0	
+u2015-11-04-52	ParlaMint-HU_2015-11-04	u	Hungarian	-	-	-	6	38	44	3	
+ParlaMint-HU_2015-11-04.seg386.1	u2015-11-04-52	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2015-11-04.seg386.2	u2015-11-04-52	s	Hungarian	Neutral	neutral postive	2.960	1	9	10	0	
+ParlaMint-HU_2015-11-04.seg387.1	u2015-11-04-52	s	Hungarian	Neutral	neutral negative	2.388	1	5	6	0	
+ParlaMint-HU_2015-11-04.seg387.2	u2015-11-04-52	s	Hungarian	Positive	mixed positive	4.059	1	7	9	1	
+ParlaMint-HU_2015-11-04.seg387.3	u2015-11-04-52	s	Hungarian	Neutral	neutral postive	3.244	1	7	8	0	
+ParlaMint-HU_2015-11-04.seg388.1	u2015-11-04-52	s	Hungarian	Neutral	neutral postive	3.261	1	8	8	2	

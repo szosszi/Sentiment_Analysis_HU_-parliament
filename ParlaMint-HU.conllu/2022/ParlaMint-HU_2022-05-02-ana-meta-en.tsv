@@ -1,0 +1,1024 @@
+ID	Parent_ID	Element	Language	Senti_3	Senti_6	Senti_n	Sents	Words	Tokens	Names	
+u2022-05-02-0	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	14	164	187	8	
+ParlaMint-HU_2022-05-02.seg1.1	u2022-05-02-0	s	Hungarian	Positive	positive	4.899	1	4	5	0	
+ParlaMint-HU_2022-05-02.seg1.2	u2022-05-02-0	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg1.3	u2022-05-02-0	s	Hungarian	Positive	positive	4.733	1	6	7	0	
+ParlaMint-HU_2022-05-02.seg1.4	u2022-05-02-0	s	Hungarian	Neutral	neutral postive	2.923	1	12	13	1	
+ParlaMint-HU_2022-05-02.seg2.1	u2022-05-02-0	s	Hungarian	Positive	mixed positive	4.434	1	7	9	1	
+ParlaMint-HU_2022-05-02.seg3.1	u2022-05-02-0	s	Hungarian	Neutral	neutral negative	2.374	1	37	41	2	
+ParlaMint-HU_2022-05-02.seg3.2	u2022-05-02-0	s	Hungarian	Neutral	neutral postive	2.919	1	7	8	0	
+ParlaMint-HU_2022-05-02.seg4.1	u2022-05-02-0	s	Hungarian	Neutral	neutral postive	3.137	1	24	26	0	
+ParlaMint-HU_2022-05-02.seg5.1	u2022-05-02-0	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg5.2	u2022-05-02-0	s	Hungarian	Neutral	neutral negative	2.436	1	19	22	1	
+ParlaMint-HU_2022-05-02.seg6.1	u2022-05-02-0	s	Hungarian	Neutral	neutral postive	3.026	1	11	12	1	
+ParlaMint-HU_2022-05-02.seg6.2	u2022-05-02-0	s	Hungarian	Neutral	neutral postive	2.647	1	19	21	0	
+ParlaMint-HU_2022-05-02.seg7.1	u2022-05-02-0	s	Hungarian	Neutral	neutral postive	3.254	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg7.2	u2022-05-02-0	s	Hungarian	Positive	mixed positive	4.131	1	3	4	0	
+u2022-05-02-1	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	35	511	616	29	
+ParlaMint-HU_2022-05-02.seg8.1	u2022-05-02-1	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg8.2	u2022-05-02-1	s	Hungarian	Positive	positive	4.808	1	22	26	0	
+ParlaMint-HU_2022-05-02.seg9.1	u2022-05-02-1	s	Hungarian	Neutral	neutral postive	2.645	1	37	47	8	
+ParlaMint-HU_2022-05-02.seg10.1	u2022-05-02-1	s	Hungarian	Neutral	neutral postive	3.420	1	15	17	2	
+ParlaMint-HU_2022-05-02.seg11.1	u2022-05-02-1	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg11.2	u2022-05-02-1	s	Hungarian	Positive	mixed positive	4.012	1	15	18	0	
+ParlaMint-HU_2022-05-02.seg11.3	u2022-05-02-1	s	Hungarian	Positive	mixed positive	4.307	1	9	10	0	
+ParlaMint-HU_2022-05-02.seg12.1	u2022-05-02-1	s	Hungarian	Negative	negative	0.346	1	31	37	0	
+ParlaMint-HU_2022-05-02.seg12.2	u2022-05-02-1	s	Hungarian	Positive	mixed positive	3.918	1	27	31	0	
+ParlaMint-HU_2022-05-02.seg13.1	u2022-05-02-1	s	Hungarian	Neutral	neutral postive	2.527	1	21	25	0	
+ParlaMint-HU_2022-05-02.seg14.1	u2022-05-02-1	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg14.2	u2022-05-02-1	s	Hungarian	Positive	positive	4.887	1	8	9	0	
+ParlaMint-HU_2022-05-02.seg14.3	u2022-05-02-1	s	Hungarian	Positive	positive	4.514	1	27	31	1	
+ParlaMint-HU_2022-05-02.seg14.4	u2022-05-02-1	s	Hungarian	Positive	positive	4.631	1	14	17	1	
+ParlaMint-HU_2022-05-02.seg14.5	u2022-05-02-1	s	Hungarian	Positive	mixed positive	4.142	1	21	25	1	
+ParlaMint-HU_2022-05-02.seg14.6	u2022-05-02-1	s	Hungarian	Positive	mixed positive	3.973	1	14	17	1	
+ParlaMint-HU_2022-05-02.seg15.1	u2022-05-02-1	s	Hungarian	Positive	positive	5.032	1	33	39	1	
+ParlaMint-HU_2022-05-02.seg16.1	u2022-05-02-1	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg16.2	u2022-05-02-1	s	Hungarian	Positive	positive	4.931	1	19	24	0	
+ParlaMint-HU_2022-05-02.seg16.3	u2022-05-02-1	s	Hungarian	Neutral	neutral negative	2.420	1	22	28	2	
+ParlaMint-HU_2022-05-02.seg17.1	u2022-05-02-1	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg17.2	u2022-05-02-1	s	Hungarian	Negative	negative	0.188	1	31	38	0	
+ParlaMint-HU_2022-05-02.seg17.3	u2022-05-02-1	s	Hungarian	Negative	negative	0.246	1	11	14	1	
+ParlaMint-HU_2022-05-02.seg18.1	u2022-05-02-1	s	Hungarian	Positive	positive	4.654	1	40	48	3	
+ParlaMint-HU_2022-05-02.seg18.2	u2022-05-02-1	s	Hungarian	Positive	mixed positive	4.473	1	3	4	0	
+ParlaMint-HU_2022-05-02.seg19.1	u2022-05-02-1	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg19.2	u2022-05-02-1	s	Hungarian	Neutral	neutral postive	2.923	1	6	7	0	
+ParlaMint-HU_2022-05-02.seg19.3	u2022-05-02-1	s	Hungarian	Neutral	neutral postive	2.957	1	7	8	0	
+ParlaMint-HU_2022-05-02.seg20.1	u2022-05-02-1	s	Hungarian	Neutral	neutral postive	3.017	1	8	10	0	
+ParlaMint-HU_2022-05-02.seg20.2	u2022-05-02-1	s	Hungarian	Neutral	neutral postive	2.783	1	3	5	0	
+ParlaMint-HU_2022-05-02.seg21.1	u2022-05-02-1	s	Hungarian	Positive	mixed positive	3.772	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg22.1	u2022-05-02-1	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg22.2	u2022-05-02-1	s	Hungarian	Neutral	neutral postive	2.710	1	22	23	3	
+ParlaMint-HU_2022-05-02.seg22.3	u2022-05-02-1	s	Hungarian	Neutral	neutral postive	3.130	1	7	8	0	
+ParlaMint-HU_2022-05-02.seg23.1	u2022-05-02-1	s	Hungarian	Neutral	neutral postive	3.179	1	13	16	2	
+u2022-05-02-2	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	26	476	527	14	
+ParlaMint-HU_2022-05-02.seg24.1	u2022-05-02-2	s	Hungarian	Positive	mixed positive	4.082	1	4	5	0	
+ParlaMint-HU_2022-05-02.seg24.2	u2022-05-02-2	s	Hungarian	Positive	positive	4.659	1	4	5	1	
+ParlaMint-HU_2022-05-02.seg24.3	u2022-05-02-2	s	Hungarian	Positive	mixed positive	4.143	1	3	4	0	
+ParlaMint-HU_2022-05-02.seg24.4	u2022-05-02-2	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg24.5	u2022-05-02-2	s	Hungarian	Neutral	neutral negative	2.481	1	28	29	3	
+ParlaMint-HU_2022-05-02.seg24.6	u2022-05-02-2	s	Hungarian	Neutral	neutral postive	2.542	1	18	20	0	
+ParlaMint-HU_2022-05-02.seg25.1	u2022-05-02-2	s	Hungarian	Neutral	neutral negative	2.498	1	13	15	0	
+ParlaMint-HU_2022-05-02.seg25.2	u2022-05-02-2	s	Hungarian	Neutral	neutral postive	3.325	1	8	9	0	
+ParlaMint-HU_2022-05-02.seg25.3	u2022-05-02-2	s	Hungarian	Neutral	neutral postive	2.806	1	25	26	1	
+ParlaMint-HU_2022-05-02.seg25.4	u2022-05-02-2	s	Hungarian	Positive	mixed positive	3.940	1	24	27	0	
+ParlaMint-HU_2022-05-02.seg26.1	u2022-05-02-2	s	Hungarian	Neutral	neutral negative	2.368	1	14	15	1	
+ParlaMint-HU_2022-05-02.seg26.2	u2022-05-02-2	s	Hungarian	Neutral	neutral negative	2.500	1	18	20	1	
+ParlaMint-HU_2022-05-02.seg26.3	u2022-05-02-2	s	Hungarian	Neutral	neutral postive	2.760	1	16	17	1	
+ParlaMint-HU_2022-05-02.seg27.1	u2022-05-02-2	s	Hungarian	Neutral	neutral negative	2.113	1	25	26	0	
+ParlaMint-HU_2022-05-02.seg27.2	u2022-05-02-2	s	Hungarian	Neutral	neutral postive	2.651	1	13	15	0	
+ParlaMint-HU_2022-05-02.seg28.1	u2022-05-02-2	s	Hungarian	Neutral	neutral postive	3.064	1	37	40	0	
+ParlaMint-HU_2022-05-02.seg28.2	u2022-05-02-2	s	Hungarian	Neutral	neutral postive	2.527	1	37	39	0	
+ParlaMint-HU_2022-05-02.seg28.3	u2022-05-02-2	s	Hungarian	Neutral	neutral postive	2.732	1	14	15	0	
+ParlaMint-HU_2022-05-02.seg28.4	u2022-05-02-2	s	Hungarian	Neutral	neutral postive	2.507	1	12	13	0	
+ParlaMint-HU_2022-05-02.seg29.1	u2022-05-02-2	s	Hungarian	Positive	positive	4.651	1	31	37	0	
+ParlaMint-HU_2022-05-02.seg29.2	u2022-05-02-2	s	Hungarian	Positive	positive	4.825	1	17	19	0	
+ParlaMint-HU_2022-05-02.seg29.3	u2022-05-02-2	s	Hungarian	Neutral	neutral postive	3.124	1	24	25	0	
+ParlaMint-HU_2022-05-02.seg30.1	u2022-05-02-2	s	Hungarian	Positive	mixed positive	3.586	1	37	44	4	
+ParlaMint-HU_2022-05-02.seg30.2	u2022-05-02-2	s	Hungarian	Positive	positive	4.516	1	33	36	1	
+ParlaMint-HU_2022-05-02.seg31.1	u2022-05-02-2	s	Hungarian	Positive	mixed positive	4.224	1	9	11	0	
+ParlaMint-HU_2022-05-02.seg31.2	u2022-05-02-2	s	Hungarian	Positive	mixed positive	4.237	1	10	12	0	
+u2022-05-02-3	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	4	47	52	4	
+ParlaMint-HU_2022-05-02.seg32.1	u2022-05-02-3	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg32.2	u2022-05-02-3	s	Hungarian	Neutral	neutral postive	2.609	1	24	25	2	
+ParlaMint-HU_2022-05-02.seg32.3	u2022-05-02-3	s	Hungarian	Neutral	neutral postive	3.126	1	7	8	0	
+ParlaMint-HU_2022-05-02.seg33.1	u2022-05-02-3	s	Hungarian	Neutral	neutral postive	3.148	1	14	16	2	
+u2022-05-02-4	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	36	504	581	10	
+ParlaMint-HU_2022-05-02.seg34.1	u2022-05-02-4	s	Hungarian	Positive	mixed positive	4.082	1	4	5	0	
+ParlaMint-HU_2022-05-02.seg34.2	u2022-05-02-4	s	Hungarian	Positive	mixed positive	3.799	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg34.3	u2022-05-02-4	s	Hungarian	Positive	mixed positive	3.698	1	4	5	1	
+ParlaMint-HU_2022-05-02.seg34.4	u2022-05-02-4	s	Hungarian	Positive	mixed positive	3.862	1	4	5	0	
+ParlaMint-HU_2022-05-02.seg34.5	u2022-05-02-4	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg34.6	u2022-05-02-4	s	Hungarian	Positive	mixed positive	4.130	1	3	4	0	
+ParlaMint-HU_2022-05-02.seg34.7	u2022-05-02-4	s	Hungarian	Positive	positive	4.605	1	7	9	0	
+ParlaMint-HU_2022-05-02.seg34.8	u2022-05-02-4	s	Hungarian	Positive	positive	4.750	1	21	25	0	
+ParlaMint-HU_2022-05-02.seg34.9	u2022-05-02-4	s	Hungarian	Positive	mixed positive	4.469	1	32	36	1	
+ParlaMint-HU_2022-05-02.seg34.10	u2022-05-02-4	s	Hungarian	Neutral	neutral postive	2.801	1	19	21	0	
+ParlaMint-HU_2022-05-02.seg35.1	u2022-05-02-4	s	Hungarian	Neutral	neutral postive	2.827	1	5	6	0	
+ParlaMint-HU_2022-05-02.seg35.2	u2022-05-02-4	s	Hungarian	Positive	positive	5.283	1	15	18	0	
+ParlaMint-HU_2022-05-02.seg35.3	u2022-05-02-4	s	Hungarian	Positive	mixed positive	3.515	1	14	17	0	
+ParlaMint-HU_2022-05-02.seg36.1	u2022-05-02-4	s	Hungarian	Neutral	neutral postive	3.130	1	4	5	0	
+ParlaMint-HU_2022-05-02.seg36.2	u2022-05-02-4	s	Hungarian	Neutral	neutral postive	2.890	1	14	15	0	
+ParlaMint-HU_2022-05-02.seg36.3	u2022-05-02-4	s	Hungarian	Neutral	neutral postive	2.887	1	17	18	0	
+ParlaMint-HU_2022-05-02.seg36.4	u2022-05-02-4	s	Hungarian	Neutral	neutral postive	3.024	1	16	18	0	
+ParlaMint-HU_2022-05-02.seg36.5	u2022-05-02-4	s	Hungarian	Positive	mixed positive	3.752	1	30	34	0	
+ParlaMint-HU_2022-05-02.seg36.6	u2022-05-02-4	s	Hungarian	Positive	mixed positive	4.394	1	19	24	1	
+ParlaMint-HU_2022-05-02.seg36.7	u2022-05-02-4	s	Hungarian	Positive	positive	4.895	1	18	20	0	
+ParlaMint-HU_2022-05-02.seg37.1	u2022-05-02-4	s	Hungarian	Neutral	neutral postive	3.266	1	7	8	0	
+ParlaMint-HU_2022-05-02.seg37.2	u2022-05-02-4	s	Hungarian	Neutral	neutral postive	2.705	1	31	35	1	
+ParlaMint-HU_2022-05-02.seg37.3	u2022-05-02-4	s	Hungarian	Positive	mixed positive	4.245	1	38	43	0	
+ParlaMint-HU_2022-05-02.seg37.4	u2022-05-02-4	s	Hungarian	Positive	mixed positive	4.147	1	11	12	0	
+ParlaMint-HU_2022-05-02.seg38.1	u2022-05-02-4	s	Hungarian	Neutral	neutral postive	2.749	1	4	5	0	
+ParlaMint-HU_2022-05-02.seg38.2	u2022-05-02-4	s	Hungarian	Neutral	neutral postive	3.288	1	38	41	0	
+ParlaMint-HU_2022-05-02.seg38.3	u2022-05-02-4	s	Hungarian	Neutral	neutral postive	3.075	1	6	7	0	
+ParlaMint-HU_2022-05-02.seg38.4	u2022-05-02-4	s	Hungarian	Neutral	neutral negative	2.213	1	29	32	0	
+ParlaMint-HU_2022-05-02.seg39.1	u2022-05-02-4	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg39.2	u2022-05-02-4	s	Hungarian	Positive	mixed positive	4.318	1	30	34	0	
+ParlaMint-HU_2022-05-02.seg39.3	u2022-05-02-4	s	Hungarian	Positive	positive	5.025	1	10	12	0	
+ParlaMint-HU_2022-05-02.seg40.1	u2022-05-02-4	s	Hungarian	Neutral	neutral postive	3.284	1	7	8	1	
+ParlaMint-HU_2022-05-02.seg40.2	u2022-05-02-4	s	Hungarian	Positive	positive	5.020	1	25	31	2	
+ParlaMint-HU_2022-05-02.seg41.1	u2022-05-02-4	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg41.2	u2022-05-02-4	s	Hungarian	Neutral	neutral postive	3.103	1	11	12	0	
+ParlaMint-HU_2022-05-02.seg41.3	u2022-05-02-4	s	Hungarian	Positive	mixed positive	4.131	1	3	4	0	
+u2022-05-02-5	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	13	122	147	15	
+ParlaMint-HU_2022-05-02.seg42.1	u2022-05-02-5	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg42.2	u2022-05-02-5	s	Hungarian	Neutral	neutral postive	2.757	1	20	22	1	
+ParlaMint-HU_2022-05-02.seg43.1	u2022-05-02-5	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg43.2	u2022-05-02-5	s	Hungarian	Neutral	neutral postive	2.719	1	5	6	0	
+ParlaMint-HU_2022-05-02.seg43.3	u2022-05-02-5	s	Hungarian	Neutral	neutral postive	2.691	1	17	19	0	
+ParlaMint-HU_2022-05-02.seg43.4	u2022-05-02-5	s	Hungarian	Neutral	neutral postive	2.546	1	34	42	5	
+ParlaMint-HU_2022-05-02.seg43.5	u2022-05-02-5	s	Hungarian	Neutral	neutral postive	3.136	1	4	5	0	
+ParlaMint-HU_2022-05-02.seg43.6	u2022-05-02-5	s	Hungarian	Neutral	neutral postive	2.998	1	14	16	2	
+ParlaMint-HU_2022-05-02.seg44.1	u2022-05-02-5	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg44.2	u2022-05-02-5	s	Hungarian	Neutral	neutral postive	2.723	1	9	10	0	
+ParlaMint-HU_2022-05-02.seg45.1	u2022-05-02-5	s	Hungarian	Neutral	neutral postive	2.927	1	3	5	0	
+ParlaMint-HU_2022-05-02.seg46.1	u2022-05-02-5	s	Hungarian	Neutral	neutral postive	3.292	1	4	5	1	
+ParlaMint-HU_2022-05-02.seg47.1	u2022-05-02-5	s	Hungarian	Neutral	neutral postive	2.989	1	6	8	3	
+u2022-05-02-6	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	5	40	47	4	
+ParlaMint-HU_2022-05-02.seg48.1	u2022-05-02-6	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg48.2	u2022-05-02-6	s	Hungarian	Neutral	neutral postive	3.251	1	13	14	2	
+ParlaMint-HU_2022-05-02.seg49.1	u2022-05-02-6	s	Hungarian	Neutral	neutral postive	2.972	1	7	9	0	
+ParlaMint-HU_2022-05-02.seg49.2	u2022-05-02-6	s	Hungarian	Neutral	neutral postive	2.810	1	5	6	0	
+ParlaMint-HU_2022-05-02.seg49.3	u2022-05-02-6	s	Hungarian	Neutral	neutral postive	3.026	1	13	15	1	
+u2022-05-02-7	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	5	39	45	2	
+ParlaMint-HU_2022-05-02.seg50.1	u2022-05-02-7	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg50.2	u2022-05-02-7	s	Hungarian	Neutral	neutral negative	2.369	1	17	18	0	
+ParlaMint-HU_2022-05-02.seg50.3	u2022-05-02-7	s	Hungarian	Positive	mixed positive	4.200	1	4	5	0	
+ParlaMint-HU_2022-05-02.seg50.4	u2022-05-02-7	s	Hungarian	Neutral	neutral postive	3.124	1	13	15	1	
+ParlaMint-HU_2022-05-02.seg50.5	u2022-05-02-7	s	Hungarian	Positive	mixed positive	4.010	1	3	4	0	
+u2022-05-02-8	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	15	157	187	10	
+ParlaMint-HU_2022-05-02.seg51.1	u2022-05-02-8	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg51.2	u2022-05-02-8	s	Hungarian	Neutral	neutral postive	2.640	1	27	28	1	
+ParlaMint-HU_2022-05-02.seg51.3	u2022-05-02-8	s	Hungarian	Positive	mixed positive	3.603	1	10	12	0	
+ParlaMint-HU_2022-05-02.seg51.4	u2022-05-02-8	s	Hungarian	Neutral	neutral postive	2.885	1	7	8	1	
+ParlaMint-HU_2022-05-02.seg52.1	u2022-05-02-8	s	Hungarian	Neutral	neutral postive	2.719	1	16	18	0	
+ParlaMint-HU_2022-05-02.seg53.1	u2022-05-02-8	s	Hungarian	Neutral	neutral postive	2.601	1	16	20	0	
+ParlaMint-HU_2022-05-02.seg54.1	u2022-05-02-8	s	Hungarian	Neutral	neutral postive	2.835	1	6	8	0	
+ParlaMint-HU_2022-05-02.seg55.1	u2022-05-02-8	s	Hungarian	Positive	mixed positive	4.042	1	3	4	1	
+ParlaMint-HU_2022-05-02.seg56.1	u2022-05-02-8	s	Hungarian	Neutral	neutral postive	2.553	1	18	23	0	
+ParlaMint-HU_2022-05-02.seg57.1	u2022-05-02-8	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg57.2	u2022-05-02-8	s	Hungarian	Neutral	neutral postive	3.178	1	12	14	1	
+ParlaMint-HU_2022-05-02.seg57.3	u2022-05-02-8	s	Hungarian	Neutral	neutral postive	2.763	1	3	5	0	
+ParlaMint-HU_2022-05-02.seg58.1	u2022-05-02-8	s	Hungarian	Neutral	neutral postive	3.457	1	19	22	1	
+ParlaMint-HU_2022-05-02.seg59.1	u2022-05-02-8	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg59.2	u2022-05-02-8	s	Hungarian	Neutral	neutral postive	3.046	1	14	16	2	
+u2022-05-02-9	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	213	512	515	212	
+ParlaMint-HU_2022-05-02.seg60.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg60.2	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.080	1	6	7	0	
+ParlaMint-HU_2022-05-02.seg61.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.433	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg62.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.428	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg63.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.572	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg64.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	4.195	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg65.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.335	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg66.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.372	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg67.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.403	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg68.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.641	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg69.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.462	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg70.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.576	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg71.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.458	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg72.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.380	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg73.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.380	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg74.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	2.728	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg75.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.696	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg76.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.478	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg77.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.300	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg78.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.315	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg79.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.644	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg80.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.483	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg81.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.532	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg82.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.211	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg83.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.533	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg84.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.151	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg85.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.289	1	4	4	1	
+ParlaMint-HU_2022-05-02.seg86.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.289	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg87.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.643	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg88.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.125	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg89.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	4.090	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg90.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.543	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg91.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.341	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg92.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.773	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg93.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.458	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg94.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.479	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg95.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.243	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg96.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	2.867	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg97.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.629	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg98.1	u2022-05-02-9	s	Hungarian	Positive	positive	5.341	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg99.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.930	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg100.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.768	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg101.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.354	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg102.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.270	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg103.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.265	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg104.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	4.097	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg105.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.497	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg106.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.776	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg107.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.474	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg108.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.659	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg109.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.808	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg110.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.585	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg111.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.155	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg112.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.333	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg113.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.247	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg114.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.620	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg115.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	4.159	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg116.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.273	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg117.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.542	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg118.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.537	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg119.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.507	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg120.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	2.887	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg121.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.371	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg122.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.500	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg123.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.698	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg124.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.581	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg125.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.531	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg126.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.426	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg127.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.475	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg128.1	u2022-05-02-9	s	Hungarian	Positive	positive	5.178	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg129.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.651	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg130.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.559	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg131.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.847	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg132.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.688	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg133.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.277	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg134.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.431	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg135.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.405	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg136.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.558	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg137.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	2.717	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg138.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.547	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg139.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.543	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg140.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.985	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg141.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.341	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg142.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.656	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg143.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.373	1	4	4	1	
+ParlaMint-HU_2022-05-02.seg144.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.543	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg145.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.297	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg146.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.466	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg147.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.192	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg148.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.775	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg149.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.264	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg150.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.220	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg151.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.552	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg152.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.654	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg153.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.779	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg154.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	4.007	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg155.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.877	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg156.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.690	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg157.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	2.714	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg158.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.993	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg159.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.413	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg160.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.347	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg161.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.012	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg162.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	4.149	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg163.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.622	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg164.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.514	1	4	4	1	
+ParlaMint-HU_2022-05-02.seg165.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.763	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg166.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.473	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg167.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.273	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg168.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.548	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg169.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.272	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg170.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.725	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg171.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.777	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg172.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.590	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg173.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.223	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg174.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.934	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg175.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	4.086	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg176.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.716	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg177.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.478	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg178.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.663	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg179.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.342	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg180.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.364	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg181.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.474	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg182.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.360	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg183.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	4.094	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg184.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	4.297	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg185.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.796	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg186.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.265	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg187.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.313	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg188.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.863	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg189.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.299	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg190.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.121	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg191.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.605	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg192.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.330	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg193.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.291	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg194.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.118	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg195.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.286	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg196.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.589	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg197.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.498	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg198.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.420	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg199.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.324	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg200.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.322	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg201.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.642	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg202.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.451	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg203.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.807	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg204.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.522	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg205.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.702	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg206.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.720	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg207.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.566	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg208.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.584	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg209.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.729	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg210.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.628	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg211.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.735	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg212.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.685	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg213.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	4.088	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg214.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.854	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg215.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	4.316	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg216.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.807	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg217.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.799	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg218.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.623	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg219.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.803	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg220.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.409	1	4	4	1	
+ParlaMint-HU_2022-05-02.seg221.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.509	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg222.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.442	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg223.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.381	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg224.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.837	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg225.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.459	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg226.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.501	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg227.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.454	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg228.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.441	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg229.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.150	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg230.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.769	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg231.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.281	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg232.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.497	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg233.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.652	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg234.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.877	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg235.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.607	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg236.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.452	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg237.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.213	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg238.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.756	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg239.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.418	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg240.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.268	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg241.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.526	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg242.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.761	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg243.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.917	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg244.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.629	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg245.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	4.106	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg246.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	4.119	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg247.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.747	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg248.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.620	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg249.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.327	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg250.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	2.932	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg251.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.405	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg252.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.495	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg253.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.526	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg254.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.265	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg255.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.405	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg256.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.594	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg257.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.812	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg258.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.238	1	4	4	1	
+ParlaMint-HU_2022-05-02.seg259.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.230	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg260.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	2.905	1	6	7	0	
+ParlaMint-HU_2022-05-02.seg261.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.603	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg262.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.249	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg263.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	2.918	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg264.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.574	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg265.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.599	1	5	5	2	
+ParlaMint-HU_2022-05-02.seg266.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.010	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg267.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.145	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg268.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.625	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg269.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.280	1	3	3	1	
+ParlaMint-HU_2022-05-02.seg270.1	u2022-05-02-9	s	Hungarian	Neutral	neutral postive	3.273	1	2	2	1	
+ParlaMint-HU_2022-05-02.seg271.1	u2022-05-02-9	s	Hungarian	Positive	mixed positive	3.841	1	2	2	1	
+u2022-05-02-10	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	17	206	251	20	
+ParlaMint-HU_2022-05-02.seg272.1	u2022-05-02-10	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg272.2	u2022-05-02-10	s	Hungarian	Neutral	neutral postive	2.933	1	6	7	0	
+ParlaMint-HU_2022-05-02.seg272.3	u2022-05-02-10	s	Hungarian	Neutral	neutral postive	2.989	1	7	9	0	
+ParlaMint-HU_2022-05-02.seg273.1	u2022-05-02-10	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg273.2	u2022-05-02-10	s	Hungarian	Neutral	neutral postive	3.459	1	5	6	0	
+ParlaMint-HU_2022-05-02.seg274.1	u2022-05-02-10	s	Hungarian	Positive	mixed positive	3.585	1	23	29	1	
+ParlaMint-HU_2022-05-02.seg275.1	u2022-05-02-10	s	Hungarian	Positive	mixed positive	4.401	1	4	5	1	
+ParlaMint-HU_2022-05-02.seg276.1	u2022-05-02-10	s	Hungarian	Positive	mixed positive	4.007	1	34	39	4	
+ParlaMint-HU_2022-05-02.seg276.2	u2022-05-02-10	s	Hungarian	Positive	positive	4.704	1	5	6	1	
+ParlaMint-HU_2022-05-02.seg277.1	u2022-05-02-10	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg277.2	u2022-05-02-10	s	Hungarian	Neutral	neutral postive	3.469	1	5	7	1	
+ParlaMint-HU_2022-05-02.seg277.3	u2022-05-02-10	s	Hungarian	Neutral	neutral postive	3.094	1	27	30	3	
+ParlaMint-HU_2022-05-02.seg278.1	u2022-05-02-10	s	Hungarian	Neutral	neutral negative	2.039	1	26	33	2	
+ParlaMint-HU_2022-05-02.seg278.2	u2022-05-02-10	s	Hungarian	Neutral	neutral negative	2.376	1	42	50	1	
+ParlaMint-HU_2022-05-02.seg279.1	u2022-05-02-10	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg279.2	u2022-05-02-10	s	Hungarian	Neutral	neutral postive	3.132	1	10	12	1	
+ParlaMint-HU_2022-05-02.seg279.3	u2022-05-02-10	s	Hungarian	Positive	mixed positive	3.887	1	4	6	1	
+u2022-05-02-11	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	93	1408	1675	45	
+ParlaMint-HU_2022-05-02.seg280.1	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	3.413	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg280.2	u2022-05-02-11	s	Hungarian	Positive	mixed positive	4.086	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg280.3	u2022-05-02-11	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg280.4	u2022-05-02-11	s	Hungarian	Positive	mixed positive	4.130	1	3	4	0	
+ParlaMint-HU_2022-05-02.seg280.5	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	3.066	1	6	7	0	
+ParlaMint-HU_2022-05-02.seg280.6	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	2.675	1	9	12	0	
+ParlaMint-HU_2022-05-02.seg280.7	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	2.897	1	9	11	0	
+ParlaMint-HU_2022-05-02.seg280.8	u2022-05-02-11	s	Hungarian	Neutral	neutral negative	2.447	1	13	16	0	
+ParlaMint-HU_2022-05-02.seg280.9	u2022-05-02-11	s	Hungarian	Neutral	neutral negative	2.148	1	31	36	1	
+ParlaMint-HU_2022-05-02.seg281.1	u2022-05-02-11	s	Hungarian	Neutral	neutral negative	2.351	1	13	18	0	
+ParlaMint-HU_2022-05-02.seg281.2	u2022-05-02-11	s	Hungarian	Neutral	neutral negative	2.401	1	14	15	0	
+ParlaMint-HU_2022-05-02.seg281.3	u2022-05-02-11	s	Hungarian	Neutral	neutral negative	2.176	1	10	11	0	
+ParlaMint-HU_2022-05-02.seg281.4	u2022-05-02-11	s	Hungarian	Negative	mixed negative	1.481	1	12	14	0	
+ParlaMint-HU_2022-05-02.seg281.5	u2022-05-02-11	s	Hungarian	Positive	mixed positive	4.012	1	14	16	0	
+ParlaMint-HU_2022-05-02.seg281.6	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	3.255	1	12	13	1	
+ParlaMint-HU_2022-05-02.seg282.1	u2022-05-02-11	s	Hungarian	Positive	positive	4.629	1	14	16	1	
+ParlaMint-HU_2022-05-02.seg282.2	u2022-05-02-11	s	Hungarian	Positive	mixed positive	4.312	1	36	43	1	
+ParlaMint-HU_2022-05-02.seg283.1	u2022-05-02-11	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg283.2	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	2.757	1	17	20	2	
+ParlaMint-HU_2022-05-02.seg283.3	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	3.308	1	16	18	1	
+ParlaMint-HU_2022-05-02.seg284.1	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	2.536	1	12	13	1	
+ParlaMint-HU_2022-05-02.seg284.2	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	3.308	1	16	18	1	
+ParlaMint-HU_2022-05-02.seg284.3	u2022-05-02-11	s	Hungarian	Positive	mixed positive	3.887	1	4	6	1	
+ParlaMint-HU_2022-05-02.seg284.4	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	3.495	1	18	21	3	
+ParlaMint-HU_2022-05-02.seg285.1	u2022-05-02-11	s	Hungarian	Positive	mixed positive	4.416	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg285.2	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	3.435	1	17	21	2	
+ParlaMint-HU_2022-05-02.seg285.3	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	3.081	1	11	14	0	
+ParlaMint-HU_2022-05-02.seg286.1	u2022-05-02-11	s	Hungarian	Positive	positive	5.153	1	30	33	0	
+ParlaMint-HU_2022-05-02.seg286.2	u2022-05-02-11	s	Hungarian	Neutral	neutral negative	2.045	1	12	14	0	
+ParlaMint-HU_2022-05-02.seg286.3	u2022-05-02-11	s	Hungarian	Negative	mixed negative	1.164	1	21	24	0	
+ParlaMint-HU_2022-05-02.seg286.4	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	3.300	1	13	17	0	
+ParlaMint-HU_2022-05-02.seg287.1	u2022-05-02-11	s	Hungarian	Positive	mixed positive	4.251	1	5	6	0	
+ParlaMint-HU_2022-05-02.seg287.2	u2022-05-02-11	s	Hungarian	Negative	mixed negative	0.556	1	35	42	0	
+ParlaMint-HU_2022-05-02.seg287.3	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	3.285	1	4	5	0	
+ParlaMint-HU_2022-05-02.seg288.1	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	3.025	1	7	8	0	
+ParlaMint-HU_2022-05-02.seg288.2	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	3.394	1	40	48	1	
+ParlaMint-HU_2022-05-02.seg289.1	u2022-05-02-11	s	Hungarian	Negative	negative	0.334	1	15	19	0	
+ParlaMint-HU_2022-05-02.seg290.1	u2022-05-02-11	s	Hungarian	Negative	negative	0.245	1	12	15	0	
+ParlaMint-HU_2022-05-02.seg291.1	u2022-05-02-11	s	Hungarian	Negative	negative	0.293	1	15	20	0	
+ParlaMint-HU_2022-05-02.seg291.2	u2022-05-02-11	s	Hungarian	Positive	mixed positive	3.942	1	4	6	1	
+ParlaMint-HU_2022-05-02.seg291.3	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	3.125	1	0	1	0	
+ParlaMint-HU_2022-05-02.seg292.1	u2022-05-02-11	s	Hungarian	Positive	mixed positive	4.251	1	5	6	1	
+ParlaMint-HU_2022-05-02.seg292.2	u2022-05-02-11	s	Hungarian	Positive	positive	5.351	1	20	25	0	
+ParlaMint-HU_2022-05-02.seg292.3	u2022-05-02-11	s	Hungarian	Positive	positive	5.019	1	8	10	0	
+ParlaMint-HU_2022-05-02.seg292.4	u2022-05-02-11	s	Hungarian	Positive	positive	5.343	1	10	12	0	
+ParlaMint-HU_2022-05-02.seg292.5	u2022-05-02-11	s	Hungarian	Positive	positive	5.274	1	24	28	0	
+ParlaMint-HU_2022-05-02.seg292.6	u2022-05-02-11	s	Hungarian	Positive	positive	5.095	1	8	11	0	
+ParlaMint-HU_2022-05-02.seg292.7	u2022-05-02-11	s	Hungarian	Positive	positive	5.481	1	22	26	0	
+ParlaMint-HU_2022-05-02.seg293.1	u2022-05-02-11	s	Hungarian	Positive	positive	5.525	1	17	20	0	
+ParlaMint-HU_2022-05-02.seg293.2	u2022-05-02-11	s	Hungarian	Positive	positive	4.812	1	20	28	0	
+ParlaMint-HU_2022-05-02.seg294.1	u2022-05-02-11	s	Hungarian	Positive	positive	5.010	1	19	23	0	
+ParlaMint-HU_2022-05-02.seg294.2	u2022-05-02-11	s	Hungarian	Positive	positive	4.547	1	30	37	4	
+ParlaMint-HU_2022-05-02.seg294.3	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	2.604	1	6	8	0	
+ParlaMint-HU_2022-05-02.seg294.4	u2022-05-02-11	s	Hungarian	Positive	mixed positive	4.302	1	14	16	0	
+ParlaMint-HU_2022-05-02.seg294.5	u2022-05-02-11	s	Hungarian	Positive	positive	4.887	1	27	29	2	
+ParlaMint-HU_2022-05-02.seg294.6	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	3.182	1	35	44	0	
+ParlaMint-HU_2022-05-02.seg294.7	u2022-05-02-11	s	Hungarian	Positive	mixed positive	3.665	1	10	12	0	
+ParlaMint-HU_2022-05-02.seg294.8	u2022-05-02-11	s	Hungarian	Positive	positive	4.820	1	30	35	2	
+ParlaMint-HU_2022-05-02.seg295.1	u2022-05-02-11	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg295.2	u2022-05-02-11	s	Hungarian	Positive	positive	5.185	1	14	17	0	
+ParlaMint-HU_2022-05-02.seg295.3	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	2.829	1	7	8	1	
+ParlaMint-HU_2022-05-02.seg295.4	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	2.616	1	15	18	0	
+ParlaMint-HU_2022-05-02.seg295.5	u2022-05-02-11	s	Hungarian	Negative	negative	0.305	1	30	36	0	
+ParlaMint-HU_2022-05-02.seg296.1	u2022-05-02-11	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg296.2	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	3.189	1	40	47	0	
+ParlaMint-HU_2022-05-02.seg296.3	u2022-05-02-11	s	Hungarian	Neutral	neutral negative	1.697	1	16	18	2	
+ParlaMint-HU_2022-05-02.seg296.4	u2022-05-02-11	s	Hungarian	Negative	mixed negative	1.207	1	1	2	0	
+ParlaMint-HU_2022-05-02.seg297.1	u2022-05-02-11	s	Hungarian	Negative	negative	0.315	1	23	27	0	
+ParlaMint-HU_2022-05-02.seg297.2	u2022-05-02-11	s	Hungarian	Negative	negative	0.328	1	38	44	0	
+ParlaMint-HU_2022-05-02.seg297.3	u2022-05-02-11	s	Hungarian	Negative	negative	0.195	1	26	31	1	
+ParlaMint-HU_2022-05-02.seg297.4	u2022-05-02-11	s	Hungarian	Negative	mixed negative	0.627	1	10	12	0	
+ParlaMint-HU_2022-05-02.seg297.5	u2022-05-02-11	s	Hungarian	Negative	negative	0.243	1	16	18	2	
+ParlaMint-HU_2022-05-02.seg297.6	u2022-05-02-11	s	Hungarian	Negative	negative	0.148	1	16	18	0	
+ParlaMint-HU_2022-05-02.seg297.7	u2022-05-02-11	s	Hungarian	Negative	negative	0.127	1	16	18	0	
+ParlaMint-HU_2022-05-02.seg297.8	u2022-05-02-11	s	Hungarian	Negative	negative	0.216	1	15	19	0	
+ParlaMint-HU_2022-05-02.seg298.1	u2022-05-02-11	s	Hungarian	Neutral	neutral negative	2.339	1	7	8	0	
+ParlaMint-HU_2022-05-02.seg298.2	u2022-05-02-11	s	Hungarian	Negative	mixed negative	1.166	1	23	25	1	
+ParlaMint-HU_2022-05-02.seg298.3	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	2.845	1	8	9	2	
+ParlaMint-HU_2022-05-02.seg298.4	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	2.857	1	17	19	0	
+ParlaMint-HU_2022-05-02.seg298.5	u2022-05-02-11	s	Hungarian	Negative	mixed negative	0.565	1	23	26	0	
+ParlaMint-HU_2022-05-02.seg298.6	u2022-05-02-11	s	Hungarian	Negative	mixed negative	0.914	1	11	12	0	
+ParlaMint-HU_2022-05-02.seg298.7	u2022-05-02-11	s	Hungarian	Negative	negative	0.118	1	46	53	1	
+ParlaMint-HU_2022-05-02.seg299.1	u2022-05-02-11	s	Hungarian	Neutral	neutral negative	1.782	1	13	14	3	
+ParlaMint-HU_2022-05-02.seg299.2	u2022-05-02-11	s	Hungarian	Negative	negative	0.223	1	32	36	0	
+ParlaMint-HU_2022-05-02.seg300.1	u2022-05-02-11	s	Hungarian	Negative	mixed negative	0.898	1	8	9	1	
+ParlaMint-HU_2022-05-02.seg301.1	u2022-05-02-11	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg301.2	u2022-05-02-11	s	Hungarian	Negative	mixed negative	0.515	1	12	16	0	
+ParlaMint-HU_2022-05-02.seg301.3	u2022-05-02-11	s	Hungarian	Negative	negative	0.269	1	10	13	0	
+ParlaMint-HU_2022-05-02.seg301.4	u2022-05-02-11	s	Hungarian	Negative	negative	0.116	1	14	17	0	
+ParlaMint-HU_2022-05-02.seg301.5	u2022-05-02-11	s	Hungarian	Positive	mixed positive	4.265	1	24	26	2	
+ParlaMint-HU_2022-05-02.seg302.1	u2022-05-02-11	s	Hungarian	Positive	mixed positive	4.034	1	13	16	0	
+ParlaMint-HU_2022-05-02.seg302.2	u2022-05-02-11	s	Hungarian	Neutral	neutral negative	2.492	1	22	27	0	
+ParlaMint-HU_2022-05-02.seg302.3	u2022-05-02-11	s	Hungarian	Neutral	neutral postive	2.915	1	1	1	0	
+u2022-05-02-12	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	14	113	133	9	
+ParlaMint-HU_2022-05-02.seg303.1	u2022-05-02-12	s	Hungarian	Positive	positive	4.690	1	5	6	0	
+ParlaMint-HU_2022-05-02.seg303.2	u2022-05-02-12	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg303.3	u2022-05-02-12	s	Hungarian	Positive	mixed positive	3.791	1	13	15	0	
+ParlaMint-HU_2022-05-02.seg304.1	u2022-05-02-12	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg304.2	u2022-05-02-12	s	Hungarian	Neutral	neutral postive	2.863	1	9	10	0	
+ParlaMint-HU_2022-05-02.seg304.3	u2022-05-02-12	s	Hungarian	Neutral	neutral postive	2.792	1	9	10	0	
+ParlaMint-HU_2022-05-02.seg304.4	u2022-05-02-12	s	Hungarian	Neutral	neutral postive	2.677	1	23	26	0	
+ParlaMint-HU_2022-05-02.seg304.5	u2022-05-02-12	s	Hungarian	Neutral	neutral postive	2.998	1	14	16	2	
+ParlaMint-HU_2022-05-02.seg305.1	u2022-05-02-12	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg305.2	u2022-05-02-12	s	Hungarian	Neutral	neutral negative	2.414	1	14	15	0	
+ParlaMint-HU_2022-05-02.seg305.3	u2022-05-02-12	s	Hungarian	Neutral	neutral postive	3.178	1	6	7	0	
+ParlaMint-HU_2022-05-02.seg306.1	u2022-05-02-12	s	Hungarian	Neutral	neutral postive	3.103	1	3	5	0	
+ParlaMint-HU_2022-05-02.seg307.1	u2022-05-02-12	s	Hungarian	Neutral	neutral postive	3.292	1	4	5	1	
+ParlaMint-HU_2022-05-02.seg308.1	u2022-05-02-12	s	Hungarian	Neutral	neutral postive	2.909	1	7	9	3	
+u2022-05-02-13	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	4	35	41	4	
+ParlaMint-HU_2022-05-02.seg309.1	u2022-05-02-13	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg309.2	u2022-05-02-13	s	Hungarian	Neutral	neutral postive	3.245	1	13	14	2	
+ParlaMint-HU_2022-05-02.seg310.1	u2022-05-02-13	s	Hungarian	Neutral	neutral postive	3.435	1	6	8	0	
+ParlaMint-HU_2022-05-02.seg310.2	u2022-05-02-13	s	Hungarian	Neutral	neutral postive	2.784	1	14	16	1	
+u2022-05-02-14	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	5	33	39	2	
+ParlaMint-HU_2022-05-02.seg311.1	u2022-05-02-14	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg312.1	u2022-05-02-14	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg312.2	u2022-05-02-14	s	Hungarian	Neutral	neutral negative	2.475	1	20	21	0	
+ParlaMint-HU_2022-05-02.seg312.3	u2022-05-02-14	s	Hungarian	Positive	mixed positive	4.200	1	4	5	0	
+ParlaMint-HU_2022-05-02.seg312.4	u2022-05-02-14	s	Hungarian	Positive	mixed positive	4.046	1	5	7	0	
+u2022-05-02-15	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	10	159	194	11	
+ParlaMint-HU_2022-05-02.seg313.1	u2022-05-02-15	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg313.2	u2022-05-02-15	s	Hungarian	Neutral	neutral postive	2.747	1	20	22	0	
+ParlaMint-HU_2022-05-02.seg313.3	u2022-05-02-15	s	Hungarian	Negative	negative	0.486	1	55	68	4	
+ParlaMint-HU_2022-05-02.seg314.1	u2022-05-02-15	s	Hungarian	Negative	mixed negative	0.921	1	39	48	2	
+ParlaMint-HU_2022-05-02.seg314.2	u2022-05-02-15	s	Hungarian	Positive	mixed positive	3.988	1	4	6	1	
+ParlaMint-HU_2022-05-02.seg314.3	u2022-05-02-15	s	Hungarian	Neutral	neutral postive	3.125	1	0	1	0	
+ParlaMint-HU_2022-05-02.seg314.4	u2022-05-02-15	s	Hungarian	Neutral	neutral postive	2.824	1	11	13	0	
+ParlaMint-HU_2022-05-02.seg315.1	u2022-05-02-15	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg315.2	u2022-05-02-15	s	Hungarian	Neutral	neutral postive	2.702	1	16	18	1	
+ParlaMint-HU_2022-05-02.seg315.3	u2022-05-02-15	s	Hungarian	Neutral	neutral postive	2.803	1	10	12	1	
+u2022-05-02-16	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	5	94	113	12	
+ParlaMint-HU_2022-05-02.seg316.1	u2022-05-02-16	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg316.2	u2022-05-02-16	s	Hungarian	Neutral	neutral postive	2.541	1	10	12	0	
+ParlaMint-HU_2022-05-02.seg316.3	u2022-05-02-16	s	Hungarian	Negative	mixed negative	0.785	1	55	67	10	
+ParlaMint-HU_2022-05-02.seg317.1	u2022-05-02-16	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg317.2	u2022-05-02-16	s	Hungarian	Neutral	neutral postive	3.135	1	25	28	1	
+u2022-05-02-17	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	18	213	252	13	
+ParlaMint-HU_2022-05-02.seg318.1	u2022-05-02-17	s	Hungarian	Positive	positive	4.696	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg318.2	u2022-05-02-17	s	Hungarian	Neutral	neutral postive	2.729	1	12	14	0	
+ParlaMint-HU_2022-05-02.seg319.1	u2022-05-02-17	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg319.2	u2022-05-02-17	s	Hungarian	Neutral	neutral postive	2.603	1	27	28	3	
+ParlaMint-HU_2022-05-02.seg320.1	u2022-05-02-17	s	Hungarian	Neutral	neutral postive	2.845	1	13	15	2	
+ParlaMint-HU_2022-05-02.seg320.2	u2022-05-02-17	s	Hungarian	Neutral	neutral postive	3.093	1	3	5	0	
+ParlaMint-HU_2022-05-02.seg321.1	u2022-05-02-17	s	Hungarian	Positive	mixed positive	3.959	1	17	21	1	
+ParlaMint-HU_2022-05-02.seg322.1	u2022-05-02-17	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg322.2	u2022-05-02-17	s	Hungarian	Neutral	neutral postive	2.536	1	28	29	1	
+ParlaMint-HU_2022-05-02.seg323.1	u2022-05-02-17	s	Hungarian	Neutral	neutral postive	2.891	1	14	16	1	
+ParlaMint-HU_2022-05-02.seg323.2	u2022-05-02-17	s	Hungarian	Neutral	neutral postive	3.093	1	3	5	0	
+ParlaMint-HU_2022-05-02.seg324.1	u2022-05-02-17	s	Hungarian	Positive	mixed positive	3.945	1	17	21	1	
+ParlaMint-HU_2022-05-02.seg325.1	u2022-05-02-17	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg325.2	u2022-05-02-17	s	Hungarian	Positive	positive	4.898	1	24	27	0	
+ParlaMint-HU_2022-05-02.seg326.1	u2022-05-02-17	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg326.2	u2022-05-02-17	s	Hungarian	Neutral	neutral postive	2.902	1	7	9	0	
+ParlaMint-HU_2022-05-02.seg326.3	u2022-05-02-17	s	Hungarian	Neutral	neutral negative	2.317	1	26	31	0	
+ParlaMint-HU_2022-05-02.seg326.4	u2022-05-02-17	s	Hungarian	Neutral	neutral postive	2.837	1	12	16	1	
+u2022-05-02-18	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	10	111	124	19	
+ParlaMint-HU_2022-05-02.seg327.1	u2022-05-02-18	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg327.2	u2022-05-02-18	s	Hungarian	Neutral	neutral postive	3.001	1	16	19	2	
+ParlaMint-HU_2022-05-02.seg328.1	u2022-05-02-18	s	Hungarian	Neutral	neutral postive	3.287	1	11	12	2	
+ParlaMint-HU_2022-05-02.seg329.1	u2022-05-02-18	s	Hungarian	Neutral	neutral postive	3.262	1	11	12	2	
+ParlaMint-HU_2022-05-02.seg330.1	u2022-05-02-18	s	Hungarian	Neutral	neutral postive	3.369	1	12	13	2	
+ParlaMint-HU_2022-05-02.seg331.1	u2022-05-02-18	s	Hungarian	Neutral	neutral postive	3.018	1	11	12	2	
+ParlaMint-HU_2022-05-02.seg332.1	u2022-05-02-18	s	Hungarian	Neutral	neutral postive	3.264	1	12	13	2	
+ParlaMint-HU_2022-05-02.seg333.1	u2022-05-02-18	s	Hungarian	Neutral	neutral postive	3.215	1	12	13	2	
+ParlaMint-HU_2022-05-02.seg334.1	u2022-05-02-18	s	Hungarian	Positive	mixed positive	3.513	1	11	12	2	
+ParlaMint-HU_2022-05-02.seg335.1	u2022-05-02-18	s	Hungarian	Neutral	neutral postive	3.108	1	13	15	3	
+u2022-05-02-19	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	10	116	134	10	
+ParlaMint-HU_2022-05-02.seg336.1	u2022-05-02-19	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg336.2	u2022-05-02-19	s	Hungarian	Neutral	neutral negative	2.419	1	9	10	2	
+ParlaMint-HU_2022-05-02.seg336.3	u2022-05-02-19	s	Hungarian	Neutral	neutral negative	2.373	1	26	30	2	
+ParlaMint-HU_2022-05-02.seg336.4	u2022-05-02-19	s	Hungarian	Positive	mixed positive	4.234	1	5	6	0	
+ParlaMint-HU_2022-05-02.seg336.5	u2022-05-02-19	s	Hungarian	Neutral	neutral postive	3.331	1	17	19	2	
+ParlaMint-HU_2022-05-02.seg337.1	u2022-05-02-19	s	Hungarian	Neutral	neutral negative	1.698	1	15	17	1	
+ParlaMint-HU_2022-05-02.seg338.1	u2022-05-02-19	s	Hungarian	Neutral	neutral postive	2.880	1	6	7	0	
+ParlaMint-HU_2022-05-02.seg339.1	u2022-05-02-19	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg339.2	u2022-05-02-19	s	Hungarian	Neutral	neutral postive	2.511	1	12	13	0	
+ParlaMint-HU_2022-05-02.seg339.3	u2022-05-02-19	s	Hungarian	Positive	mixed positive	3.538	1	22	26	2	
+u2022-05-02-20	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	7	96	113	3	
+ParlaMint-HU_2022-05-02.seg340.1	u2022-05-02-20	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg340.2	u2022-05-02-20	s	Hungarian	Neutral	neutral negative	2.251	1	18	20	1	
+ParlaMint-HU_2022-05-02.seg341.1	u2022-05-02-20	s	Hungarian	Neutral	neutral negative	2.460	1	20	23	1	
+ParlaMint-HU_2022-05-02.seg342.1	u2022-05-02-20	s	Hungarian	Neutral	neutral postive	2.702	1	13	16	0	
+ParlaMint-HU_2022-05-02.seg342.2	u2022-05-02-20	s	Hungarian	Neutral	neutral postive	2.882	1	12	14	0	
+ParlaMint-HU_2022-05-02.seg343.1	u2022-05-02-20	s	Hungarian	Neutral	neutral postive	2.681	1	11	13	0	
+ParlaMint-HU_2022-05-02.seg344.1	u2022-05-02-20	s	Hungarian	Neutral	neutral negative	2.493	1	20	24	0	
+u2022-05-02-21	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	5	105	125	0	
+ParlaMint-HU_2022-05-02.seg345.1	u2022-05-02-21	s	Hungarian	Neutral	neutral negative	2.365	1	6	7	0	
+ParlaMint-HU_2022-05-02.seg346.1	u2022-05-02-21	s	Hungarian	Neutral	neutral negative	2.088	1	30	35	0	
+ParlaMint-HU_2022-05-02.seg347.1	u2022-05-02-21	s	Hungarian	Negative	mixed negative	1.131	1	18	22	0	
+ParlaMint-HU_2022-05-02.seg348.1	u2022-05-02-21	s	Hungarian	Negative	mixed negative	0.756	1	28	34	0	
+ParlaMint-HU_2022-05-02.seg349.1	u2022-05-02-21	s	Hungarian	Neutral	neutral negative	1.605	1	23	27	0	
+u2022-05-02-22	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	11	101	120	4	
+ParlaMint-HU_2022-05-02.seg350.1	u2022-05-02-22	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg350.2	u2022-05-02-22	s	Hungarian	Neutral	neutral postive	2.962	1	10	12	0	
+ParlaMint-HU_2022-05-02.seg350.3	u2022-05-02-22	s	Hungarian	Neutral	neutral postive	2.767	1	10	11	0	
+ParlaMint-HU_2022-05-02.seg351.1	u2022-05-02-22	s	Hungarian	Neutral	neutral postive	2.696	1	15	18	0	
+ParlaMint-HU_2022-05-02.seg352.1	u2022-05-02-22	s	Hungarian	Neutral	neutral postive	2.601	1	21	23	0	
+ParlaMint-HU_2022-05-02.seg352.2	u2022-05-02-22	s	Hungarian	Neutral	neutral negative	2.373	1	8	9	0	
+ParlaMint-HU_2022-05-02.seg352.3	u2022-05-02-22	s	Hungarian	Neutral	neutral postive	2.556	1	10	13	0	
+ParlaMint-HU_2022-05-02.seg353.1	u2022-05-02-22	s	Hungarian	Neutral	neutral postive	2.711	1	12	13	0	
+ParlaMint-HU_2022-05-02.seg354.1	u2022-05-02-22	s	Hungarian	Neutral	neutral postive	3.068	1	3	5	0	
+ParlaMint-HU_2022-05-02.seg355.1	u2022-05-02-22	s	Hungarian	Neutral	neutral postive	3.292	1	4	5	1	
+ParlaMint-HU_2022-05-02.seg356.1	u2022-05-02-22	s	Hungarian	Neutral	neutral postive	2.630	1	6	8	3	
+u2022-05-02-23	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	14	153	180	11	
+ParlaMint-HU_2022-05-02.seg357.1	u2022-05-02-23	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg357.2	u2022-05-02-23	s	Hungarian	Positive	mixed positive	3.807	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg357.3	u2022-05-02-23	s	Hungarian	Neutral	neutral postive	3.238	1	13	14	2	
+ParlaMint-HU_2022-05-02.seg358.1	u2022-05-02-23	s	Hungarian	Neutral	neutral postive	2.861	1	17	21	0	
+ParlaMint-HU_2022-05-02.seg359.1	u2022-05-02-23	s	Hungarian	Neutral	neutral postive	3.257	1	4	5	0	
+ParlaMint-HU_2022-05-02.seg359.2	u2022-05-02-23	s	Hungarian	Neutral	neutral postive	3.037	1	8	9	0	
+ParlaMint-HU_2022-05-02.seg359.3	u2022-05-02-23	s	Hungarian	Neutral	neutral postive	2.816	1	15	16	1	
+ParlaMint-HU_2022-05-02.seg359.4	u2022-05-02-23	s	Hungarian	Neutral	neutral postive	3.348	1	28	34	0	
+ParlaMint-HU_2022-05-02.seg359.5	u2022-05-02-23	s	Hungarian	Positive	mixed positive	4.174	1	14	16	1	
+ParlaMint-HU_2022-05-02.seg360.1	u2022-05-02-23	s	Hungarian	Positive	mixed positive	3.785	1	11	13	3	
+ParlaMint-HU_2022-05-02.seg361.1	u2022-05-02-23	s	Hungarian	Neutral	neutral postive	2.984	1	5	6	0	
+ParlaMint-HU_2022-05-02.seg361.2	u2022-05-02-23	s	Hungarian	Neutral	neutral postive	3.417	1	27	31	2	
+ParlaMint-HU_2022-05-02.seg362.1	u2022-05-02-23	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg362.2	u2022-05-02-23	s	Hungarian	Neutral	neutral postive	3.459	1	5	6	0	
+u2022-05-02-24	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	2	29	35	3	
+ParlaMint-HU_2022-05-02.seg363.1	u2022-05-02-24	s	Hungarian	Positive	mixed positive	3.803	1	25	30	2	
+ParlaMint-HU_2022-05-02.seg363.2	u2022-05-02-24	s	Hungarian	Positive	mixed positive	4.401	1	4	5	1	
+u2022-05-02-25	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	10	115	133	9	
+ParlaMint-HU_2022-05-02.seg364.1	u2022-05-02-25	s	Hungarian	Neutral	neutral postive	3.057	1	23	27	2	
+ParlaMint-HU_2022-05-02.seg365.1	u2022-05-02-25	s	Hungarian	Positive	positive	5.118	1	19	21	2	
+ParlaMint-HU_2022-05-02.seg366.1	u2022-05-02-25	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg366.2	u2022-05-02-25	s	Hungarian	Neutral	neutral postive	3.319	1	17	20	1	
+ParlaMint-HU_2022-05-02.seg366.3	u2022-05-02-25	s	Hungarian	Positive	positive	4.696	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg367.1	u2022-05-02-25	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg367.2	u2022-05-02-25	s	Hungarian	Neutral	neutral postive	2.622	1	12	13	0	
+ParlaMint-HU_2022-05-02.seg368.1	u2022-05-02-25	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg368.2	u2022-05-02-25	s	Hungarian	Neutral	neutral postive	2.643	1	27	29	1	
+ParlaMint-HU_2022-05-02.seg368.3	u2022-05-02-25	s	Hungarian	Neutral	neutral postive	3.394	1	9	11	1	
+u2022-05-02-26	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	1	60	78	19	
+ParlaMint-HU_2022-05-02.seg369.1	u2022-05-02-26	s	Hungarian	Neutral	neutral postive	2.616	1	60	78	19	
+u2022-05-02-27	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	76	759	953	132	
+ParlaMint-HU_2022-05-02.seg370.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg370.2	u2022-05-02-27	s	Hungarian	Neutral	neutral negative	2.143	1	7	8	0	
+ParlaMint-HU_2022-05-02.seg370.3	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	2.674	1	8	10	1	
+ParlaMint-HU_2022-05-02.seg371.1	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.203	1	9	11	2	
+ParlaMint-HU_2022-05-02.seg371.2	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg372.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	3.821	1	20	24	3	
+ParlaMint-HU_2022-05-02.seg373.1	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.072	1	11	13	2	
+ParlaMint-HU_2022-05-02.seg373.2	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg374.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	3.892	1	20	24	3	
+ParlaMint-HU_2022-05-02.seg375.1	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.070	1	11	13	2	
+ParlaMint-HU_2022-05-02.seg375.2	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg376.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	3.706	1	18	22	2	
+ParlaMint-HU_2022-05-02.seg376.2	u2022-05-02-27	s	Hungarian	Positive	positive	5.308	1	1	2	0	
+ParlaMint-HU_2022-05-02.seg377.1	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.090	1	10	12	2	
+ParlaMint-HU_2022-05-02.seg377.2	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg378.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	3.829	1	17	20	2	
+ParlaMint-HU_2022-05-02.seg379.1	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.172	1	11	13	2	
+ParlaMint-HU_2022-05-02.seg379.2	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg380.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	3.844	1	21	25	3	
+ParlaMint-HU_2022-05-02.seg381.1	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	2.912	1	13	15	2	
+ParlaMint-HU_2022-05-02.seg381.2	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg382.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	3.627	1	22	26	3	
+ParlaMint-HU_2022-05-02.seg383.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg383.2	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.031	1	6	7	1	
+ParlaMint-HU_2022-05-02.seg383.3	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.123	1	10	12	2	
+ParlaMint-HU_2022-05-02.seg383.4	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg384.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	4.159	1	16	19	3	
+ParlaMint-HU_2022-05-02.seg385.1	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.110	1	10	12	2	
+ParlaMint-HU_2022-05-02.seg385.2	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg386.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	3.766	1	19	23	3	
+ParlaMint-HU_2022-05-02.seg387.1	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.180	1	10	12	2	
+ParlaMint-HU_2022-05-02.seg387.2	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg388.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	3.865	1	19	23	3	
+ParlaMint-HU_2022-05-02.seg389.1	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.185	1	10	12	2	
+ParlaMint-HU_2022-05-02.seg389.2	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg390.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	3.822	1	19	23	3	
+ParlaMint-HU_2022-05-02.seg391.1	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.161	1	10	12	2	
+ParlaMint-HU_2022-05-02.seg391.2	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg392.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	3.829	1	19	23	3	
+ParlaMint-HU_2022-05-02.seg393.1	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.203	1	10	12	2	
+ParlaMint-HU_2022-05-02.seg393.2	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg394.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	3.841	1	19	23	3	
+ParlaMint-HU_2022-05-02.seg395.1	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.119	1	11	13	2	
+ParlaMint-HU_2022-05-02.seg395.2	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg396.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	3.782	1	20	24	3	
+ParlaMint-HU_2022-05-02.seg397.1	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.163	1	11	13	2	
+ParlaMint-HU_2022-05-02.seg397.2	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg398.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	3.617	1	12	14	3	
+ParlaMint-HU_2022-05-02.seg399.1	u2022-05-02-27	s	Hungarian	Negative	mixed negative	0.697	1	1	2	0	
+ParlaMint-HU_2022-05-02.seg399.2	u2022-05-02-27	s	Hungarian	Neutral	neutral negative	1.500	1	7	9	0	
+ParlaMint-HU_2022-05-02.seg399.3	u2022-05-02-27	s	Hungarian	Positive	mixed positive	3.856	1	19	22	2	
+ParlaMint-HU_2022-05-02.seg400.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg400.2	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.077	1	10	12	2	
+ParlaMint-HU_2022-05-02.seg400.3	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg401.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	3.838	1	19	22	3	
+ParlaMint-HU_2022-05-02.seg402.1	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.194	1	10	12	2	
+ParlaMint-HU_2022-05-02.seg402.2	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg403.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	3.887	1	17	20	2	
+ParlaMint-HU_2022-05-02.seg404.1	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.161	1	10	12	2	
+ParlaMint-HU_2022-05-02.seg404.2	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg405.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	3.720	1	20	24	3	
+ParlaMint-HU_2022-05-02.seg406.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg406.2	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.059	1	10	12	2	
+ParlaMint-HU_2022-05-02.seg406.3	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg407.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	3.824	1	19	22	3	
+ParlaMint-HU_2022-05-02.seg408.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg408.2	u2022-05-02-27	s	Hungarian	Positive	positive	5.049	1	11	13	0	
+ParlaMint-HU_2022-05-02.seg409.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg409.2	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	2.927	1	13	16	2	
+ParlaMint-HU_2022-05-02.seg409.3	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	2.634	1	63	88	26	
+ParlaMint-HU_2022-05-02.seg410.1	u2022-05-02-27	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg410.2	u2022-05-02-27	s	Hungarian	Positive	mixed positive	3.815	1	31	35	3	
+ParlaMint-HU_2022-05-02.seg411.1	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.048	1	5	7	1	
+ParlaMint-HU_2022-05-02.seg412.1	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.426	1	3	4	1	
+ParlaMint-HU_2022-05-02.seg413.1	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	2.530	1	7	7	1	
+ParlaMint-HU_2022-05-02.seg414.1	u2022-05-02-27	s	Hungarian	Neutral	neutral postive	3.248	1	4	6	1	
+u2022-05-02-28	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	53	900	1064	25	
+ParlaMint-HU_2022-05-02.seg415.1	u2022-05-02-28	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg415.2	u2022-05-02-28	s	Hungarian	Positive	mixed positive	3.841	1	11	13	0	
+ParlaMint-HU_2022-05-02.seg415.3	u2022-05-02-28	s	Hungarian	Positive	positive	5.047	1	14	16	0	
+ParlaMint-HU_2022-05-02.seg415.4	u2022-05-02-28	s	Hungarian	Positive	positive	4.774	1	32	36	1	
+ParlaMint-HU_2022-05-02.seg416.1	u2022-05-02-28	s	Hungarian	Positive	positive	4.802	1	12	14	0	
+ParlaMint-HU_2022-05-02.seg416.2	u2022-05-02-28	s	Hungarian	Positive	mixed positive	4.124	1	20	25	0	
+ParlaMint-HU_2022-05-02.seg417.1	u2022-05-02-28	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg417.2	u2022-05-02-28	s	Hungarian	Neutral	neutral postive	3.313	1	21	24	0	
+ParlaMint-HU_2022-05-02.seg417.3	u2022-05-02-28	s	Hungarian	Negative	mixed negative	0.709	1	19	21	1	
+ParlaMint-HU_2022-05-02.seg417.4	u2022-05-02-28	s	Hungarian	Neutral	neutral postive	3.302	1	4	5	0	
+ParlaMint-HU_2022-05-02.seg417.5	u2022-05-02-28	s	Hungarian	Positive	positive	5.106	1	20	23	1	
+ParlaMint-HU_2022-05-02.seg417.6	u2022-05-02-28	s	Hungarian	Neutral	neutral postive	2.976	1	13	15	0	
+ParlaMint-HU_2022-05-02.seg417.7	u2022-05-02-28	s	Hungarian	Negative	mixed negative	0.776	1	24	29	1	
+ParlaMint-HU_2022-05-02.seg417.8	u2022-05-02-28	s	Hungarian	Negative	mixed negative	1.216	1	20	23	0	
+ParlaMint-HU_2022-05-02.seg417.9	u2022-05-02-28	s	Hungarian	Positive	positive	4.874	1	37	44	0	
+ParlaMint-HU_2022-05-02.seg418.1	u2022-05-02-28	s	Hungarian	Positive	positive	4.570	1	42	53	0	
+ParlaMint-HU_2022-05-02.seg418.2	u2022-05-02-28	s	Hungarian	Neutral	neutral negative	1.856	1	16	19	0	
+ParlaMint-HU_2022-05-02.seg418.3	u2022-05-02-28	s	Hungarian	Positive	positive	5.360	1	28	33	1	
+ParlaMint-HU_2022-05-02.seg418.4	u2022-05-02-28	s	Hungarian	Positive	positive	4.702	1	36	41	0	
+ParlaMint-HU_2022-05-02.seg418.5	u2022-05-02-28	s	Hungarian	Negative	negative	0.295	1	13	17	0	
+ParlaMint-HU_2022-05-02.seg419.1	u2022-05-02-28	s	Hungarian	Negative	mixed negative	0.541	1	19	25	0	
+ParlaMint-HU_2022-05-02.seg419.2	u2022-05-02-28	s	Hungarian	Negative	negative	0.160	1	59	68	0	
+ParlaMint-HU_2022-05-02.seg419.3	u2022-05-02-28	s	Hungarian	Neutral	neutral postive	3.291	1	22	24	0	
+ParlaMint-HU_2022-05-02.seg420.1	u2022-05-02-28	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg420.2	u2022-05-02-28	s	Hungarian	Neutral	neutral postive	3.032	1	3	4	0	
+ParlaMint-HU_2022-05-02.seg420.3	u2022-05-02-28	s	Hungarian	Neutral	neutral postive	2.901	1	12	14	0	
+ParlaMint-HU_2022-05-02.seg420.4	u2022-05-02-28	s	Hungarian	Positive	mixed positive	3.823	1	49	59	0	
+ParlaMint-HU_2022-05-02.seg420.5	u2022-05-02-28	s	Hungarian	Neutral	neutral negative	2.367	1	18	19	1	
+ParlaMint-HU_2022-05-02.seg421.1	u2022-05-02-28	s	Hungarian	Neutral	neutral postive	3.141	1	28	33	0	
+ParlaMint-HU_2022-05-02.seg421.2	u2022-05-02-28	s	Hungarian	Neutral	neutral postive	3.066	1	8	10	0	
+ParlaMint-HU_2022-05-02.seg422.1	u2022-05-02-28	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg422.2	u2022-05-02-28	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg422.3	u2022-05-02-28	s	Hungarian	Positive	positive	4.578	1	27	31	1	
+ParlaMint-HU_2022-05-02.seg422.4	u2022-05-02-28	s	Hungarian	Positive	positive	4.716	1	3	4	0	
+ParlaMint-HU_2022-05-02.seg423.1	u2022-05-02-28	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg423.2	u2022-05-02-28	s	Hungarian	Positive	mixed positive	3.807	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg423.3	u2022-05-02-28	s	Hungarian	Neutral	neutral negative	1.975	1	22	25	0	
+ParlaMint-HU_2022-05-02.seg423.4	u2022-05-02-28	s	Hungarian	Neutral	neutral postive	2.635	1	32	40	3	
+ParlaMint-HU_2022-05-02.seg424.1	u2022-05-02-28	s	Hungarian	Negative	mixed negative	1.376	1	34	39	0	
+ParlaMint-HU_2022-05-02.seg424.2	u2022-05-02-28	s	Hungarian	Neutral	neutral postive	2.826	1	22	24	0	
+ParlaMint-HU_2022-05-02.seg424.3	u2022-05-02-28	s	Hungarian	Neutral	neutral negative	2.451	1	10	13	1	
+ParlaMint-HU_2022-05-02.seg425.1	u2022-05-02-28	s	Hungarian	Neutral	neutral negative	2.132	1	29	33	1	
+ParlaMint-HU_2022-05-02.seg425.2	u2022-05-02-28	s	Hungarian	Neutral	neutral postive	2.779	1	10	11	0	
+ParlaMint-HU_2022-05-02.seg426.1	u2022-05-02-28	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg426.2	u2022-05-02-28	s	Hungarian	Neutral	neutral postive	2.940	1	15	17	1	
+ParlaMint-HU_2022-05-02.seg427.1	u2022-05-02-28	s	Hungarian	Positive	mixed positive	3.679	1	14	16	2	
+ParlaMint-HU_2022-05-02.seg428.1	u2022-05-02-28	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg428.2	u2022-05-02-28	s	Hungarian	Neutral	neutral postive	2.663	1	23	26	2	
+ParlaMint-HU_2022-05-02.seg429.1	u2022-05-02-28	s	Hungarian	Neutral	neutral postive	2.658	1	23	26	2	
+ParlaMint-HU_2022-05-02.seg429.2	u2022-05-02-28	s	Hungarian	Neutral	neutral postive	3.026	1	6	7	0	
+ParlaMint-HU_2022-05-02.seg430.1	u2022-05-02-28	s	Hungarian	Neutral	neutral postive	2.755	1	2	5	0	
+ParlaMint-HU_2022-05-02.seg431.1	u2022-05-02-28	s	Hungarian	Positive	mixed positive	3.797	1	3	4	1	
+ParlaMint-HU_2022-05-02.seg432.1	u2022-05-02-28	s	Hungarian	Neutral	neutral negative	2.175	1	7	9	2	
+u2022-05-02-29	ParlaMint-HU_2022-05-02	u	Hungarian	-	-	-	262	2589	3141	336	
+ParlaMint-HU_2022-05-02.seg433.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg433.2	u2022-05-02-29	s	Hungarian	Positive	mixed positive	3.807	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg434.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg434.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.779	1	10	12	2	
+ParlaMint-HU_2022-05-02.seg434.3	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.706	1	9	10	1	
+ParlaMint-HU_2022-05-02.seg435.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.326	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg435.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg436.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	3.665	1	18	21	3	
+ParlaMint-HU_2022-05-02.seg437.1	u2022-05-02-29	s	Hungarian	Positive	positive	5.066	1	19	23	1	
+ParlaMint-HU_2022-05-02.seg437.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.234	1	8	9	1	
+ParlaMint-HU_2022-05-02.seg438.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg438.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.207	1	28	31	3	
+ParlaMint-HU_2022-05-02.seg439.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.172	1	23	26	3	
+ParlaMint-HU_2022-05-02.seg439.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.528	1	18	21	2	
+ParlaMint-HU_2022-05-02.seg440.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.767	1	14	16	2	
+ParlaMint-HU_2022-05-02.seg441.1	u2022-05-02-29	s	Hungarian	Neutral	neutral negative	2.212	1	41	47	2	
+ParlaMint-HU_2022-05-02.seg441.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.958	1	14	16	0	
+ParlaMint-HU_2022-05-02.seg442.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg442.2	u2022-05-02-29	s	Hungarian	Neutral	neutral negative	2.462	1	28	33	3	
+ParlaMint-HU_2022-05-02.seg442.3	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.862	1	7	8	0	
+ParlaMint-HU_2022-05-02.seg443.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.718	1	11	13	0	
+ParlaMint-HU_2022-05-02.seg443.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.586	1	36	38	0	
+ParlaMint-HU_2022-05-02.seg443.3	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.239	1	3	4	0	
+ParlaMint-HU_2022-05-02.seg443.4	u2022-05-02-29	s	Hungarian	Neutral	neutral negative	2.132	1	29	33	1	
+ParlaMint-HU_2022-05-02.seg444.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.624	1	28	36	0	
+ParlaMint-HU_2022-05-02.seg444.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg445.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	3.613	1	17	20	1	
+ParlaMint-HU_2022-05-02.seg446.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.626	1	17	18	0	
+ParlaMint-HU_2022-05-02.seg446.2	u2022-05-02-29	s	Hungarian	Neutral	neutral negative	2.400	1	8	9	0	
+ParlaMint-HU_2022-05-02.seg447.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.951	1	13	15	1	
+ParlaMint-HU_2022-05-02.seg447.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg448.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.152	1	12	13	2	
+ParlaMint-HU_2022-05-02.seg449.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.014	1	13	15	2	
+ParlaMint-HU_2022-05-02.seg449.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg450.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	3.933	1	19	23	2	
+ParlaMint-HU_2022-05-02.seg451.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.961	1	13	15	2	
+ParlaMint-HU_2022-05-02.seg451.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg452.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	3.980	1	14	17	2	
+ParlaMint-HU_2022-05-02.seg453.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.238	1	14	16	3	
+ParlaMint-HU_2022-05-02.seg453.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg454.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.122	1	13	15	2	
+ParlaMint-HU_2022-05-02.seg455.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.189	1	13	15	3	
+ParlaMint-HU_2022-05-02.seg455.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg456.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.023	1	14	17	2	
+ParlaMint-HU_2022-05-02.seg457.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.890	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg457.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg458.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	3.875	1	14	17	2	
+ParlaMint-HU_2022-05-02.seg459.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.219	1	13	15	2	
+ParlaMint-HU_2022-05-02.seg459.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg460.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	3.989	1	14	17	2	
+ParlaMint-HU_2022-05-02.seg461.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.055	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg461.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg462.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.191	1	13	15	3	
+ParlaMint-HU_2022-05-02.seg463.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.968	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg463.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg464.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.079	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg465.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.898	1	12	14	1	
+ParlaMint-HU_2022-05-02.seg465.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg466.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.156	1	14	16	3	
+ParlaMint-HU_2022-05-02.seg467.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.074	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg467.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg468.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.135	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg469.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.982	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg469.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg470.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.169	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg471.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.925	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg471.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg472.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	3.994	1	14	17	2	
+ParlaMint-HU_2022-05-02.seg473.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.026	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg473.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg474.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.118	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg475.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.072	1	11	13	3	
+ParlaMint-HU_2022-05-02.seg475.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg476.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.018	1	14	17	2	
+ParlaMint-HU_2022-05-02.seg477.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.020	1	14	16	2	
+ParlaMint-HU_2022-05-02.seg477.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg478.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.198	1	15	17	3	
+ParlaMint-HU_2022-05-02.seg479.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.962	1	11	13	2	
+ParlaMint-HU_2022-05-02.seg479.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg480.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.045	1	14	17	2	
+ParlaMint-HU_2022-05-02.seg481.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.969	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg481.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg482.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.227	1	12	13	2	
+ParlaMint-HU_2022-05-02.seg483.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.043	1	15	17	3	
+ParlaMint-HU_2022-05-02.seg483.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg484.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.099	1	13	15	2	
+ParlaMint-HU_2022-05-02.seg485.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.983	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg485.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg486.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.070	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg487.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.009	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg487.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg488.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.035	1	15	18	3	
+ParlaMint-HU_2022-05-02.seg489.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.919	1	12	14	1	
+ParlaMint-HU_2022-05-02.seg489.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg490.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	3.953	1	16	19	3	
+ParlaMint-HU_2022-05-02.seg491.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.000	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg491.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg492.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.089	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg493.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.132	1	11	13	2	
+ParlaMint-HU_2022-05-02.seg493.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg494.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.100	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg495.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.914	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg495.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg496.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	3.969	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg497.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.896	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg497.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg498.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	3.936	1	12	14	3	
+ParlaMint-HU_2022-05-02.seg499.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.899	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg499.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg500.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	3.950	1	13	15	3	
+ParlaMint-HU_2022-05-02.seg501.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.912	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg501.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg502.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.026	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg503.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.949	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg503.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg504.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.217	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg505.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.809	1	12	14	1	
+ParlaMint-HU_2022-05-02.seg505.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg506.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.080	1	13	15	2	
+ParlaMint-HU_2022-05-02.seg507.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.903	1	12	14	1	
+ParlaMint-HU_2022-05-02.seg507.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg508.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.055	1	13	15	2	
+ParlaMint-HU_2022-05-02.seg509.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.109	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg509.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg510.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.234	1	13	15	2	
+ParlaMint-HU_2022-05-02.seg511.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.890	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg511.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg512.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.315	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg513.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.977	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg513.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg514.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.087	1	12	14	1	
+ParlaMint-HU_2022-05-02.seg515.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.929	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg515.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg516.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.431	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg517.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.055	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg517.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg518.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.268	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg519.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.068	1	13	15	3	
+ParlaMint-HU_2022-05-02.seg519.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg520.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	3.993	1	16	19	3	
+ParlaMint-HU_2022-05-02.seg521.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.020	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg521.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg522.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.184	1	15	18	3	
+ParlaMint-HU_2022-05-02.seg523.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.995	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg523.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg524.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.049	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg525.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.005	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg525.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg526.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.296	1	13	15	3	
+ParlaMint-HU_2022-05-02.seg527.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.940	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg527.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg528.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.224	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg529.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.004	1	13	15	2	
+ParlaMint-HU_2022-05-02.seg529.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg530.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.344	1	14	16	2	
+ParlaMint-HU_2022-05-02.seg531.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.069	1	10	12	2	
+ParlaMint-HU_2022-05-02.seg531.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg532.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.338	1	13	15	3	
+ParlaMint-HU_2022-05-02.seg533.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.978	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg533.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg534.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.184	1	13	15	3	
+ParlaMint-HU_2022-05-02.seg535.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.971	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg535.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg536.1	u2022-05-02-29	s	Hungarian	Positive	positive	4.547	1	13	15	3	
+ParlaMint-HU_2022-05-02.seg537.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.058	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg537.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg538.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.288	1	13	15	3	
+ParlaMint-HU_2022-05-02.seg539.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.026	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg539.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg540.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.248	1	13	15	3	
+ParlaMint-HU_2022-05-02.seg541.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.987	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg541.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg542.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.227	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg543.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.973	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg543.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg544.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.157	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg545.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.004	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg545.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg546.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.189	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg547.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.968	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg547.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg548.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.200	1	13	15	3	
+ParlaMint-HU_2022-05-02.seg549.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.958	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg549.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg550.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.257	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg551.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.116	1	13	15	1	
+ParlaMint-HU_2022-05-02.seg551.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg552.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.258	1	14	16	2	
+ParlaMint-HU_2022-05-02.seg553.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.084	1	13	15	1	
+ParlaMint-HU_2022-05-02.seg553.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg554.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.114	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg555.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.934	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg555.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg556.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.036	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg557.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.015	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg557.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg558.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.299	1	14	16	3	
+ParlaMint-HU_2022-05-02.seg559.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.956	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg559.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg560.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.157	1	13	15	3	
+ParlaMint-HU_2022-05-02.seg561.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.987	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg561.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg562.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.229	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg563.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.035	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg563.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg564.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.278	1	13	15	3	
+ParlaMint-HU_2022-05-02.seg565.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.986	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg565.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg566.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.220	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg567.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.962	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg567.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg568.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.242	1	17	20	2	
+ParlaMint-HU_2022-05-02.seg569.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.064	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg569.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg570.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.354	1	18	21	3	
+ParlaMint-HU_2022-05-02.seg571.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.921	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg571.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg572.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	3.953	1	15	18	3	
+ParlaMint-HU_2022-05-02.seg573.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.967	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg573.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg574.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.306	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg575.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.913	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg575.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg576.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.077	1	15	17	3	
+ParlaMint-HU_2022-05-02.seg577.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.586	1	7	8	1	
+ParlaMint-HU_2022-05-02.seg577.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.195	1	19	22	2	
+ParlaMint-HU_2022-05-02.seg577.3	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.985	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg577.4	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg578.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.134	1	15	17	3	
+ParlaMint-HU_2022-05-02.seg579.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.923	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg579.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg580.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.084	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg581.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.900	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg581.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg582.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.147	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg583.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.961	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg583.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg584.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.298	1	12	13	2	
+ParlaMint-HU_2022-05-02.seg585.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.972	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg585.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg586.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.422	1	12	13	2	
+ParlaMint-HU_2022-05-02.seg587.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.910	1	12	14	2	
+ParlaMint-HU_2022-05-02.seg587.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg588.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	3.926	1	14	17	2	
+ParlaMint-HU_2022-05-02.seg589.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.898	1	11	13	1	
+ParlaMint-HU_2022-05-02.seg589.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg590.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	3.931	1	15	18	3	
+ParlaMint-HU_2022-05-02.seg591.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.814	1	4	4	1	
+ParlaMint-HU_2022-05-02.seg592.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.649	1	10	12	1	
+ParlaMint-HU_2022-05-02.seg592.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2022-05-02.seg593.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.013	1	16	19	3	
+ParlaMint-HU_2022-05-02.seg594.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2022-05-02.seg594.2	u2022-05-02-29	s	Hungarian	Positive	positive	4.949	1	14	15	0	
+ParlaMint-HU_2022-05-02.seg595.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2022-05-02.seg595.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.563	1	72	83	6	
+ParlaMint-HU_2022-05-02.seg595.3	u2022-05-02-29	s	Hungarian	Positive	mixed positive	3.503	1	13	14	0	
+ParlaMint-HU_2022-05-02.seg595.4	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.666	1	9	10	1	
+ParlaMint-HU_2022-05-02.seg595.5	u2022-05-02-29	s	Hungarian	Neutral	neutral negative	2.416	1	28	31	1	
+ParlaMint-HU_2022-05-02.seg596.1	u2022-05-02-29	s	Hungarian	Positive	mixed positive	4.385	1	4	6	0	
+ParlaMint-HU_2022-05-02.seg596.2	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.822	1	14	16	2	
+ParlaMint-HU_2022-05-02.seg597.1	u2022-05-02-29	s	Hungarian	Neutral	neutral postive	2.861	1	5	6	0	
+ParlaMint-HU_2022-05-02.seg597.2	u2022-05-02-29	s	Hungarian	Positive	mixed positive	3.561	1	8	10	1	

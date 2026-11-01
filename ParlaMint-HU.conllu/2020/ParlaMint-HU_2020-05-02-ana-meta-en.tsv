@@ -1,0 +1,323 @@
+ID	Parent_ID	Element	Language	Senti_3	Senti_6	Senti_n	Sents	Words	Tokens	Names	
+u2020-05-02-0	ParlaMint-HU_2020-05-02	u	Hungarian	-	-	-	35	692	810	32	
+ParlaMint-HU_2020-05-02.seg1.1	u2020-05-02-0	s	Hungarian	Positive	mixed positive	4.416	1	2	3	1	
+ParlaMint-HU_2020-05-02.seg1.2	u2020-05-02-0	s	Hungarian	Neutral	neutral postive	3.225	1	7	8	1	
+ParlaMint-HU_2020-05-02.seg1.3	u2020-05-02-0	s	Hungarian	Neutral	neutral postive	3.135	1	15	17	2	
+ParlaMint-HU_2020-05-02.seg1.4	u2020-05-02-0	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2020-05-02.seg1.5	u2020-05-02-0	s	Hungarian	Positive	positive	4.591	1	10	12	1	
+ParlaMint-HU_2020-05-02.seg2.1	u2020-05-02-0	s	Hungarian	Positive	positive	4.547	1	1	2	0	
+ParlaMint-HU_2020-05-02.seg3.1	u2020-05-02-0	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2020-05-02.seg3.2	u2020-05-02-0	s	Hungarian	Positive	mixed positive	3.593	1	30	34	0	
+ParlaMint-HU_2020-05-02.seg4.1	u2020-05-02-0	s	Hungarian	Positive	positive	4.599	1	28	33	3	
+ParlaMint-HU_2020-05-02.seg4.2	u2020-05-02-0	s	Hungarian	Positive	positive	4.692	1	11	13	0	
+ParlaMint-HU_2020-05-02.seg5.1	u2020-05-02-0	s	Hungarian	Neutral	neutral negative	2.470	1	33	37	1	
+ParlaMint-HU_2020-05-02.seg5.2	u2020-05-02-0	s	Hungarian	Negative	mixed negative	0.936	1	22	23	0	
+ParlaMint-HU_2020-05-02.seg5.3	u2020-05-02-0	s	Hungarian	Positive	mixed positive	4.214	1	35	40	1	
+ParlaMint-HU_2020-05-02.seg5.4	u2020-05-02-0	s	Hungarian	Positive	positive	5.140	1	23	27	0	
+ParlaMint-HU_2020-05-02.seg6.1	u2020-05-02-0	s	Hungarian	Positive	mixed positive	3.731	1	22	26	0	
+ParlaMint-HU_2020-05-02.seg6.2	u2020-05-02-0	s	Hungarian	Positive	positive	5.381	1	5	5	1	
+ParlaMint-HU_2020-05-02.seg7.1	u2020-05-02-0	s	Hungarian	Positive	mixed positive	3.578	1	29	37	8	
+ParlaMint-HU_2020-05-02.seg7.2	u2020-05-02-0	s	Hungarian	Neutral	neutral postive	3.195	1	1	4	1	
+ParlaMint-HU_2020-05-02.seg8.1	u2020-05-02-0	s	Hungarian	Positive	mixed positive	4.407	1	4	5	0	
+ParlaMint-HU_2020-05-02.seg8.2	u2020-05-02-0	s	Hungarian	Negative	negative	0.477	1	25	28	0	
+ParlaMint-HU_2020-05-02.seg8.3	u2020-05-02-0	s	Hungarian	Positive	mixed positive	4.186	1	9	11	0	
+ParlaMint-HU_2020-05-02.seg9.1	u2020-05-02-0	s	Hungarian	Positive	positive	4.547	1	1	2	0	
+ParlaMint-HU_2020-05-02.seg10.1	u2020-05-02-0	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2020-05-02.seg10.2	u2020-05-02-0	s	Hungarian	Positive	mixed positive	4.092	1	37	46	0	
+ParlaMint-HU_2020-05-02.seg10.3	u2020-05-02-0	s	Hungarian	Positive	mixed positive	3.617	1	25	29	0	
+ParlaMint-HU_2020-05-02.seg10.4	u2020-05-02-0	s	Hungarian	Negative	negative	0.201	1	20	22	0	
+ParlaMint-HU_2020-05-02.seg11.1	u2020-05-02-0	s	Hungarian	Positive	mixed positive	3.962	1	2	3	0	
+ParlaMint-HU_2020-05-02.seg11.2	u2020-05-02-0	s	Hungarian	Positive	positive	4.840	1	41	49	0	
+ParlaMint-HU_2020-05-02.seg11.3	u2020-05-02-0	s	Hungarian	Neutral	neutral postive	2.910	1	50	60	1	
+ParlaMint-HU_2020-05-02.seg12.1	u2020-05-02-0	s	Hungarian	Positive	mixed positive	3.754	1	75	84	7	
+ParlaMint-HU_2020-05-02.seg13.1	u2020-05-02-0	s	Hungarian	Neutral	neutral negative	1.608	1	8	9	0	
+ParlaMint-HU_2020-05-02.seg13.2	u2020-05-02-0	s	Hungarian	Negative	negative	0.385	1	20	22	0	
+ParlaMint-HU_2020-05-02.seg13.3	u2020-05-02-0	s	Hungarian	Neutral	neutral postive	2.577	1	69	80	0	
+ParlaMint-HU_2020-05-02.seg13.4	u2020-05-02-0	s	Hungarian	Positive	mixed positive	4.119	1	8	9	0	
+ParlaMint-HU_2020-05-02.seg14.1	u2020-05-02-0	s	Hungarian	Positive	mixed positive	3.537	1	18	21	3	
+u2020-05-02-1	ParlaMint-HU_2020-05-02	u	Hungarian	-	-	-	84	1379	1631	66	
+ParlaMint-HU_2020-05-02.seg15.1	u2020-05-02-1	s	Hungarian	Positive	mixed positive	4.191	1	3	4	1	
+ParlaMint-HU_2020-05-02.seg15.2	u2020-05-02-1	s	Hungarian	Positive	mixed positive	3.897	1	3	4	0	
+ParlaMint-HU_2020-05-02.seg15.3	u2020-05-02-1	s	Hungarian	Positive	mixed positive	4.251	1	5	6	0	
+ParlaMint-HU_2020-05-02.seg15.4	u2020-05-02-1	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2020-05-02.seg15.5	u2020-05-02-1	s	Hungarian	Negative	mixed negative	1.257	1	29	34	1	
+ParlaMint-HU_2020-05-02.seg15.6	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	2.685	1	18	19	2	
+ParlaMint-HU_2020-05-02.seg15.7	u2020-05-02-1	s	Hungarian	Negative	negative	0.418	1	15	18	1	
+ParlaMint-HU_2020-05-02.seg15.8	u2020-05-02-1	s	Hungarian	Negative	mixed negative	0.966	1	20	23	0	
+ParlaMint-HU_2020-05-02.seg15.9	u2020-05-02-1	s	Hungarian	Neutral	neutral negative	1.548	1	15	17	0	
+ParlaMint-HU_2020-05-02.seg15.10	u2020-05-02-1	s	Hungarian	Positive	positive	4.987	1	34	39	1	
+ParlaMint-HU_2020-05-02.seg16.1	u2020-05-02-1	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2020-05-02.seg16.2	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	3.311	1	11	13	0	
+ParlaMint-HU_2020-05-02.seg16.3	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	2.736	1	28	33	7	
+ParlaMint-HU_2020-05-02.seg16.4	u2020-05-02-1	s	Hungarian	Positive	mixed positive	4.044	1	24	29	0	
+ParlaMint-HU_2020-05-02.seg17.1	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	2.577	1	17	19	1	
+ParlaMint-HU_2020-05-02.seg17.2	u2020-05-02-1	s	Hungarian	Neutral	neutral negative	1.710	1	23	25	0	
+ParlaMint-HU_2020-05-02.seg18.1	u2020-05-02-1	s	Hungarian	Negative	negative	0.231	1	20	25	0	
+ParlaMint-HU_2020-05-02.seg18.2	u2020-05-02-1	s	Hungarian	Negative	negative	0.417	1	6	7	0	
+ParlaMint-HU_2020-05-02.seg19.1	u2020-05-02-1	s	Hungarian	Negative	mixed negative	1.144	1	22	25	2	
+ParlaMint-HU_2020-05-02.seg19.2	u2020-05-02-1	s	Hungarian	Negative	mixed negative	0.517	1	15	18	2	
+ParlaMint-HU_2020-05-02.seg19.3	u2020-05-02-1	s	Hungarian	Negative	mixed negative	0.663	1	19	22	0	
+ParlaMint-HU_2020-05-02.seg19.4	u2020-05-02-1	s	Hungarian	Negative	negative	0.204	1	42	54	1	
+ParlaMint-HU_2020-05-02.seg19.5	u2020-05-02-1	s	Hungarian	Negative	negative	0.432	1	9	10	0	
+ParlaMint-HU_2020-05-02.seg20.1	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	2.875	1	29	31	1	
+ParlaMint-HU_2020-05-02.seg20.2	u2020-05-02-1	s	Hungarian	Negative	negative	0.234	1	19	21	2	
+ParlaMint-HU_2020-05-02.seg20.3	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	2.714	1	27	29	2	
+ParlaMint-HU_2020-05-02.seg21.1	u2020-05-02-1	s	Hungarian	Positive	mixed positive	4.407	1	4	5	0	
+ParlaMint-HU_2020-05-02.seg21.2	u2020-05-02-1	s	Hungarian	Positive	mixed positive	4.152	1	4	5	0	
+ParlaMint-HU_2020-05-02.seg21.3	u2020-05-02-1	s	Hungarian	Positive	mixed positive	4.377	1	29	35	1	
+ParlaMint-HU_2020-05-02.seg21.4	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	3.493	1	8	10	0	
+ParlaMint-HU_2020-05-02.seg22.1	u2020-05-02-1	s	Hungarian	Positive	positive	4.747	1	19	22	1	
+ParlaMint-HU_2020-05-02.seg22.2	u2020-05-02-1	s	Hungarian	Positive	positive	4.939	1	13	18	0	
+ParlaMint-HU_2020-05-02.seg22.3	u2020-05-02-1	s	Hungarian	Positive	positive	4.516	1	16	19	0	
+ParlaMint-HU_2020-05-02.seg23.1	u2020-05-02-1	s	Hungarian	Positive	mixed positive	4.234	1	11	13	2	
+ParlaMint-HU_2020-05-02.seg23.2	u2020-05-02-1	s	Hungarian	Positive	mixed positive	4.444	1	10	12	2	
+ParlaMint-HU_2020-05-02.seg23.3	u2020-05-02-1	s	Hungarian	Positive	mixed positive	4.230	1	11	13	2	
+ParlaMint-HU_2020-05-02.seg24.1	u2020-05-02-1	s	Hungarian	Positive	mixed positive	3.759	1	29	34	3	
+ParlaMint-HU_2020-05-02.seg24.2	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	3.118	1	55	67	2	
+ParlaMint-HU_2020-05-02.seg25.1	u2020-05-02-1	s	Hungarian	Neutral	neutral negative	1.639	1	12	13	1	
+ParlaMint-HU_2020-05-02.seg25.2	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	3.193	1	20	22	2	
+ParlaMint-HU_2020-05-02.seg26.1	u2020-05-02-1	s	Hungarian	Positive	positive	4.621	1	27	30	0	
+ParlaMint-HU_2020-05-02.seg27.1	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	2.918	1	16	18	0	
+ParlaMint-HU_2020-05-02.seg27.2	u2020-05-02-1	s	Hungarian	Positive	mixed positive	4.476	1	18	21	1	
+ParlaMint-HU_2020-05-02.seg27.3	u2020-05-02-1	s	Hungarian	Positive	positive	4.692	1	46	56	4	
+ParlaMint-HU_2020-05-02.seg28.1	u2020-05-02-1	s	Hungarian	Positive	mixed positive	4.416	1	2	3	1	
+ParlaMint-HU_2020-05-02.seg28.2	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	3.045	1	8	10	1	
+ParlaMint-HU_2020-05-02.seg28.3	u2020-05-02-1	s	Hungarian	Positive	mixed positive	3.794	1	20	22	2	
+ParlaMint-HU_2020-05-02.seg28.4	u2020-05-02-1	s	Hungarian	Positive	mixed positive	4.050	1	12	13	1	
+ParlaMint-HU_2020-05-02.seg29.1	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	2.618	1	29	33	1	
+ParlaMint-HU_2020-05-02.seg29.2	u2020-05-02-1	s	Hungarian	Positive	mixed positive	3.957	1	19	21	1	
+ParlaMint-HU_2020-05-02.seg30.1	u2020-05-02-1	s	Hungarian	Positive	positive	4.953	1	10	12	0	
+ParlaMint-HU_2020-05-02.seg30.2	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	3.236	1	23	25	2	
+ParlaMint-HU_2020-05-02.seg30.3	u2020-05-02-1	s	Hungarian	Positive	mixed positive	3.650	1	17	18	3	
+ParlaMint-HU_2020-05-02.seg30.4	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	2.755	1	15	17	0	
+ParlaMint-HU_2020-05-02.seg31.1	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	2.922	1	13	14	0	
+ParlaMint-HU_2020-05-02.seg31.2	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	3.329	1	17	22	1	
+ParlaMint-HU_2020-05-02.seg31.3	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	2.558	1	19	25	0	
+ParlaMint-HU_2020-05-02.seg32.1	u2020-05-02-1	s	Hungarian	Neutral	neutral negative	2.174	1	9	12	0	
+ParlaMint-HU_2020-05-02.seg32.2	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	2.808	1	11	13	0	
+ParlaMint-HU_2020-05-02.seg32.3	u2020-05-02-1	s	Hungarian	Neutral	neutral negative	1.616	1	16	19	0	
+ParlaMint-HU_2020-05-02.seg33.1	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	3.358	1	73	85	3	
+ParlaMint-HU_2020-05-02.seg33.2	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	2.915	1	1	1	0	
+ParlaMint-HU_2020-05-02.seg34.1	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	2.582	1	3	4	0	
+ParlaMint-HU_2020-05-02.seg34.2	u2020-05-02-1	s	Hungarian	Neutral	neutral negative	2.467	1	32	37	1	
+ParlaMint-HU_2020-05-02.seg35.1	u2020-05-02-1	s	Hungarian	Neutral	neutral negative	2.405	1	7	8	0	
+ParlaMint-HU_2020-05-02.seg36.1	u2020-05-02-1	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2020-05-02.seg36.2	u2020-05-02-1	s	Hungarian	Neutral	neutral negative	1.675	1	24	30	0	
+ParlaMint-HU_2020-05-02.seg36.3	u2020-05-02-1	s	Hungarian	Positive	positive	4.783	1	4	6	0	
+ParlaMint-HU_2020-05-02.seg37.1	u2020-05-02-1	s	Hungarian	Positive	positive	4.614	1	6	9	1	
+ParlaMint-HU_2020-05-02.seg37.2	u2020-05-02-1	s	Hungarian	Positive	positive	4.797	1	15	20	0	
+ParlaMint-HU_2020-05-02.seg37.3	u2020-05-02-1	s	Hungarian	Positive	mixed positive	4.333	1	2	3	0	
+ParlaMint-HU_2020-05-02.seg37.4	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	3.242	1	4	6	0	
+ParlaMint-HU_2020-05-02.seg37.5	u2020-05-02-1	s	Hungarian	Neutral	neutral postive	3.383	1	7	10	0	
+ParlaMint-HU_2020-05-02.seg37.6	u2020-05-02-1	s	Hungarian	Positive	mixed positive	3.858	1	7	8	0	
+ParlaMint-HU_2020-05-02.seg37.7	u2020-05-02-1	s	Hungarian	Negative	mixed negative	1.026	1	17	21	1	
+ParlaMint-HU_2020-05-02.seg38.1	u2020-05-02-1	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2020-05-02.seg38.2	u2020-05-02-1	s	Hungarian	Negative	mixed negative	0.613	1	15	17	0	
+ParlaMint-HU_2020-05-02.seg38.3	u2020-05-02-1	s	Hungarian	Negative	negative	0.178	1	17	20	0	
+ParlaMint-HU_2020-05-02.seg38.4	u2020-05-02-1	s	Hungarian	Negative	negative	0.454	1	14	17	0	
+ParlaMint-HU_2020-05-02.seg38.5	u2020-05-02-1	s	Hungarian	Positive	positive	5.356	1	19	26	0	
+ParlaMint-HU_2020-05-02.seg39.1	u2020-05-02-1	s	Hungarian	Positive	positive	4.603	1	15	17	0	
+ParlaMint-HU_2020-05-02.seg39.2	u2020-05-02-1	s	Hungarian	Positive	mixed positive	4.246	1	10	12	0	
+ParlaMint-HU_2020-05-02.seg39.3	u2020-05-02-1	s	Hungarian	Positive	mixed positive	3.926	1	10	13	0	
+ParlaMint-HU_2020-05-02.seg39.4	u2020-05-02-1	s	Hungarian	Positive	positive	5.178	1	28	32	0	
+u2020-05-02-2	ParlaMint-HU_2020-05-02	u	Hungarian	-	-	-	5	42	49	6	
+ParlaMint-HU_2020-05-02.seg40.1	u2020-05-02-2	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2020-05-02.seg40.2	u2020-05-02-2	s	Hungarian	Positive	positive	4.800	1	7	8	1	
+ParlaMint-HU_2020-05-02.seg40.3	u2020-05-02-2	s	Hungarian	Positive	mixed positive	4.416	1	2	3	1	
+ParlaMint-HU_2020-05-02.seg40.4	u2020-05-02-2	s	Hungarian	Neutral	neutral postive	2.767	1	20	22	2	
+ParlaMint-HU_2020-05-02.seg40.5	u2020-05-02-2	s	Hungarian	Neutral	neutral postive	3.350	1	11	13	1	
+u2020-05-02-3	ParlaMint-HU_2020-05-02	u	Hungarian	-	-	-	18	476	536	12	
+ParlaMint-HU_2020-05-02.seg41.1	u2020-05-02-3	s	Hungarian	Neutral	neutral postive	3.264	1	1	1	0	
+ParlaMint-HU_2020-05-02.seg41.2	u2020-05-02-3	s	Hungarian	Neutral	neutral postive	3.354	1	11	12	2	
+ParlaMint-HU_2020-05-02.seg41.3	u2020-05-02-3	s	Hungarian	Positive	mixed positive	4.285	1	33	35	2	
+ParlaMint-HU_2020-05-02.seg42.1	u2020-05-02-3	s	Hungarian	Neutral	neutral postive	3.469	1	16	17	0	
+ParlaMint-HU_2020-05-02.seg43.1	u2020-05-02-3	s	Hungarian	Positive	positive	5.111	1	38	43	1	
+ParlaMint-HU_2020-05-02.seg43.2	u2020-05-02-3	s	Hungarian	Positive	mixed positive	4.452	1	64	75	0	
+ParlaMint-HU_2020-05-02.seg44.1	u2020-05-02-3	s	Hungarian	Positive	positive	4.628	1	31	36	1	
+ParlaMint-HU_2020-05-02.seg45.1	u2020-05-02-3	s	Hungarian	Neutral	neutral negative	1.737	1	29	33	0	
+ParlaMint-HU_2020-05-02.seg45.2	u2020-05-02-3	s	Hungarian	Positive	positive	5.494	1	45	50	0	
+ParlaMint-HU_2020-05-02.seg46.1	u2020-05-02-3	s	Hungarian	Negative	negative	0.002	1	37	40	0	
+ParlaMint-HU_2020-05-02.seg46.2	u2020-05-02-3	s	Hungarian	Neutral	neutral postive	2.979	1	25	27	1	
+ParlaMint-HU_2020-05-02.seg47.1	u2020-05-02-3	s	Hungarian	Positive	positive	5.194	1	40	44	0	
+ParlaMint-HU_2020-05-02.seg48.1	u2020-05-02-3	s	Hungarian	Positive	mixed positive	3.639	1	15	17	0	
+ParlaMint-HU_2020-05-02.seg49.1	u2020-05-02-3	s	Hungarian	Positive	mixed positive	4.377	1	11	13	0	
+ParlaMint-HU_2020-05-02.seg50.1	u2020-05-02-3	s	Hungarian	Positive	positive	4.752	1	20	24	0	
+ParlaMint-HU_2020-05-02.seg51.1	u2020-05-02-3	s	Hungarian	Neutral	neutral postive	3.312	1	32	37	3	
+ParlaMint-HU_2020-05-02.seg52.1	u2020-05-02-3	s	Hungarian	Positive	positive	5.141	1	27	31	2	
+ParlaMint-HU_2020-05-02.seg52.2	u2020-05-02-3	s	Hungarian	Neutral	neutral postive	2.915	1	1	1	0	
+u2020-05-02-4	ParlaMint-HU_2020-05-02	u	Hungarian	-	-	-	15	119	146	7	
+ParlaMint-HU_2020-05-02.seg53.1	u2020-05-02-4	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2020-05-02.seg53.2	u2020-05-02-4	s	Hungarian	Neutral	neutral postive	2.858	1	8	9	0	
+ParlaMint-HU_2020-05-02.seg53.3	u2020-05-02-4	s	Hungarian	Neutral	neutral negative	2.103	1	15	18	0	
+ParlaMint-HU_2020-05-02.seg53.4	u2020-05-02-4	s	Hungarian	Neutral	neutral postive	2.814	1	17	19	0	
+ParlaMint-HU_2020-05-02.seg54.1	u2020-05-02-4	s	Hungarian	Neutral	neutral postive	2.946	1	13	15	1	
+ParlaMint-HU_2020-05-02.seg54.2	u2020-05-02-4	s	Hungarian	Neutral	neutral postive	3.482	1	2	4	0	
+ParlaMint-HU_2020-05-02.seg55.1	u2020-05-02-4	s	Hungarian	Positive	mixed positive	4.079	1	17	21	1	
+ParlaMint-HU_2020-05-02.seg56.1	u2020-05-02-4	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2020-05-02.seg56.2	u2020-05-02-4	s	Hungarian	Positive	mixed positive	4.201	1	10	12	1	
+ParlaMint-HU_2020-05-02.seg57.1	u2020-05-02-4	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2020-05-02.seg57.2	u2020-05-02-4	s	Hungarian	Neutral	neutral postive	3.430	1	6	7	0	
+ParlaMint-HU_2020-05-02.seg57.3	u2020-05-02-4	s	Hungarian	Neutral	neutral postive	3.011	1	12	14	0	
+ParlaMint-HU_2020-05-02.seg58.1	u2020-05-02-4	s	Hungarian	Neutral	neutral postive	3.080	1	3	5	0	
+ParlaMint-HU_2020-05-02.seg59.1	u2020-05-02-4	s	Hungarian	Positive	mixed positive	3.640	1	3	4	1	
+ParlaMint-HU_2020-05-02.seg60.1	u2020-05-02-4	s	Hungarian	Neutral	neutral postive	2.901	1	7	9	2	
+u2020-05-02-5	ParlaMint-HU_2020-05-02	u	Hungarian	-	-	-	8	68	85	8	
+ParlaMint-HU_2020-05-02.seg61.1	u2020-05-02-5	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2020-05-02.seg61.2	u2020-05-02-5	s	Hungarian	Neutral	neutral postive	3.324	1	10	12	0	
+ParlaMint-HU_2020-05-02.seg61.3	u2020-05-02-5	s	Hungarian	Positive	positive	4.848	1	7	9	0	
+ParlaMint-HU_2020-05-02.seg62.1	u2020-05-02-5	s	Hungarian	Negative	mixed negative	1.345	1	18	23	0	
+ParlaMint-HU_2020-05-02.seg63.1	u2020-05-02-5	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2020-05-02.seg63.2	u2020-05-02-5	s	Hungarian	Neutral	neutral postive	2.675	1	4	5	1	
+ParlaMint-HU_2020-05-02.seg63.3	u2020-05-02-5	s	Hungarian	Neutral	neutral postive	3.125	1	17	20	4	
+ParlaMint-HU_2020-05-02.seg63.4	u2020-05-02-5	s	Hungarian	Neutral	neutral postive	3.371	1	8	10	1	
+u2020-05-02-6	ParlaMint-HU_2020-05-02	u	Hungarian	-	-	-	24	658	765	34	
+ParlaMint-HU_2020-05-02.seg64.1	u2020-05-02-6	s	Hungarian	Positive	positive	4.710	1	4	6	0	
+ParlaMint-HU_2020-05-02.seg64.2	u2020-05-02-6	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2020-05-02.seg64.3	u2020-05-02-6	s	Hungarian	Positive	mixed positive	3.558	1	68	80	0	
+ParlaMint-HU_2020-05-02.seg64.4	u2020-05-02-6	s	Hungarian	Positive	mixed positive	4.473	1	71	83	0	
+ParlaMint-HU_2020-05-02.seg65.1	u2020-05-02-6	s	Hungarian	Positive	mixed positive	3.559	1	32	37	0	
+ParlaMint-HU_2020-05-02.seg66.1	u2020-05-02-6	s	Hungarian	Neutral	neutral postive	2.678	1	20	22	1	
+ParlaMint-HU_2020-05-02.seg66.2	u2020-05-02-6	s	Hungarian	Neutral	neutral postive	2.951	1	13	16	0	
+ParlaMint-HU_2020-05-02.seg67.1	u2020-05-02-6	s	Hungarian	Neutral	neutral postive	2.914	1	43	50	5	
+ParlaMint-HU_2020-05-02.seg67.2	u2020-05-02-6	s	Hungarian	Neutral	neutral negative	2.190	1	34	40	1	
+ParlaMint-HU_2020-05-02.seg68.1	u2020-05-02-6	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2020-05-02.seg68.2	u2020-05-02-6	s	Hungarian	Neutral	neutral negative	2.467	1	27	30	3	
+ParlaMint-HU_2020-05-02.seg68.3	u2020-05-02-6	s	Hungarian	Neutral	neutral postive	3.276	1	11	12	3	
+ParlaMint-HU_2020-05-02.seg69.1	u2020-05-02-6	s	Hungarian	Neutral	neutral postive	3.098	1	45	56	10	
+ParlaMint-HU_2020-05-02.seg69.2	u2020-05-02-6	s	Hungarian	Positive	mixed positive	3.879	1	21	24	2	
+ParlaMint-HU_2020-05-02.seg70.1	u2020-05-02-6	s	Hungarian	Positive	mixed positive	4.354	1	38	42	0	
+ParlaMint-HU_2020-05-02.seg70.2	u2020-05-02-6	s	Hungarian	Positive	positive	4.737	1	28	32	0	
+ParlaMint-HU_2020-05-02.seg71.1	u2020-05-02-6	s	Hungarian	Positive	positive	4.638	1	30	34	3	
+ParlaMint-HU_2020-05-02.seg71.2	u2020-05-02-6	s	Hungarian	Positive	mixed positive	3.813	1	42	47	4	
+ParlaMint-HU_2020-05-02.seg72.1	u2020-05-02-6	s	Hungarian	Neutral	neutral negative	1.726	1	47	54	1	
+ParlaMint-HU_2020-05-02.seg72.2	u2020-05-02-6	s	Hungarian	Neutral	neutral negative	2.152	1	26	31	0	
+ParlaMint-HU_2020-05-02.seg73.1	u2020-05-02-6	s	Hungarian	Neutral	neutral postive	2.836	1	6	6	0	
+ParlaMint-HU_2020-05-02.seg74.1	u2020-05-02-6	s	Hungarian	Positive	positive	4.929	1	11	12	0	
+ParlaMint-HU_2020-05-02.seg74.2	u2020-05-02-6	s	Hungarian	Positive	positive	5.124	1	33	39	0	
+ParlaMint-HU_2020-05-02.seg74.3	u2020-05-02-6	s	Hungarian	Positive	positive	4.665	1	4	6	0	
+u2020-05-02-7	ParlaMint-HU_2020-05-02	u	Hungarian	-	-	-	3	28	35	5	
+ParlaMint-HU_2020-05-02.seg75.1	u2020-05-02-7	s	Hungarian	Positive	mixed positive	4.298	1	5	7	1	
+ParlaMint-HU_2020-05-02.seg75.2	u2020-05-02-7	s	Hungarian	Neutral	neutral postive	3.216	1	18	21	4	
+ParlaMint-HU_2020-05-02.seg75.3	u2020-05-02-7	s	Hungarian	Neutral	neutral postive	3.473	1	5	7	0	
+u2020-05-02-8	ParlaMint-HU_2020-05-02	u	Hungarian	-	-	-	32	707	822	5	
+ParlaMint-HU_2020-05-02.seg76.1	u2020-05-02-8	s	Hungarian	Positive	mixed positive	4.276	1	4	5	0	
+ParlaMint-HU_2020-05-02.seg76.2	u2020-05-02-8	s	Hungarian	Positive	mixed positive	4.466	1	3	4	0	
+ParlaMint-HU_2020-05-02.seg76.3	u2020-05-02-8	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2020-05-02.seg76.4	u2020-05-02-8	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2020-05-02.seg76.5	u2020-05-02-8	s	Hungarian	Positive	mixed positive	3.998	1	2	3	0	
+ParlaMint-HU_2020-05-02.seg76.6	u2020-05-02-8	s	Hungarian	Neutral	neutral postive	3.389	1	15	16	1	
+ParlaMint-HU_2020-05-02.seg76.7	u2020-05-02-8	s	Hungarian	Positive	mixed positive	4.416	1	31	35	0	
+ParlaMint-HU_2020-05-02.seg76.8	u2020-05-02-8	s	Hungarian	Neutral	neutral postive	3.339	1	19	22	0	
+ParlaMint-HU_2020-05-02.seg76.9	u2020-05-02-8	s	Hungarian	Positive	positive	5.406	1	20	24	0	
+ParlaMint-HU_2020-05-02.seg76.10	u2020-05-02-8	s	Hungarian	Positive	positive	4.781	1	21	27	0	
+ParlaMint-HU_2020-05-02.seg76.11	u2020-05-02-8	s	Hungarian	Positive	mixed positive	3.565	1	71	81	1	
+ParlaMint-HU_2020-05-02.seg76.12	u2020-05-02-8	s	Hungarian	Negative	mixed negative	0.906	1	4	5	0	
+ParlaMint-HU_2020-05-02.seg76.13	u2020-05-02-8	s	Hungarian	Positive	mixed positive	3.894	1	10	11	0	
+ParlaMint-HU_2020-05-02.seg77.1	u2020-05-02-8	s	Hungarian	Positive	mixed positive	4.350	1	14	16	0	
+ParlaMint-HU_2020-05-02.seg77.2	u2020-05-02-8	s	Hungarian	Positive	positive	5.310	1	24	28	0	
+ParlaMint-HU_2020-05-02.seg77.3	u2020-05-02-8	s	Hungarian	Neutral	neutral postive	3.260	1	20	23	0	
+ParlaMint-HU_2020-05-02.seg77.4	u2020-05-02-8	s	Hungarian	Positive	positive	5.198	1	8	10	0	
+ParlaMint-HU_2020-05-02.seg77.5	u2020-05-02-8	s	Hungarian	Negative	mixed negative	0.768	1	6	7	0	
+ParlaMint-HU_2020-05-02.seg77.6	u2020-05-02-8	s	Hungarian	Positive	mixed positive	4.485	1	62	72	0	
+ParlaMint-HU_2020-05-02.seg78.1	u2020-05-02-8	s	Hungarian	Neutral	neutral postive	2.524	1	23	27	0	
+ParlaMint-HU_2020-05-02.seg78.2	u2020-05-02-8	s	Hungarian	Neutral	neutral postive	3.383	1	45	53	0	
+ParlaMint-HU_2020-05-02.seg79.1	u2020-05-02-8	s	Hungarian	Negative	negative	0.145	1	33	38	0	
+ParlaMint-HU_2020-05-02.seg79.2	u2020-05-02-8	s	Hungarian	Negative	negative	0.138	1	24	27	0	
+ParlaMint-HU_2020-05-02.seg79.3	u2020-05-02-8	s	Hungarian	Neutral	neutral postive	3.337	1	34	41	0	
+ParlaMint-HU_2020-05-02.seg80.1	u2020-05-02-8	s	Hungarian	Negative	negative	0.221	1	31	37	0	
+ParlaMint-HU_2020-05-02.seg81.1	u2020-05-02-8	s	Hungarian	Negative	negative	0.251	1	39	42	2	
+ParlaMint-HU_2020-05-02.seg82.1	u2020-05-02-8	s	Hungarian	Negative	negative	0.373	1	25	29	0	
+ParlaMint-HU_2020-05-02.seg82.2	u2020-05-02-8	s	Hungarian	Negative	negative	0.178	1	30	34	0	
+ParlaMint-HU_2020-05-02.seg83.1	u2020-05-02-8	s	Hungarian	Negative	negative	0.174	1	19	21	0	
+ParlaMint-HU_2020-05-02.seg83.2	u2020-05-02-8	s	Hungarian	Negative	negative	0.380	1	32	38	1	
+ParlaMint-HU_2020-05-02.seg84.1	u2020-05-02-8	s	Hungarian	Positive	mixed positive	4.236	1	30	35	0	
+ParlaMint-HU_2020-05-02.seg84.2	u2020-05-02-8	s	Hungarian	Positive	mixed positive	4.238	1	4	5	0	
+u2020-05-02-9	ParlaMint-HU_2020-05-02	u	Hungarian	-	-	-	3	25	33	4	
+ParlaMint-HU_2020-05-02.seg85.1	u2020-05-02-9	s	Hungarian	Positive	mixed positive	4.159	1	3	5	0	
+ParlaMint-HU_2020-05-02.seg85.2	u2020-05-02-9	s	Hungarian	Neutral	neutral negative	1.774	1	17	21	4	
+ParlaMint-HU_2020-05-02.seg85.3	u2020-05-02-9	s	Hungarian	Positive	mixed positive	3.505	1	5	7	0	
+u2020-05-02-10	ParlaMint-HU_2020-05-02	u	Hungarian	-	-	-	25	659	768	13	
+ParlaMint-HU_2020-05-02.seg86.1	u2020-05-02-10	s	Hungarian	Positive	mixed positive	4.466	1	3	4	0	
+ParlaMint-HU_2020-05-02.seg86.2	u2020-05-02-10	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2020-05-02.seg86.3	u2020-05-02-10	s	Hungarian	Negative	mixed negative	1.049	1	16	19	1	
+ParlaMint-HU_2020-05-02.seg86.4	u2020-05-02-10	s	Hungarian	Positive	mixed positive	4.457	1	16	19	0	
+ParlaMint-HU_2020-05-02.seg86.5	u2020-05-02-10	s	Hungarian	Positive	positive	4.681	1	47	56	0	
+ParlaMint-HU_2020-05-02.seg86.6	u2020-05-02-10	s	Hungarian	Negative	mixed negative	0.751	1	16	19	0	
+ParlaMint-HU_2020-05-02.seg86.7	u2020-05-02-10	s	Hungarian	Negative	negative	0.172	1	53	63	1	
+ParlaMint-HU_2020-05-02.seg87.1	u2020-05-02-10	s	Hungarian	Negative	negative	0.205	1	52	61	1	
+ParlaMint-HU_2020-05-02.seg87.2	u2020-05-02-10	s	Hungarian	Neutral	neutral postive	3.245	1	5	6	0	
+ParlaMint-HU_2020-05-02.seg87.3	u2020-05-02-10	s	Hungarian	Negative	negative	0.460	1	36	39	1	
+ParlaMint-HU_2020-05-02.seg88.1	u2020-05-02-10	s	Hungarian	Negative	negative	0.206	1	79	90	3	
+ParlaMint-HU_2020-05-02.seg89.1	u2020-05-02-10	s	Hungarian	Negative	negative	0.137	1	46	53	3	
+ParlaMint-HU_2020-05-02.seg90.1	u2020-05-02-10	s	Hungarian	Negative	negative	0.364	1	15	17	0	
+ParlaMint-HU_2020-05-02.seg90.2	u2020-05-02-10	s	Hungarian	Negative	negative	0.132	1	16	18	2	
+ParlaMint-HU_2020-05-02.seg91.1	u2020-05-02-10	s	Hungarian	Negative	negative	0.276	1	32	37	1	
+ParlaMint-HU_2020-05-02.seg91.2	u2020-05-02-10	s	Hungarian	Negative	negative	0.177	1	11	13	0	
+ParlaMint-HU_2020-05-02.seg92.1	u2020-05-02-10	s	Hungarian	Negative	negative	0.151	1	6	7	0	
+ParlaMint-HU_2020-05-02.seg92.2	u2020-05-02-10	s	Hungarian	Negative	negative	0.192	1	54	64	0	
+ParlaMint-HU_2020-05-02.seg93.1	u2020-05-02-10	s	Hungarian	Negative	negative	0.079	1	32	39	0	
+ParlaMint-HU_2020-05-02.seg94.1	u2020-05-02-10	s	Hungarian	Negative	negative	0.111	1	36	41	0	
+ParlaMint-HU_2020-05-02.seg94.2	u2020-05-02-10	s	Hungarian	Positive	positive	5.226	1	9	11	0	
+ParlaMint-HU_2020-05-02.seg95.1	u2020-05-02-10	s	Hungarian	Negative	mixed negative	0.657	1	4	5	0	
+ParlaMint-HU_2020-05-02.seg95.2	u2020-05-02-10	s	Hungarian	Negative	negative	0.062	1	55	63	0	
+ParlaMint-HU_2020-05-02.seg96.1	u2020-05-02-10	s	Hungarian	Negative	negative	0.353	1	15	17	0	
+ParlaMint-HU_2020-05-02.seg96.2	u2020-05-02-10	s	Hungarian	Positive	mixed positive	3.947	1	3	4	0	
+u2020-05-02-11	ParlaMint-HU_2020-05-02	u	Hungarian	-	-	-	3	33	41	2	
+ParlaMint-HU_2020-05-02.seg97.1	u2020-05-02-11	s	Hungarian	Positive	mixed positive	4.215	1	3	5	0	
+ParlaMint-HU_2020-05-02.seg97.2	u2020-05-02-11	s	Hungarian	Neutral	neutral negative	1.673	1	25	29	2	
+ParlaMint-HU_2020-05-02.seg97.3	u2020-05-02-11	s	Hungarian	Positive	mixed positive	3.684	1	5	7	0	
+u2020-05-02-12	ParlaMint-HU_2020-05-02	u	Hungarian	-	-	-	47	631	754	17	
+ParlaMint-HU_2020-05-02.seg98.1	u2020-05-02-12	s	Hungarian	Positive	mixed positive	4.046	1	5	7	0	
+ParlaMint-HU_2020-05-02.seg98.2	u2020-05-02-12	s	Hungarian	Neutral	neutral negative	2.149	1	14	19	0	
+ParlaMint-HU_2020-05-02.seg98.3	u2020-05-02-12	s	Hungarian	Neutral	neutral postive	3.139	1	24	29	4	
+ParlaMint-HU_2020-05-02.seg98.4	u2020-05-02-12	s	Hungarian	Neutral	neutral postive	2.906	1	8	10	0	
+ParlaMint-HU_2020-05-02.seg98.5	u2020-05-02-12	s	Hungarian	Negative	negative	0.127	1	21	24	0	
+ParlaMint-HU_2020-05-02.seg98.6	u2020-05-02-12	s	Hungarian	Neutral	neutral negative	1.688	1	5	7	0	
+ParlaMint-HU_2020-05-02.seg98.7	u2020-05-02-12	s	Hungarian	Negative	mixed negative	1.254	1	9	10	0	
+ParlaMint-HU_2020-05-02.seg98.8	u2020-05-02-12	s	Hungarian	Positive	mixed positive	3.882	1	19	22	1	
+ParlaMint-HU_2020-05-02.seg98.9	u2020-05-02-12	s	Hungarian	Negative	negative	0.349	1	7	9	0	
+ParlaMint-HU_2020-05-02.seg98.10	u2020-05-02-12	s	Hungarian	Positive	positive	5.133	1	32	38	2	
+ParlaMint-HU_2020-05-02.seg98.11	u2020-05-02-12	s	Hungarian	Neutral	neutral postive	3.063	1	4	5	0	
+ParlaMint-HU_2020-05-02.seg98.12	u2020-05-02-12	s	Hungarian	Negative	negative	0.230	1	7	9	1	
+ParlaMint-HU_2020-05-02.seg98.13	u2020-05-02-12	s	Hungarian	Negative	negative	0.034	1	5	6	0	
+ParlaMint-HU_2020-05-02.seg98.14	u2020-05-02-12	s	Hungarian	Negative	negative	0.063	1	15	17	0	
+ParlaMint-HU_2020-05-02.seg99.1	u2020-05-02-12	s	Hungarian	Neutral	neutral postive	2.643	1	13	16	0	
+ParlaMint-HU_2020-05-02.seg99.2	u2020-05-02-12	s	Hungarian	Neutral	neutral postive	2.911	1	2	3	0	
+ParlaMint-HU_2020-05-02.seg99.3	u2020-05-02-12	s	Hungarian	Negative	mixed negative	1.331	1	5	6	0	
+ParlaMint-HU_2020-05-02.seg99.4	u2020-05-02-12	s	Hungarian	Neutral	neutral postive	2.772	1	4	5	0	
+ParlaMint-HU_2020-05-02.seg99.5	u2020-05-02-12	s	Hungarian	Neutral	neutral postive	3.043	1	3	4	0	
+ParlaMint-HU_2020-05-02.seg99.6	u2020-05-02-12	s	Hungarian	Negative	negative	0.171	1	13	17	0	
+ParlaMint-HU_2020-05-02.seg100.1	u2020-05-02-12	s	Hungarian	Positive	positive	4.603	1	31	36	0	
+ParlaMint-HU_2020-05-02.seg100.2	u2020-05-02-12	s	Hungarian	Positive	mixed positive	4.418	1	26	28	0	
+ParlaMint-HU_2020-05-02.seg100.3	u2020-05-02-12	s	Hungarian	Negative	mixed negative	1.427	1	33	40	1	
+ParlaMint-HU_2020-05-02.seg101.1	u2020-05-02-12	s	Hungarian	Positive	positive	4.740	1	17	20	0	
+ParlaMint-HU_2020-05-02.seg101.2	u2020-05-02-12	s	Hungarian	Positive	positive	5.053	1	37	42	0	
+ParlaMint-HU_2020-05-02.seg101.3	u2020-05-02-12	s	Hungarian	Neutral	neutral postive	2.875	1	17	19	0	
+ParlaMint-HU_2020-05-02.seg101.4	u2020-05-02-12	s	Hungarian	Neutral	neutral negative	2.041	1	9	10	0	
+ParlaMint-HU_2020-05-02.seg101.5	u2020-05-02-12	s	Hungarian	Negative	negative	0.210	1	31	35	0	
+ParlaMint-HU_2020-05-02.seg101.6	u2020-05-02-12	s	Hungarian	Negative	negative	0.372	1	8	10	0	
+ParlaMint-HU_2020-05-02.seg102.1	u2020-05-02-12	s	Hungarian	Negative	negative	0.140	1	18	21	0	
+ParlaMint-HU_2020-05-02.seg102.2	u2020-05-02-12	s	Hungarian	Negative	negative	0.248	1	16	19	0	
+ParlaMint-HU_2020-05-02.seg102.3	u2020-05-02-12	s	Hungarian	Negative	negative	0.103	1	18	20	0	
+ParlaMint-HU_2020-05-02.seg102.4	u2020-05-02-12	s	Hungarian	Neutral	neutral negative	1.739	1	5	6	0	
+ParlaMint-HU_2020-05-02.seg102.5	u2020-05-02-12	s	Hungarian	Negative	negative	0.240	1	7	9	0	
+ParlaMint-HU_2020-05-02.seg103.1	u2020-05-02-12	s	Hungarian	Positive	mixed positive	4.389	1	14	17	0	
+ParlaMint-HU_2020-05-02.seg103.2	u2020-05-02-12	s	Hungarian	Neutral	neutral negative	2.437	1	8	9	0	
+ParlaMint-HU_2020-05-02.seg103.3	u2020-05-02-12	s	Hungarian	Negative	negative	0.313	1	11	13	1	
+ParlaMint-HU_2020-05-02.seg104.1	u2020-05-02-12	s	Hungarian	Negative	negative	0.204	1	35	44	2	
+ParlaMint-HU_2020-05-02.seg104.2	u2020-05-02-12	s	Hungarian	Neutral	neutral postive	2.965	1	3	4	0	
+ParlaMint-HU_2020-05-02.seg104.3	u2020-05-02-12	s	Hungarian	Negative	negative	0.143	1	7	8	0	
+ParlaMint-HU_2020-05-02.seg105.1	u2020-05-02-12	s	Hungarian	Neutral	neutral postive	2.564	1	15	17	2	
+ParlaMint-HU_2020-05-02.seg105.2	u2020-05-02-12	s	Hungarian	Positive	mixed positive	3.793	1	21	28	2	
+ParlaMint-HU_2020-05-02.seg105.3	u2020-05-02-12	s	Hungarian	Neutral	neutral postive	3.450	1	0	1	0	
+ParlaMint-HU_2020-05-02.seg105.4	u2020-05-02-12	s	Hungarian	Positive	positive	4.822	1	6	8	1	
+ParlaMint-HU_2020-05-02.seg105.5	u2020-05-02-12	s	Hungarian	Neutral	neutral postive	3.417	1	6	7	0	
+ParlaMint-HU_2020-05-02.seg106.1	u2020-05-02-12	s	Hungarian	Negative	negative	0.276	1	14	16	0	
+ParlaMint-HU_2020-05-02.seg106.2	u2020-05-02-12	s	Hungarian	Positive	mixed positive	4.131	1	3	4	0	
+u2020-05-02-13	ParlaMint-HU_2020-05-02	u	Hungarian	-	-	-	6	35	45	1	
+ParlaMint-HU_2020-05-02.seg107.1	u2020-05-02-13	s	Hungarian	Positive	mixed positive	4.351	1	4	6	0	
+ParlaMint-HU_2020-05-02.seg107.2	u2020-05-02-13	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2020-05-02.seg107.3	u2020-05-02-13	s	Hungarian	Neutral	neutral postive	3.210	1	6	7	0	
+ParlaMint-HU_2020-05-02.seg107.4	u2020-05-02-13	s	Hungarian	Neutral	neutral postive	2.894	1	13	15	0	
+ParlaMint-HU_2020-05-02.seg107.5	u2020-05-02-13	s	Hungarian	Positive	positive	5.024	1	7	10	0	
+ParlaMint-HU_2020-05-02.seg107.6	u2020-05-02-13	s	Hungarian	Neutral	neutral postive	2.967	1	3	4	0	

@@ -1,0 +1,976 @@
+ID	Parent_ID	Element	Language	Senti_3	Senti_6	Senti_n	Sents	Words	Tokens	Names	
+u2017-03-08-0	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	11	91	107	8	
+ParlaMint-HU_2017-03-08.seg1.1	u2017-03-08-0	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2017-03-08.seg1.2	u2017-03-08-0	s	Hungarian	Neutral	neutral postive	3.154	1	7	8	1	
+ParlaMint-HU_2017-03-08.seg1.3	u2017-03-08-0	s	Hungarian	Neutral	neutral postive	3.116	1	16	18	2	
+ParlaMint-HU_2017-03-08.seg2.1	u2017-03-08-0	s	Hungarian	Positive	positive	4.877	1	11	13	0	
+ParlaMint-HU_2017-03-08.seg3.1	u2017-03-08-0	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg3.2	u2017-03-08-0	s	Hungarian	Neutral	neutral postive	2.691	1	10	11	1	
+ParlaMint-HU_2017-03-08.seg3.3	u2017-03-08-0	s	Hungarian	Neutral	neutral postive	3.010	1	9	10	0	
+ParlaMint-HU_2017-03-08.seg3.4	u2017-03-08-0	s	Hungarian	Neutral	neutral postive	2.860	1	11	13	1	
+ParlaMint-HU_2017-03-08.seg4.1	u2017-03-08-0	s	Hungarian	Neutral	neutral postive	3.236	1	15	18	2	
+ParlaMint-HU_2017-03-08.seg4.2	u2017-03-08-0	s	Hungarian	Neutral	neutral postive	2.773	1	6	7	0	
+ParlaMint-HU_2017-03-08.seg4.3	u2017-03-08-0	s	Hungarian	Positive	mixed positive	3.874	1	2	3	0	
+u2017-03-08-1	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	171	3741	4225	16	
+ParlaMint-HU_2017-03-08.seg5.1	u2017-03-08-1	s	Hungarian	Positive	mixed positive	4.046	1	5	7	0	
+ParlaMint-HU_2017-03-08.seg5.2	u2017-03-08-1	s	Hungarian	Positive	mixed positive	4.466	1	3	4	0	
+ParlaMint-HU_2017-03-08.seg5.3	u2017-03-08-1	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg5.4	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.887	1	20	21	0	
+ParlaMint-HU_2017-03-08.seg5.5	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.469	1	35	39	0	
+ParlaMint-HU_2017-03-08.seg6.1	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.156	1	10	11	1	
+ParlaMint-HU_2017-03-08.seg6.2	u2017-03-08-1	s	Hungarian	Positive	mixed positive	3.953	1	28	32	0	
+ParlaMint-HU_2017-03-08.seg6.3	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.002	1	31	35	0	
+ParlaMint-HU_2017-03-08.seg6.4	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.395	1	13	15	0	
+ParlaMint-HU_2017-03-08.seg7.1	u2017-03-08-1	s	Hungarian	Negative	mixed negative	1.431	1	23	27	0	
+ParlaMint-HU_2017-03-08.seg7.2	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.580	1	15	16	0	
+ParlaMint-HU_2017-03-08.seg7.3	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.712	1	8	9	0	
+ParlaMint-HU_2017-03-08.seg7.4	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.194	1	40	44	0	
+ParlaMint-HU_2017-03-08.seg8.1	u2017-03-08-1	s	Hungarian	Negative	mixed negative	1.100	1	20	22	0	
+ParlaMint-HU_2017-03-08.seg8.2	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.617	1	11	12	0	
+ParlaMint-HU_2017-03-08.seg8.3	u2017-03-08-1	s	Hungarian	Positive	mixed positive	3.726	1	28	32	0	
+ParlaMint-HU_2017-03-08.seg8.4	u2017-03-08-1	s	Hungarian	Negative	negative	0.490	1	30	35	0	
+ParlaMint-HU_2017-03-08.seg8.5	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.124	1	16	17	0	
+ParlaMint-HU_2017-03-08.seg8.6	u2017-03-08-1	s	Hungarian	Positive	mixed positive	3.676	1	22	25	0	
+ParlaMint-HU_2017-03-08.seg8.7	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.273	1	18	20	0	
+ParlaMint-HU_2017-03-08.seg9.1	u2017-03-08-1	s	Hungarian	Negative	negative	0.193	1	38	44	1	
+ParlaMint-HU_2017-03-08.seg9.2	u2017-03-08-1	s	Hungarian	Negative	mixed negative	0.572	1	22	25	0	
+ParlaMint-HU_2017-03-08.seg9.3	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.442	1	17	19	0	
+ParlaMint-HU_2017-03-08.seg9.4	u2017-03-08-1	s	Hungarian	Positive	mixed positive	3.656	1	24	29	0	
+ParlaMint-HU_2017-03-08.seg9.5	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.959	1	22	25	0	
+ParlaMint-HU_2017-03-08.seg9.6	u2017-03-08-1	s	Hungarian	Positive	mixed positive	3.614	1	38	43	0	
+ParlaMint-HU_2017-03-08.seg10.1	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.162	1	22	25	0	
+ParlaMint-HU_2017-03-08.seg10.2	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.084	1	32	38	0	
+ParlaMint-HU_2017-03-08.seg10.3	u2017-03-08-1	s	Hungarian	Negative	negative	0.273	1	28	32	0	
+ParlaMint-HU_2017-03-08.seg11.1	u2017-03-08-1	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg11.2	u2017-03-08-1	s	Hungarian	Positive	mixed positive	3.580	1	20	22	0	
+ParlaMint-HU_2017-03-08.seg11.3	u2017-03-08-1	s	Hungarian	Negative	negative	0.372	1	35	42	1	
+ParlaMint-HU_2017-03-08.seg11.4	u2017-03-08-1	s	Hungarian	Negative	negative	0.434	1	15	17	0	
+ParlaMint-HU_2017-03-08.seg11.5	u2017-03-08-1	s	Hungarian	Negative	negative	0.319	1	18	20	0	
+ParlaMint-HU_2017-03-08.seg11.6	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.058	1	24	26	0	
+ParlaMint-HU_2017-03-08.seg12.1	u2017-03-08-1	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg12.2	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.889	1	20	23	0	
+ParlaMint-HU_2017-03-08.seg13.1	u2017-03-08-1	s	Hungarian	Positive	mixed positive	4.036	1	19	21	0	
+ParlaMint-HU_2017-03-08.seg13.2	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.510	1	13	15	0	
+ParlaMint-HU_2017-03-08.seg14.1	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.464	1	27	33	0	
+ParlaMint-HU_2017-03-08.seg15.1	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.054	1	14	16	0	
+ParlaMint-HU_2017-03-08.seg15.2	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.260	1	20	21	0	
+ParlaMint-HU_2017-03-08.seg15.3	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.723	1	26	28	0	
+ParlaMint-HU_2017-03-08.seg16.1	u2017-03-08-1	s	Hungarian	Negative	negative	0.367	1	40	44	0	
+ParlaMint-HU_2017-03-08.seg16.2	u2017-03-08-1	s	Hungarian	Negative	negative	0.117	1	26	29	0	
+ParlaMint-HU_2017-03-08.seg17.1	u2017-03-08-1	s	Hungarian	Positive	mixed positive	3.869	1	28	30	0	
+ParlaMint-HU_2017-03-08.seg17.2	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.305	1	35	41	0	
+ParlaMint-HU_2017-03-08.seg17.3	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.218	1	27	30	0	
+ParlaMint-HU_2017-03-08.seg18.1	u2017-03-08-1	s	Hungarian	Positive	mixed positive	3.650	1	16	18	0	
+ParlaMint-HU_2017-03-08.seg18.2	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.049	1	29	34	0	
+ParlaMint-HU_2017-03-08.seg18.3	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.701	1	8	9	0	
+ParlaMint-HU_2017-03-08.seg18.4	u2017-03-08-1	s	Hungarian	Negative	mixed negative	1.184	1	34	38	0	
+ParlaMint-HU_2017-03-08.seg19.1	u2017-03-08-1	s	Hungarian	Positive	mixed positive	4.032	1	23	26	0	
+ParlaMint-HU_2017-03-08.seg19.2	u2017-03-08-1	s	Hungarian	Negative	mixed negative	1.448	1	16	19	0	
+ParlaMint-HU_2017-03-08.seg19.3	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.511	1	12	14	0	
+ParlaMint-HU_2017-03-08.seg20.1	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.422	1	24	27	0	
+ParlaMint-HU_2017-03-08.seg20.2	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	1.948	1	23	26	0	
+ParlaMint-HU_2017-03-08.seg20.3	u2017-03-08-1	s	Hungarian	Negative	mixed negative	1.058	1	21	24	0	
+ParlaMint-HU_2017-03-08.seg20.4	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.937	1	22	25	0	
+ParlaMint-HU_2017-03-08.seg20.5	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	1.813	1	22	25	0	
+ParlaMint-HU_2017-03-08.seg20.6	u2017-03-08-1	s	Hungarian	Negative	negative	0.226	1	34	38	0	
+ParlaMint-HU_2017-03-08.seg20.7	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.438	1	22	25	0	
+ParlaMint-HU_2017-03-08.seg21.1	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.495	1	21	23	0	
+ParlaMint-HU_2017-03-08.seg21.2	u2017-03-08-1	s	Hungarian	Positive	mixed positive	3.856	1	35	38	0	
+ParlaMint-HU_2017-03-08.seg21.3	u2017-03-08-1	s	Hungarian	Positive	mixed positive	4.149	1	10	12	0	
+ParlaMint-HU_2017-03-08.seg21.4	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.755	1	27	31	0	
+ParlaMint-HU_2017-03-08.seg21.5	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.947	1	8	10	0	
+ParlaMint-HU_2017-03-08.seg22.1	u2017-03-08-1	s	Hungarian	Positive	positive	4.639	1	26	28	0	
+ParlaMint-HU_2017-03-08.seg22.2	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.268	1	16	17	0	
+ParlaMint-HU_2017-03-08.seg22.3	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.044	1	24	27	0	
+ParlaMint-HU_2017-03-08.seg22.4	u2017-03-08-1	s	Hungarian	Positive	mixed positive	4.269	1	14	15	0	
+ParlaMint-HU_2017-03-08.seg23.1	u2017-03-08-1	s	Hungarian	Positive	mixed positive	3.736	1	24	27	0	
+ParlaMint-HU_2017-03-08.seg23.2	u2017-03-08-1	s	Hungarian	Positive	mixed positive	4.393	1	38	42	0	
+ParlaMint-HU_2017-03-08.seg24.1	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.233	1	33	39	0	
+ParlaMint-HU_2017-03-08.seg24.2	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.665	1	18	20	0	
+ParlaMint-HU_2017-03-08.seg24.3	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.194	1	29	33	0	
+ParlaMint-HU_2017-03-08.seg24.4	u2017-03-08-1	s	Hungarian	Positive	mixed positive	4.495	1	15	17	0	
+ParlaMint-HU_2017-03-08.seg24.5	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.914	1	20	22	0	
+ParlaMint-HU_2017-03-08.seg24.6	u2017-03-08-1	s	Hungarian	Negative	negative	0.434	1	43	48	0	
+ParlaMint-HU_2017-03-08.seg24.7	u2017-03-08-1	s	Hungarian	Positive	mixed positive	4.256	1	38	41	0	
+ParlaMint-HU_2017-03-08.seg24.8	u2017-03-08-1	s	Hungarian	Positive	positive	4.820	1	13	14	0	
+ParlaMint-HU_2017-03-08.seg24.9	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	1.665	1	24	25	0	
+ParlaMint-HU_2017-03-08.seg24.10	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.643	1	16	17	0	
+ParlaMint-HU_2017-03-08.seg25.1	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.415	1	16	19	0	
+ParlaMint-HU_2017-03-08.seg25.2	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.413	1	24	30	0	
+ParlaMint-HU_2017-03-08.seg26.1	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	1.751	1	39	47	0	
+ParlaMint-HU_2017-03-08.seg27.1	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	1.630	1	32	35	0	
+ParlaMint-HU_2017-03-08.seg27.2	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.746	1	33	36	0	
+ParlaMint-HU_2017-03-08.seg27.3	u2017-03-08-1	s	Hungarian	Negative	mixed negative	0.941	1	26	30	0	
+ParlaMint-HU_2017-03-08.seg28.1	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.708	1	38	42	0	
+ParlaMint-HU_2017-03-08.seg28.2	u2017-03-08-1	s	Hungarian	Negative	mixed negative	1.421	1	51	57	0	
+ParlaMint-HU_2017-03-08.seg29.1	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.999	1	34	38	0	
+ParlaMint-HU_2017-03-08.seg29.2	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.578	1	30	35	0	
+ParlaMint-HU_2017-03-08.seg29.3	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.510	1	37	41	0	
+ParlaMint-HU_2017-03-08.seg30.1	u2017-03-08-1	s	Hungarian	Positive	mixed positive	4.075	1	17	18	0	
+ParlaMint-HU_2017-03-08.seg31.1	u2017-03-08-1	s	Hungarian	Positive	mixed positive	3.970	1	14	16	0	
+ParlaMint-HU_2017-03-08.seg31.2	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.008	1	39	44	0	
+ParlaMint-HU_2017-03-08.seg31.3	u2017-03-08-1	s	Hungarian	Positive	mixed positive	3.625	1	11	12	0	
+ParlaMint-HU_2017-03-08.seg31.4	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.537	1	34	37	0	
+ParlaMint-HU_2017-03-08.seg31.5	u2017-03-08-1	s	Hungarian	Negative	mixed negative	1.237	1	13	16	0	
+ParlaMint-HU_2017-03-08.seg31.6	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	1.799	1	11	12	0	
+ParlaMint-HU_2017-03-08.seg31.7	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.428	1	9	10	0	
+ParlaMint-HU_2017-03-08.seg32.1	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.806	1	9	10	0	
+ParlaMint-HU_2017-03-08.seg32.2	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.365	1	25	27	0	
+ParlaMint-HU_2017-03-08.seg32.3	u2017-03-08-1	s	Hungarian	Negative	mixed negative	0.530	1	16	18	0	
+ParlaMint-HU_2017-03-08.seg32.4	u2017-03-08-1	s	Hungarian	Negative	mixed negative	1.329	1	11	12	0	
+ParlaMint-HU_2017-03-08.seg33.1	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.358	1	32	35	0	
+ParlaMint-HU_2017-03-08.seg33.2	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.449	1	18	21	0	
+ParlaMint-HU_2017-03-08.seg34.1	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.333	1	23	27	0	
+ParlaMint-HU_2017-03-08.seg34.2	u2017-03-08-1	s	Hungarian	Negative	mixed negative	1.479	1	31	35	0	
+ParlaMint-HU_2017-03-08.seg34.3	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	1.952	1	22	24	0	
+ParlaMint-HU_2017-03-08.seg35.1	u2017-03-08-1	s	Hungarian	Positive	positive	4.939	1	9	10	0	
+ParlaMint-HU_2017-03-08.seg35.2	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.269	1	14	15	0	
+ParlaMint-HU_2017-03-08.seg35.3	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.269	1	13	15	0	
+ParlaMint-HU_2017-03-08.seg35.4	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.644	1	18	22	0	
+ParlaMint-HU_2017-03-08.seg36.1	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.782	1	27	29	0	
+ParlaMint-HU_2017-03-08.seg36.2	u2017-03-08-1	s	Hungarian	Positive	mixed positive	3.610	1	32	37	0	
+ParlaMint-HU_2017-03-08.seg36.3	u2017-03-08-1	s	Hungarian	Positive	mixed positive	3.693	1	15	16	0	
+ParlaMint-HU_2017-03-08.seg36.4	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.261	1	38	41	0	
+ParlaMint-HU_2017-03-08.seg36.5	u2017-03-08-1	s	Hungarian	Positive	mixed positive	3.789	1	40	46	0	
+ParlaMint-HU_2017-03-08.seg36.6	u2017-03-08-1	s	Hungarian	Positive	mixed positive	3.811	1	10	11	0	
+ParlaMint-HU_2017-03-08.seg36.7	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.653	1	9	10	0	
+ParlaMint-HU_2017-03-08.seg36.8	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	1.760	1	19	22	0	
+ParlaMint-HU_2017-03-08.seg36.9	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.708	1	31	35	0	
+ParlaMint-HU_2017-03-08.seg36.10	u2017-03-08-1	s	Hungarian	Positive	mixed positive	4.201	1	39	44	0	
+ParlaMint-HU_2017-03-08.seg36.11	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	1.598	1	24	27	0	
+ParlaMint-HU_2017-03-08.seg36.12	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.652	1	23	25	0	
+ParlaMint-HU_2017-03-08.seg36.13	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.103	1	12	13	0	
+ParlaMint-HU_2017-03-08.seg36.14	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.155	1	15	17	0	
+ParlaMint-HU_2017-03-08.seg36.15	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.148	1	19	21	0	
+ParlaMint-HU_2017-03-08.seg36.16	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.330	1	12	14	0	
+ParlaMint-HU_2017-03-08.seg36.17	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.322	1	18	21	0	
+ParlaMint-HU_2017-03-08.seg37.1	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.201	1	23	24	0	
+ParlaMint-HU_2017-03-08.seg37.2	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.627	1	24	26	0	
+ParlaMint-HU_2017-03-08.seg38.1	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.199	1	25	27	0	
+ParlaMint-HU_2017-03-08.seg38.2	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.070	1	18	20	0	
+ParlaMint-HU_2017-03-08.seg38.3	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.013	1	7	8	0	
+ParlaMint-HU_2017-03-08.seg38.4	u2017-03-08-1	s	Hungarian	Negative	mixed negative	1.351	1	16	17	0	
+ParlaMint-HU_2017-03-08.seg38.5	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.713	1	33	37	0	
+ParlaMint-HU_2017-03-08.seg38.6	u2017-03-08-1	s	Hungarian	Positive	mixed positive	3.559	1	18	21	0	
+ParlaMint-HU_2017-03-08.seg38.7	u2017-03-08-1	s	Hungarian	Positive	mixed positive	4.499	1	27	32	0	
+ParlaMint-HU_2017-03-08.seg39.1	u2017-03-08-1	s	Hungarian	Positive	mixed positive	3.783	1	13	14	0	
+ParlaMint-HU_2017-03-08.seg39.2	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.493	1	32	35	0	
+ParlaMint-HU_2017-03-08.seg39.3	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.370	1	9	10	0	
+ParlaMint-HU_2017-03-08.seg39.4	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.546	1	27	29	0	
+ParlaMint-HU_2017-03-08.seg39.5	u2017-03-08-1	s	Hungarian	Positive	mixed positive	4.317	1	30	35	0	
+ParlaMint-HU_2017-03-08.seg39.6	u2017-03-08-1	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg39.7	u2017-03-08-1	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg39.8	u2017-03-08-1	s	Hungarian	Positive	positive	4.869	1	29	33	0	
+ParlaMint-HU_2017-03-08.seg39.9	u2017-03-08-1	s	Hungarian	Positive	mixed positive	3.659	1	38	43	3	
+ParlaMint-HU_2017-03-08.seg39.10	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.455	1	13	14	1	
+ParlaMint-HU_2017-03-08.seg39.11	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.793	1	24	27	0	
+ParlaMint-HU_2017-03-08.seg39.12	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.108	1	12	14	0	
+ParlaMint-HU_2017-03-08.seg39.13	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.614	1	22	26	5	
+ParlaMint-HU_2017-03-08.seg39.14	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	3.441	1	29	34	3	
+ParlaMint-HU_2017-03-08.seg39.15	u2017-03-08-1	s	Hungarian	Positive	mixed positive	3.644	1	20	22	0	
+ParlaMint-HU_2017-03-08.seg39.16	u2017-03-08-1	s	Hungarian	Positive	positive	4.626	1	17	19	0	
+ParlaMint-HU_2017-03-08.seg40.1	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	2.292	1	6	7	0	
+ParlaMint-HU_2017-03-08.seg40.2	u2017-03-08-1	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg40.3	u2017-03-08-1	s	Hungarian	Negative	mixed negative	1.065	1	25	28	0	
+ParlaMint-HU_2017-03-08.seg40.4	u2017-03-08-1	s	Hungarian	Positive	positive	4.835	1	33	39	0	
+ParlaMint-HU_2017-03-08.seg40.5	u2017-03-08-1	s	Hungarian	Positive	positive	4.860	1	46	52	0	
+ParlaMint-HU_2017-03-08.seg40.6	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.720	1	31	36	1	
+ParlaMint-HU_2017-03-08.seg40.7	u2017-03-08-1	s	Hungarian	Neutral	neutral negative	1.862	1	25	30	0	
+ParlaMint-HU_2017-03-08.seg40.8	u2017-03-08-1	s	Hungarian	Negative	mixed negative	0.587	1	39	44	0	
+ParlaMint-HU_2017-03-08.seg40.9	u2017-03-08-1	s	Hungarian	Neutral	neutral postive	2.915	1	1	1	0	
+ParlaMint-HU_2017-03-08.seg41.1	u2017-03-08-1	s	Hungarian	Positive	positive	4.583	1	31	35	0	
+ParlaMint-HU_2017-03-08.seg41.2	u2017-03-08-1	s	Hungarian	Positive	positive	5.268	1	12	15	0	
+ParlaMint-HU_2017-03-08.seg41.3	u2017-03-08-1	s	Hungarian	Positive	positive	5.301	1	7	9	0	
+ParlaMint-HU_2017-03-08.seg41.4	u2017-03-08-1	s	Hungarian	Positive	positive	4.673	1	8	10	0	
+ParlaMint-HU_2017-03-08.seg41.5	u2017-03-08-1	s	Hungarian	Positive	mixed positive	4.131	1	3	4	0	
+u2017-03-08-2	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	5	26	33	3	
+ParlaMint-HU_2017-03-08.seg42.1	u2017-03-08-2	s	Hungarian	Positive	positive	4.696	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg42.2	u2017-03-08-2	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2017-03-08.seg42.3	u2017-03-08-2	s	Hungarian	Neutral	neutral postive	2.804	1	9	11	0	
+ParlaMint-HU_2017-03-08.seg42.4	u2017-03-08-2	s	Hungarian	Neutral	neutral postive	3.266	1	12	14	2	
+ParlaMint-HU_2017-03-08.seg42.5	u2017-03-08-2	s	Hungarian	Neutral	neutral postive	3.399	1	1	2	0	
+u2017-03-08-3	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	57	1511	1705	14	
+ParlaMint-HU_2017-03-08.seg43.1	u2017-03-08-3	s	Hungarian	Positive	positive	4.640	1	4	5	0	
+ParlaMint-HU_2017-03-08.seg43.2	u2017-03-08-3	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg43.3	u2017-03-08-3	s	Hungarian	Positive	mixed positive	4.292	1	3	4	0	
+ParlaMint-HU_2017-03-08.seg43.4	u2017-03-08-3	s	Hungarian	Positive	mixed positive	4.276	1	4	5	0	
+ParlaMint-HU_2017-03-08.seg43.5	u2017-03-08-3	s	Hungarian	Neutral	neutral postive	3.103	1	85	97	2	
+ParlaMint-HU_2017-03-08.seg43.6	u2017-03-08-3	s	Hungarian	Positive	mixed positive	4.290	1	18	20	0	
+ParlaMint-HU_2017-03-08.seg43.7	u2017-03-08-3	s	Hungarian	Positive	mixed positive	4.391	1	32	36	0	
+ParlaMint-HU_2017-03-08.seg43.8	u2017-03-08-3	s	Hungarian	Positive	mixed positive	3.680	1	30	35	0	
+ParlaMint-HU_2017-03-08.seg43.9	u2017-03-08-3	s	Hungarian	Positive	positive	4.986	1	19	21	0	
+ParlaMint-HU_2017-03-08.seg43.10	u2017-03-08-3	s	Hungarian	Positive	mixed positive	3.993	1	55	64	2	
+ParlaMint-HU_2017-03-08.seg43.11	u2017-03-08-3	s	Hungarian	Positive	positive	4.632	1	24	25	1	
+ParlaMint-HU_2017-03-08.seg43.12	u2017-03-08-3	s	Hungarian	Positive	positive	5.170	1	26	28	0	
+ParlaMint-HU_2017-03-08.seg43.13	u2017-03-08-3	s	Hungarian	Negative	negative	0.266	1	27	30	0	
+ParlaMint-HU_2017-03-08.seg43.14	u2017-03-08-3	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg43.15	u2017-03-08-3	s	Hungarian	Negative	negative	0.449	1	18	20	0	
+ParlaMint-HU_2017-03-08.seg43.16	u2017-03-08-3	s	Hungarian	Negative	negative	0.195	1	13	14	2	
+ParlaMint-HU_2017-03-08.seg43.17	u2017-03-08-3	s	Hungarian	Negative	negative	0.404	1	40	44	1	
+ParlaMint-HU_2017-03-08.seg43.18	u2017-03-08-3	s	Hungarian	Negative	negative	0.308	1	15	17	0	
+ParlaMint-HU_2017-03-08.seg43.19	u2017-03-08-3	s	Hungarian	Negative	negative	0.089	1	39	46	0	
+ParlaMint-HU_2017-03-08.seg43.20	u2017-03-08-3	s	Hungarian	Positive	mixed positive	4.081	1	19	21	0	
+ParlaMint-HU_2017-03-08.seg43.21	u2017-03-08-3	s	Hungarian	Negative	mixed negative	0.536	1	18	21	0	
+ParlaMint-HU_2017-03-08.seg43.22	u2017-03-08-3	s	Hungarian	Positive	mixed positive	4.105	1	28	32	0	
+ParlaMint-HU_2017-03-08.seg43.23	u2017-03-08-3	s	Hungarian	Neutral	neutral negative	2.419	1	20	22	0	
+ParlaMint-HU_2017-03-08.seg43.24	u2017-03-08-3	s	Hungarian	Neutral	neutral postive	3.254	1	21	25	0	
+ParlaMint-HU_2017-03-08.seg43.25	u2017-03-08-3	s	Hungarian	Positive	positive	4.926	1	44	49	0	
+ParlaMint-HU_2017-03-08.seg44.1	u2017-03-08-3	s	Hungarian	Neutral	neutral negative	1.783	1	50	58	0	
+ParlaMint-HU_2017-03-08.seg45.1	u2017-03-08-3	s	Hungarian	Negative	mixed negative	1.114	1	39	44	2	
+ParlaMint-HU_2017-03-08.seg45.2	u2017-03-08-3	s	Hungarian	Negative	mixed negative	1.063	1	29	32	0	
+ParlaMint-HU_2017-03-08.seg45.3	u2017-03-08-3	s	Hungarian	Neutral	neutral negative	1.736	1	20	22	0	
+ParlaMint-HU_2017-03-08.seg46.1	u2017-03-08-3	s	Hungarian	Positive	positive	4.654	1	29	32	0	
+ParlaMint-HU_2017-03-08.seg47.1	u2017-03-08-3	s	Hungarian	Positive	mixed positive	3.825	1	30	32	0	
+ParlaMint-HU_2017-03-08.seg47.2	u2017-03-08-3	s	Hungarian	Positive	mixed positive	3.835	1	39	43	0	
+ParlaMint-HU_2017-03-08.seg47.3	u2017-03-08-3	s	Hungarian	Neutral	neutral negative	2.258	1	12	14	0	
+ParlaMint-HU_2017-03-08.seg48.1	u2017-03-08-3	s	Hungarian	Neutral	neutral postive	3.446	1	28	31	0	
+ParlaMint-HU_2017-03-08.seg49.1	u2017-03-08-3	s	Hungarian	Negative	negative	0.271	1	38	41	0	
+ParlaMint-HU_2017-03-08.seg49.2	u2017-03-08-3	s	Hungarian	Negative	mixed negative	0.665	1	40	44	0	
+ParlaMint-HU_2017-03-08.seg49.3	u2017-03-08-3	s	Hungarian	Neutral	neutral negative	2.324	1	34	39	0	
+ParlaMint-HU_2017-03-08.seg49.4	u2017-03-08-3	s	Hungarian	Neutral	neutral postive	2.861	1	34	38	0	
+ParlaMint-HU_2017-03-08.seg49.5	u2017-03-08-3	s	Hungarian	Neutral	neutral negative	1.983	1	19	21	0	
+ParlaMint-HU_2017-03-08.seg49.6	u2017-03-08-3	s	Hungarian	Neutral	neutral negative	2.010	1	55	60	0	
+ParlaMint-HU_2017-03-08.seg49.7	u2017-03-08-3	s	Hungarian	Positive	mixed positive	3.633	1	14	15	0	
+ParlaMint-HU_2017-03-08.seg49.8	u2017-03-08-3	s	Hungarian	Neutral	neutral negative	2.168	1	26	32	0	
+ParlaMint-HU_2017-03-08.seg49.9	u2017-03-08-3	s	Hungarian	Neutral	neutral postive	3.120	1	14	15	0	
+ParlaMint-HU_2017-03-08.seg49.10	u2017-03-08-3	s	Hungarian	Neutral	neutral postive	3.040	1	29	31	0	
+ParlaMint-HU_2017-03-08.seg49.11	u2017-03-08-3	s	Hungarian	Positive	mixed positive	3.836	1	47	53	0	
+ParlaMint-HU_2017-03-08.seg49.12	u2017-03-08-3	s	Hungarian	Neutral	neutral postive	3.200	1	16	17	0	
+ParlaMint-HU_2017-03-08.seg50.1	u2017-03-08-3	s	Hungarian	Neutral	neutral negative	2.436	1	38	41	0	
+ParlaMint-HU_2017-03-08.seg50.2	u2017-03-08-3	s	Hungarian	Neutral	neutral postive	3.020	1	20	23	0	
+ParlaMint-HU_2017-03-08.seg51.1	u2017-03-08-3	s	Hungarian	Negative	mixed negative	0.620	1	27	32	0	
+ParlaMint-HU_2017-03-08.seg51.2	u2017-03-08-3	s	Hungarian	Positive	mixed positive	4.358	1	14	16	0	
+ParlaMint-HU_2017-03-08.seg51.3	u2017-03-08-3	s	Hungarian	Positive	mixed positive	4.074	1	24	27	0	
+ParlaMint-HU_2017-03-08.seg51.4	u2017-03-08-3	s	Hungarian	Positive	positive	4.761	1	77	90	2	
+ParlaMint-HU_2017-03-08.seg52.1	u2017-03-08-3	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2017-03-08.seg52.2	u2017-03-08-3	s	Hungarian	Positive	positive	4.639	1	19	22	1	
+ParlaMint-HU_2017-03-08.seg52.3	u2017-03-08-3	s	Hungarian	Positive	positive	4.941	1	28	33	0	
+ParlaMint-HU_2017-03-08.seg52.4	u2017-03-08-3	s	Hungarian	Positive	positive	4.504	1	12	14	0	
+ParlaMint-HU_2017-03-08.seg52.5	u2017-03-08-3	s	Hungarian	Positive	positive	4.696	1	2	3	0	
+u2017-03-08-4	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	3	11	15	2	
+ParlaMint-HU_2017-03-08.seg53.1	u2017-03-08-4	s	Hungarian	Positive	positive	4.696	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg53.2	u2017-03-08-4	s	Hungarian	Positive	mixed positive	3.528	1	8	10	2	
+ParlaMint-HU_2017-03-08.seg53.3	u2017-03-08-4	s	Hungarian	Neutral	neutral postive	3.399	1	1	2	0	
+u2017-03-08-5	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	138	3390	4007	28	
+ParlaMint-HU_2017-03-08.seg54.1	u2017-03-08-5	s	Hungarian	Positive	mixed positive	4.046	1	5	7	0	
+ParlaMint-HU_2017-03-08.seg54.2	u2017-03-08-5	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg54.3	u2017-03-08-5	s	Hungarian	Positive	mixed positive	4.292	1	3	4	0	
+ParlaMint-HU_2017-03-08.seg54.4	u2017-03-08-5	s	Hungarian	Positive	mixed positive	3.897	1	4	5	1	
+ParlaMint-HU_2017-03-08.seg54.5	u2017-03-08-5	s	Hungarian	Positive	mixed positive	3.872	1	41	48	0	
+ParlaMint-HU_2017-03-08.seg54.6	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	3.326	1	15	18	1	
+ParlaMint-HU_2017-03-08.seg55.1	u2017-03-08-5	s	Hungarian	Positive	mixed positive	4.498	1	15	19	0	
+ParlaMint-HU_2017-03-08.seg55.2	u2017-03-08-5	s	Hungarian	Negative	mixed negative	0.591	1	16	20	0	
+ParlaMint-HU_2017-03-08.seg55.3	u2017-03-08-5	s	Hungarian	Negative	negative	0.367	1	34	41	0	
+ParlaMint-HU_2017-03-08.seg56.1	u2017-03-08-5	s	Hungarian	Negative	mixed negative	0.861	1	69	80	0	
+ParlaMint-HU_2017-03-08.seg57.1	u2017-03-08-5	s	Hungarian	Positive	mixed positive	3.973	1	20	23	0	
+ParlaMint-HU_2017-03-08.seg57.2	u2017-03-08-5	s	Hungarian	Positive	mixed positive	4.093	1	17	19	0	
+ParlaMint-HU_2017-03-08.seg57.3	u2017-03-08-5	s	Hungarian	Positive	mixed positive	4.295	1	66	81	3	
+ParlaMint-HU_2017-03-08.seg58.1	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	3.003	1	26	30	1	
+ParlaMint-HU_2017-03-08.seg58.2	u2017-03-08-5	s	Hungarian	Positive	mixed positive	4.455	1	24	28	0	
+ParlaMint-HU_2017-03-08.seg58.3	u2017-03-08-5	s	Hungarian	Positive	positive	5.109	1	15	18	0	
+ParlaMint-HU_2017-03-08.seg59.1	u2017-03-08-5	s	Hungarian	Positive	positive	4.943	1	57	68	0	
+ParlaMint-HU_2017-03-08.seg59.2	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	3.404	1	35	43	1	
+ParlaMint-HU_2017-03-08.seg60.1	u2017-03-08-5	s	Hungarian	Positive	positive	5.173	1	12	15	0	
+ParlaMint-HU_2017-03-08.seg60.2	u2017-03-08-5	s	Hungarian	Positive	positive	4.580	1	41	49	0	
+ParlaMint-HU_2017-03-08.seg60.3	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	2.800	1	36	43	1	
+ParlaMint-HU_2017-03-08.seg60.4	u2017-03-08-5	s	Hungarian	Positive	positive	5.096	1	11	14	0	
+ParlaMint-HU_2017-03-08.seg60.5	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	2.719	1	8	9	0	
+ParlaMint-HU_2017-03-08.seg60.6	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	2.749	1	34	39	0	
+ParlaMint-HU_2017-03-08.seg61.1	u2017-03-08-5	s	Hungarian	Neutral	neutral negative	2.383	1	9	10	0	
+ParlaMint-HU_2017-03-08.seg61.2	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	3.081	1	35	43	1	
+ParlaMint-HU_2017-03-08.seg62.1	u2017-03-08-5	s	Hungarian	Positive	mixed positive	3.664	1	49	59	1	
+ParlaMint-HU_2017-03-08.seg62.2	u2017-03-08-5	s	Hungarian	Negative	negative	0.280	1	34	38	0	
+ParlaMint-HU_2017-03-08.seg62.3	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	3.226	1	28	32	0	
+ParlaMint-HU_2017-03-08.seg63.1	u2017-03-08-5	s	Hungarian	Positive	positive	5.042	1	23	25	1	
+ParlaMint-HU_2017-03-08.seg63.2	u2017-03-08-5	s	Hungarian	Neutral	neutral negative	1.896	1	21	25	0	
+ParlaMint-HU_2017-03-08.seg63.3	u2017-03-08-5	s	Hungarian	Positive	positive	4.963	1	37	44	1	
+ParlaMint-HU_2017-03-08.seg64.1	u2017-03-08-5	s	Hungarian	Positive	mixed positive	4.105	1	59	67	1	
+ParlaMint-HU_2017-03-08.seg65.1	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	2.688	1	54	61	1	
+ParlaMint-HU_2017-03-08.seg65.2	u2017-03-08-5	s	Hungarian	Negative	negative	0.461	1	26	30	0	
+ParlaMint-HU_2017-03-08.seg66.1	u2017-03-08-5	s	Hungarian	Positive	positive	5.286	1	21	24	0	
+ParlaMint-HU_2017-03-08.seg66.2	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	2.900	1	20	22	0	
+ParlaMint-HU_2017-03-08.seg66.3	u2017-03-08-5	s	Hungarian	Positive	positive	5.129	1	43	52	0	
+ParlaMint-HU_2017-03-08.seg67.1	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	2.769	1	37	45	0	
+ParlaMint-HU_2017-03-08.seg68.1	u2017-03-08-5	s	Hungarian	Positive	mixed positive	4.048	1	31	37	0	
+ParlaMint-HU_2017-03-08.seg68.2	u2017-03-08-5	s	Hungarian	Negative	negative	0.456	1	46	55	1	
+ParlaMint-HU_2017-03-08.seg68.3	u2017-03-08-5	s	Hungarian	Negative	mixed negative	1.082	1	25	30	0	
+ParlaMint-HU_2017-03-08.seg68.4	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	3.060	1	26	29	0	
+ParlaMint-HU_2017-03-08.seg68.5	u2017-03-08-5	s	Hungarian	Negative	negative	0.305	1	10	11	0	
+ParlaMint-HU_2017-03-08.seg68.6	u2017-03-08-5	s	Hungarian	Negative	negative	0.153	1	25	28	0	
+ParlaMint-HU_2017-03-08.seg69.1	u2017-03-08-5	s	Hungarian	Neutral	neutral negative	1.852	1	61	67	0	
+ParlaMint-HU_2017-03-08.seg69.2	u2017-03-08-5	s	Hungarian	Negative	mixed negative	1.045	1	34	41	0	
+ParlaMint-HU_2017-03-08.seg69.3	u2017-03-08-5	s	Hungarian	Neutral	neutral negative	2.209	1	16	19	0	
+ParlaMint-HU_2017-03-08.seg69.4	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	3.262	1	29	34	0	
+ParlaMint-HU_2017-03-08.seg70.1	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	3.355	1	9	10	0	
+ParlaMint-HU_2017-03-08.seg70.2	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	2.595	1	17	20	0	
+ParlaMint-HU_2017-03-08.seg70.3	u2017-03-08-5	s	Hungarian	Negative	negative	0.475	1	31	34	1	
+ParlaMint-HU_2017-03-08.seg71.1	u2017-03-08-5	s	Hungarian	Positive	positive	5.005	1	12	13	0	
+ParlaMint-HU_2017-03-08.seg71.2	u2017-03-08-5	s	Hungarian	Neutral	neutral negative	2.135	1	40	49	1	
+ParlaMint-HU_2017-03-08.seg71.3	u2017-03-08-5	s	Hungarian	Positive	positive	5.010	1	7	9	0	
+ParlaMint-HU_2017-03-08.seg71.4	u2017-03-08-5	s	Hungarian	Positive	positive	4.738	1	22	27	0	
+ParlaMint-HU_2017-03-08.seg72.1	u2017-03-08-5	s	Hungarian	Positive	positive	5.336	1	25	28	0	
+ParlaMint-HU_2017-03-08.seg72.2	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	3.492	1	5	6	0	
+ParlaMint-HU_2017-03-08.seg72.3	u2017-03-08-5	s	Hungarian	Positive	mixed positive	4.284	1	48	57	2	
+ParlaMint-HU_2017-03-08.seg72.4	u2017-03-08-5	s	Hungarian	Neutral	neutral negative	2.055	1	28	32	0	
+ParlaMint-HU_2017-03-08.seg73.1	u2017-03-08-5	s	Hungarian	Positive	positive	5.045	1	9	10	0	
+ParlaMint-HU_2017-03-08.seg73.2	u2017-03-08-5	s	Hungarian	Positive	positive	4.856	1	15	18	0	
+ParlaMint-HU_2017-03-08.seg73.3	u2017-03-08-5	s	Hungarian	Neutral	neutral negative	2.444	1	41	49	0	
+ParlaMint-HU_2017-03-08.seg73.4	u2017-03-08-5	s	Hungarian	Negative	mixed negative	1.003	1	45	54	0	
+ParlaMint-HU_2017-03-08.seg73.5	u2017-03-08-5	s	Hungarian	Negative	negative	0.361	1	12	15	0	
+ParlaMint-HU_2017-03-08.seg74.1	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	2.676	1	41	47	0	
+ParlaMint-HU_2017-03-08.seg74.2	u2017-03-08-5	s	Hungarian	Negative	mixed negative	1.262	1	46	58	0	
+ParlaMint-HU_2017-03-08.seg75.1	u2017-03-08-5	s	Hungarian	Negative	negative	0.267	1	36	43	0	
+ParlaMint-HU_2017-03-08.seg75.2	u2017-03-08-5	s	Hungarian	Positive	mixed positive	3.515	1	18	21	0	
+ParlaMint-HU_2017-03-08.seg75.3	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	2.697	1	8	9	0	
+ParlaMint-HU_2017-03-08.seg76.1	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	3.273	1	4	5	0	
+ParlaMint-HU_2017-03-08.seg76.2	u2017-03-08-5	s	Hungarian	Negative	mixed negative	1.378	1	19	22	0	
+ParlaMint-HU_2017-03-08.seg76.3	u2017-03-08-5	s	Hungarian	Positive	positive	4.754	1	25	30	0	
+ParlaMint-HU_2017-03-08.seg77.1	u2017-03-08-5	s	Hungarian	Neutral	neutral negative	1.561	1	22	25	0	
+ParlaMint-HU_2017-03-08.seg77.2	u2017-03-08-5	s	Hungarian	Positive	positive	5.173	1	15	18	0	
+ParlaMint-HU_2017-03-08.seg77.3	u2017-03-08-5	s	Hungarian	Negative	negative	0.299	1	30	37	1	
+ParlaMint-HU_2017-03-08.seg77.4	u2017-03-08-5	s	Hungarian	Negative	negative	0.348	1	21	26	0	
+ParlaMint-HU_2017-03-08.seg77.5	u2017-03-08-5	s	Hungarian	Positive	mixed positive	4.376	1	29	35	0	
+ParlaMint-HU_2017-03-08.seg77.6	u2017-03-08-5	s	Hungarian	Negative	negative	0.403	1	22	26	0	
+ParlaMint-HU_2017-03-08.seg77.7	u2017-03-08-5	s	Hungarian	Negative	negative	0.359	1	46	58	0	
+ParlaMint-HU_2017-03-08.seg77.8	u2017-03-08-5	s	Hungarian	Negative	mixed negative	0.572	1	14	16	0	
+ParlaMint-HU_2017-03-08.seg78.1	u2017-03-08-5	s	Hungarian	Positive	positive	5.100	1	10	12	0	
+ParlaMint-HU_2017-03-08.seg78.2	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	3.013	1	11	13	0	
+ParlaMint-HU_2017-03-08.seg78.3	u2017-03-08-5	s	Hungarian	Positive	positive	4.887	1	14	16	0	
+ParlaMint-HU_2017-03-08.seg78.4	u2017-03-08-5	s	Hungarian	Positive	mixed positive	4.234	1	65	71	0	
+ParlaMint-HU_2017-03-08.seg79.1	u2017-03-08-5	s	Hungarian	Neutral	neutral negative	2.184	1	24	27	0	
+ParlaMint-HU_2017-03-08.seg79.2	u2017-03-08-5	s	Hungarian	Negative	negative	0.338	1	9	11	0	
+ParlaMint-HU_2017-03-08.seg79.3	u2017-03-08-5	s	Hungarian	Neutral	neutral negative	2.286	1	27	32	0	
+ParlaMint-HU_2017-03-08.seg80.1	u2017-03-08-5	s	Hungarian	Neutral	neutral negative	1.869	1	34	41	0	
+ParlaMint-HU_2017-03-08.seg80.2	u2017-03-08-5	s	Hungarian	Negative	mixed negative	1.030	1	18	23	0	
+ParlaMint-HU_2017-03-08.seg80.3	u2017-03-08-5	s	Hungarian	Positive	mixed positive	4.142	1	15	18	0	
+ParlaMint-HU_2017-03-08.seg80.4	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	2.526	1	21	23	0	
+ParlaMint-HU_2017-03-08.seg80.5	u2017-03-08-5	s	Hungarian	Negative	mixed negative	0.868	1	55	67	0	
+ParlaMint-HU_2017-03-08.seg81.1	u2017-03-08-5	s	Hungarian	Negative	negative	0.276	1	38	44	2	
+ParlaMint-HU_2017-03-08.seg81.2	u2017-03-08-5	s	Hungarian	Negative	negative	0.184	1	8	12	0	
+ParlaMint-HU_2017-03-08.seg81.3	u2017-03-08-5	s	Hungarian	Negative	negative	0.206	1	16	19	0	
+ParlaMint-HU_2017-03-08.seg82.1	u2017-03-08-5	s	Hungarian	Negative	negative	0.200	1	45	54	1	
+ParlaMint-HU_2017-03-08.seg83.1	u2017-03-08-5	s	Hungarian	Positive	mixed positive	3.773	1	93	111	1	
+ParlaMint-HU_2017-03-08.seg84.1	u2017-03-08-5	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg84.2	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	3.034	1	8	10	0	
+ParlaMint-HU_2017-03-08.seg84.3	u2017-03-08-5	s	Hungarian	Positive	positive	4.558	1	10	12	0	
+ParlaMint-HU_2017-03-08.seg84.4	u2017-03-08-5	s	Hungarian	Neutral	neutral negative	2.343	1	64	76	2	
+ParlaMint-HU_2017-03-08.seg85.1	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	3.284	1	7	8	0	
+ParlaMint-HU_2017-03-08.seg85.2	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	3.040	1	8	9	0	
+ParlaMint-HU_2017-03-08.seg85.3	u2017-03-08-5	s	Hungarian	Negative	mixed negative	1.148	1	13	15	0	
+ParlaMint-HU_2017-03-08.seg85.4	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	2.578	1	20	24	0	
+ParlaMint-HU_2017-03-08.seg85.5	u2017-03-08-5	s	Hungarian	Neutral	neutral negative	2.029	1	20	24	0	
+ParlaMint-HU_2017-03-08.seg86.1	u2017-03-08-5	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg86.2	u2017-03-08-5	s	Hungarian	Negative	negative	0.245	1	41	45	0	
+ParlaMint-HU_2017-03-08.seg86.3	u2017-03-08-5	s	Hungarian	Negative	negative	0.374	1	13	15	0	
+ParlaMint-HU_2017-03-08.seg86.4	u2017-03-08-5	s	Hungarian	Negative	negative	0.335	1	50	58	1	
+ParlaMint-HU_2017-03-08.seg86.5	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	2.647	1	13	15	0	
+ParlaMint-HU_2017-03-08.seg86.6	u2017-03-08-5	s	Hungarian	Negative	mixed negative	0.590	1	18	21	0	
+ParlaMint-HU_2017-03-08.seg86.7	u2017-03-08-5	s	Hungarian	Positive	positive	4.582	1	11	15	0	
+ParlaMint-HU_2017-03-08.seg86.8	u2017-03-08-5	s	Hungarian	Negative	negative	0.490	1	5	7	0	
+ParlaMint-HU_2017-03-08.seg86.9	u2017-03-08-5	s	Hungarian	Neutral	neutral negative	1.505	1	4	5	0	
+ParlaMint-HU_2017-03-08.seg86.10	u2017-03-08-5	s	Hungarian	Negative	mixed negative	1.082	1	9	12	0	
+ParlaMint-HU_2017-03-08.seg87.1	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	3.198	1	4	5	0	
+ParlaMint-HU_2017-03-08.seg87.2	u2017-03-08-5	s	Hungarian	Negative	negative	0.344	1	14	17	0	
+ParlaMint-HU_2017-03-08.seg87.3	u2017-03-08-5	s	Hungarian	Negative	negative	0.488	1	13	15	0	
+ParlaMint-HU_2017-03-08.seg87.4	u2017-03-08-5	s	Hungarian	Negative	mixed negative	0.647	1	14	16	0	
+ParlaMint-HU_2017-03-08.seg88.1	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	2.699	1	28	32	0	
+ParlaMint-HU_2017-03-08.seg88.2	u2017-03-08-5	s	Hungarian	Negative	negative	0.183	1	66	78	0	
+ParlaMint-HU_2017-03-08.seg89.1	u2017-03-08-5	s	Hungarian	Positive	mixed positive	3.719	1	30	34	0	
+ParlaMint-HU_2017-03-08.seg89.2	u2017-03-08-5	s	Hungarian	Neutral	neutral negative	2.480	1	8	10	0	
+ParlaMint-HU_2017-03-08.seg89.3	u2017-03-08-5	s	Hungarian	Neutral	neutral negative	2.126	1	36	42	0	
+ParlaMint-HU_2017-03-08.seg90.1	u2017-03-08-5	s	Hungarian	Positive	positive	4.618	1	32	37	1	
+ParlaMint-HU_2017-03-08.seg90.2	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	3.089	1	15	18	0	
+ParlaMint-HU_2017-03-08.seg90.3	u2017-03-08-5	s	Hungarian	Neutral	neutral negative	1.512	1	15	18	0	
+ParlaMint-HU_2017-03-08.seg91.1	u2017-03-08-5	s	Hungarian	Neutral	neutral negative	2.448	1	6	7	0	
+ParlaMint-HU_2017-03-08.seg91.2	u2017-03-08-5	s	Hungarian	Negative	negative	0.288	1	15	19	0	
+ParlaMint-HU_2017-03-08.seg91.3	u2017-03-08-5	s	Hungarian	Negative	mixed negative	1.410	1	29	35	0	
+ParlaMint-HU_2017-03-08.seg91.4	u2017-03-08-5	s	Hungarian	Positive	mixed positive	4.217	1	3	4	0	
+ParlaMint-HU_2017-03-08.seg91.5	u2017-03-08-5	s	Hungarian	Neutral	neutral postive	3.495	1	11	13	0	
+ParlaMint-HU_2017-03-08.seg92.1	u2017-03-08-5	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg92.2	u2017-03-08-5	s	Hungarian	Positive	positive	5.386	1	28	34	0	
+ParlaMint-HU_2017-03-08.seg92.3	u2017-03-08-5	s	Hungarian	Positive	positive	4.746	1	29	34	0	
+ParlaMint-HU_2017-03-08.seg92.4	u2017-03-08-5	s	Hungarian	Positive	positive	4.710	1	4	6	0	
+u2017-03-08-6	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	3	11	15	2	
+ParlaMint-HU_2017-03-08.seg93.1	u2017-03-08-6	s	Hungarian	Positive	positive	4.547	1	1	2	0	
+ParlaMint-HU_2017-03-08.seg93.2	u2017-03-08-6	s	Hungarian	Neutral	neutral postive	3.437	1	9	11	2	
+ParlaMint-HU_2017-03-08.seg93.3	u2017-03-08-6	s	Hungarian	Neutral	neutral postive	3.399	1	1	2	0	
+u2017-03-08-7	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	123	2724	3053	17	
+ParlaMint-HU_2017-03-08.seg94.1	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.466	1	3	4	0	
+ParlaMint-HU_2017-03-08.seg94.2	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.010	1	3	4	0	
+ParlaMint-HU_2017-03-08.seg94.3	u2017-03-08-7	s	Hungarian	Positive	positive	5.309	1	29	33	0	
+ParlaMint-HU_2017-03-08.seg94.4	u2017-03-08-7	s	Hungarian	Negative	mixed negative	0.703	1	35	38	0	
+ParlaMint-HU_2017-03-08.seg94.5	u2017-03-08-7	s	Hungarian	Negative	negative	0.184	1	23	26	0	
+ParlaMint-HU_2017-03-08.seg95.1	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	1.547	1	14	16	0	
+ParlaMint-HU_2017-03-08.seg95.2	u2017-03-08-7	s	Hungarian	Negative	negative	0.485	1	13	15	0	
+ParlaMint-HU_2017-03-08.seg95.3	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.626	1	13	15	0	
+ParlaMint-HU_2017-03-08.seg96.1	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.626	1	26	28	1	
+ParlaMint-HU_2017-03-08.seg96.2	u2017-03-08-7	s	Hungarian	Positive	mixed positive	3.853	1	51	60	1	
+ParlaMint-HU_2017-03-08.seg97.1	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	3.239	1	26	28	0	
+ParlaMint-HU_2017-03-08.seg97.2	u2017-03-08-7	s	Hungarian	Positive	positive	4.678	1	21	25	0	
+ParlaMint-HU_2017-03-08.seg97.3	u2017-03-08-7	s	Hungarian	Negative	negative	0.398	1	37	41	0	
+ParlaMint-HU_2017-03-08.seg97.4	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.407	1	4	5	0	
+ParlaMint-HU_2017-03-08.seg97.5	u2017-03-08-7	s	Hungarian	Positive	mixed positive	3.656	1	73	84	2	
+ParlaMint-HU_2017-03-08.seg97.6	u2017-03-08-7	s	Hungarian	Positive	mixed positive	3.617	1	35	38	0	
+ParlaMint-HU_2017-03-08.seg97.7	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	3.112	1	27	30	0	
+ParlaMint-HU_2017-03-08.seg97.8	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.873	1	15	16	0	
+ParlaMint-HU_2017-03-08.seg97.9	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	3.274	1	22	24	0	
+ParlaMint-HU_2017-03-08.seg98.1	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.407	1	4	5	0	
+ParlaMint-HU_2017-03-08.seg98.2	u2017-03-08-7	s	Hungarian	Positive	positive	5.075	1	18	20	0	
+ParlaMint-HU_2017-03-08.seg98.3	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	3.378	1	26	30	0	
+ParlaMint-HU_2017-03-08.seg99.1	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.047	1	32	35	0	
+ParlaMint-HU_2017-03-08.seg99.2	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.860	1	19	24	0	
+ParlaMint-HU_2017-03-08.seg99.3	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	2.289	1	11	12	0	
+ParlaMint-HU_2017-03-08.seg99.4	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.407	1	4	5	0	
+ParlaMint-HU_2017-03-08.seg99.5	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	3.332	1	32	36	0	
+ParlaMint-HU_2017-03-08.seg99.6	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.528	1	18	20	0	
+ParlaMint-HU_2017-03-08.seg99.7	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.729	1	11	12	0	
+ParlaMint-HU_2017-03-08.seg99.8	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	2.005	1	20	23	0	
+ParlaMint-HU_2017-03-08.seg99.9	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	2.005	1	14	17	0	
+ParlaMint-HU_2017-03-08.seg99.10	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	2.001	1	13	14	0	
+ParlaMint-HU_2017-03-08.seg99.11	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	2.301	1	36	39	0	
+ParlaMint-HU_2017-03-08.seg100.1	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	1.631	1	36	38	0	
+ParlaMint-HU_2017-03-08.seg100.2	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.820	1	17	19	0	
+ParlaMint-HU_2017-03-08.seg100.3	u2017-03-08-7	s	Hungarian	Negative	negative	0.399	1	10	11	0	
+ParlaMint-HU_2017-03-08.seg101.1	u2017-03-08-7	s	Hungarian	Positive	mixed positive	3.694	1	29	31	0	
+ParlaMint-HU_2017-03-08.seg101.2	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.339	1	10	11	0	
+ParlaMint-HU_2017-03-08.seg101.3	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	1.821	1	35	40	0	
+ParlaMint-HU_2017-03-08.seg101.4	u2017-03-08-7	s	Hungarian	Negative	mixed negative	0.886	1	20	22	0	
+ParlaMint-HU_2017-03-08.seg101.5	u2017-03-08-7	s	Hungarian	Negative	negative	0.458	1	26	29	0	
+ParlaMint-HU_2017-03-08.seg101.6	u2017-03-08-7	s	Hungarian	Positive	positive	4.530	1	35	41	0	
+ParlaMint-HU_2017-03-08.seg101.7	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.407	1	4	5	0	
+ParlaMint-HU_2017-03-08.seg101.8	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	3.215	1	16	18	0	
+ParlaMint-HU_2017-03-08.seg101.9	u2017-03-08-7	s	Hungarian	Negative	mixed negative	1.174	1	22	24	0	
+ParlaMint-HU_2017-03-08.seg101.10	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.119	1	26	29	0	
+ParlaMint-HU_2017-03-08.seg101.11	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.041	1	27	30	0	
+ParlaMint-HU_2017-03-08.seg101.12	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	1.990	1	20	22	0	
+ParlaMint-HU_2017-03-08.seg101.13	u2017-03-08-7	s	Hungarian	Positive	mixed positive	3.651	1	13	14	0	
+ParlaMint-HU_2017-03-08.seg101.14	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.407	1	4	5	0	
+ParlaMint-HU_2017-03-08.seg101.15	u2017-03-08-7	s	Hungarian	Positive	mixed positive	3.725	1	18	19	0	
+ParlaMint-HU_2017-03-08.seg101.16	u2017-03-08-7	s	Hungarian	Negative	negative	0.399	1	29	32	0	
+ParlaMint-HU_2017-03-08.seg101.17	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	1.983	1	26	30	0	
+ParlaMint-HU_2017-03-08.seg102.1	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.876	1	37	42	1	
+ParlaMint-HU_2017-03-08.seg103.1	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.554	1	29	31	2	
+ParlaMint-HU_2017-03-08.seg103.2	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.681	1	30	32	1	
+ParlaMint-HU_2017-03-08.seg103.3	u2017-03-08-7	s	Hungarian	Negative	negative	0.323	1	19	21	0	
+ParlaMint-HU_2017-03-08.seg103.4	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.535	1	23	26	1	
+ParlaMint-HU_2017-03-08.seg104.1	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.407	1	4	5	0	
+ParlaMint-HU_2017-03-08.seg104.2	u2017-03-08-7	s	Hungarian	Positive	mixed positive	3.827	1	10	11	1	
+ParlaMint-HU_2017-03-08.seg104.3	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	3.362	1	21	23	0	
+ParlaMint-HU_2017-03-08.seg104.4	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	2.493	1	20	22	0	
+ParlaMint-HU_2017-03-08.seg104.5	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	2.193	1	46	51	0	
+ParlaMint-HU_2017-03-08.seg105.1	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.407	1	4	5	0	
+ParlaMint-HU_2017-03-08.seg105.2	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.025	1	18	20	0	
+ParlaMint-HU_2017-03-08.seg105.3	u2017-03-08-7	s	Hungarian	Negative	negative	0.248	1	24	31	0	
+ParlaMint-HU_2017-03-08.seg105.4	u2017-03-08-7	s	Hungarian	Negative	negative	0.128	1	27	30	0	
+ParlaMint-HU_2017-03-08.seg105.5	u2017-03-08-7	s	Hungarian	Negative	negative	0.111	1	59	65	0	
+ParlaMint-HU_2017-03-08.seg105.6	u2017-03-08-7	s	Hungarian	Negative	negative	0.228	1	32	36	0	
+ParlaMint-HU_2017-03-08.seg105.7	u2017-03-08-7	s	Hungarian	Positive	positive	4.872	1	29	31	0	
+ParlaMint-HU_2017-03-08.seg105.8	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	1.878	1	36	40	0	
+ParlaMint-HU_2017-03-08.seg105.9	u2017-03-08-7	s	Hungarian	Negative	negative	0.158	1	24	28	0	
+ParlaMint-HU_2017-03-08.seg106.1	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.407	1	4	5	0	
+ParlaMint-HU_2017-03-08.seg106.2	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	3.346	1	25	28	0	
+ParlaMint-HU_2017-03-08.seg106.3	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.829	1	17	22	2	
+ParlaMint-HU_2017-03-08.seg106.4	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	2.250	1	22	25	0	
+ParlaMint-HU_2017-03-08.seg106.5	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.725	1	38	42	2	
+ParlaMint-HU_2017-03-08.seg107.1	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.407	1	4	5	0	
+ParlaMint-HU_2017-03-08.seg107.2	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.844	1	23	25	0	
+ParlaMint-HU_2017-03-08.seg107.3	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	2.430	1	11	13	0	
+ParlaMint-HU_2017-03-08.seg107.4	u2017-03-08-7	s	Hungarian	Positive	positive	4.621	1	19	21	0	
+ParlaMint-HU_2017-03-08.seg108.1	u2017-03-08-7	s	Hungarian	Negative	negative	0.182	1	9	10	0	
+ParlaMint-HU_2017-03-08.seg108.2	u2017-03-08-7	s	Hungarian	Negative	negative	0.116	1	35	40	0	
+ParlaMint-HU_2017-03-08.seg108.3	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	2.150	1	15	16	0	
+ParlaMint-HU_2017-03-08.seg108.4	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.541	1	19	25	1	
+ParlaMint-HU_2017-03-08.seg109.1	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.407	1	4	5	0	
+ParlaMint-HU_2017-03-08.seg109.2	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	3.419	1	14	15	0	
+ParlaMint-HU_2017-03-08.seg109.3	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	3.103	1	25	27	0	
+ParlaMint-HU_2017-03-08.seg109.4	u2017-03-08-7	s	Hungarian	Positive	mixed positive	3.575	1	23	26	0	
+ParlaMint-HU_2017-03-08.seg109.5	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.407	1	4	5	0	
+ParlaMint-HU_2017-03-08.seg109.6	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	2.007	1	24	25	0	
+ParlaMint-HU_2017-03-08.seg109.7	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.674	1	30	33	0	
+ParlaMint-HU_2017-03-08.seg109.8	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	3.011	1	34	38	0	
+ParlaMint-HU_2017-03-08.seg110.1	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	2.373	1	57	63	0	
+ParlaMint-HU_2017-03-08.seg111.1	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.620	1	24	27	0	
+ParlaMint-HU_2017-03-08.seg111.2	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	2.420	1	19	22	0	
+ParlaMint-HU_2017-03-08.seg112.1	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.506	1	11	12	0	
+ParlaMint-HU_2017-03-08.seg112.2	u2017-03-08-7	s	Hungarian	Positive	mixed positive	3.686	1	33	37	0	
+ParlaMint-HU_2017-03-08.seg113.1	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.993	1	26	29	0	
+ParlaMint-HU_2017-03-08.seg113.2	u2017-03-08-7	s	Hungarian	Positive	positive	4.671	1	10	11	0	
+ParlaMint-HU_2017-03-08.seg114.1	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.016	1	38	43	0	
+ParlaMint-HU_2017-03-08.seg114.2	u2017-03-08-7	s	Hungarian	Positive	mixed positive	3.652	1	17	18	0	
+ParlaMint-HU_2017-03-08.seg114.3	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	2.250	1	26	30	0	
+ParlaMint-HU_2017-03-08.seg115.1	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.075	1	17	18	0	
+ParlaMint-HU_2017-03-08.seg115.2	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.768	1	13	14	0	
+ParlaMint-HU_2017-03-08.seg115.3	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	3.417	1	44	51	0	
+ParlaMint-HU_2017-03-08.seg116.1	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.774	1	21	22	0	
+ParlaMint-HU_2017-03-08.seg116.2	u2017-03-08-7	s	Hungarian	Positive	mixed positive	3.792	1	39	43	0	
+ParlaMint-HU_2017-03-08.seg116.3	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	3.070	1	42	45	0	
+ParlaMint-HU_2017-03-08.seg117.1	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	3.474	1	34	36	0	
+ParlaMint-HU_2017-03-08.seg117.2	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	1.987	1	29	33	1	
+ParlaMint-HU_2017-03-08.seg117.3	u2017-03-08-7	s	Hungarian	Negative	mixed negative	0.872	1	13	15	0	
+ParlaMint-HU_2017-03-08.seg117.4	u2017-03-08-7	s	Hungarian	Neutral	neutral negative	1.861	1	16	18	0	
+ParlaMint-HU_2017-03-08.seg118.1	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.141	1	24	29	0	
+ParlaMint-HU_2017-03-08.seg119.1	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	3.206	1	21	22	0	
+ParlaMint-HU_2017-03-08.seg119.2	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.721	1	18	19	0	
+ParlaMint-HU_2017-03-08.seg119.3	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	3.482	1	24	27	0	
+ParlaMint-HU_2017-03-08.seg120.1	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	3.188	1	11	13	0	
+ParlaMint-HU_2017-03-08.seg120.2	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.666	1	12	13	0	
+ParlaMint-HU_2017-03-08.seg120.3	u2017-03-08-7	s	Hungarian	Neutral	neutral postive	2.628	1	25	27	0	
+ParlaMint-HU_2017-03-08.seg121.1	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.407	1	4	5	0	
+ParlaMint-HU_2017-03-08.seg121.2	u2017-03-08-7	s	Hungarian	Positive	positive	5.147	1	11	14	1	
+ParlaMint-HU_2017-03-08.seg121.3	u2017-03-08-7	s	Hungarian	Positive	mixed positive	4.473	1	3	4	0	
+u2017-03-08-8	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	5	34	43	5	
+ParlaMint-HU_2017-03-08.seg122.1	u2017-03-08-8	s	Hungarian	Positive	positive	4.506	1	4	6	0	
+ParlaMint-HU_2017-03-08.seg122.2	u2017-03-08-8	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2017-03-08.seg122.3	u2017-03-08-8	s	Hungarian	Neutral	neutral postive	2.686	1	21	25	3	
+ParlaMint-HU_2017-03-08.seg122.4	u2017-03-08-8	s	Hungarian	Neutral	neutral postive	3.127	1	6	7	1	
+ParlaMint-HU_2017-03-08.seg122.5	u2017-03-08-8	s	Hungarian	Neutral	neutral postive	3.399	1	1	2	0	
+u2017-03-08-9	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	81	2123	2513	10	
+ParlaMint-HU_2017-03-08.seg123.1	u2017-03-08-9	s	Hungarian	Positive	positive	4.696	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg123.2	u2017-03-08-9	s	Hungarian	Positive	mixed positive	4.466	1	3	4	0	
+ParlaMint-HU_2017-03-08.seg123.3	u2017-03-08-9	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg123.4	u2017-03-08-9	s	Hungarian	Positive	positive	4.932	1	25	31	0	
+ParlaMint-HU_2017-03-08.seg123.5	u2017-03-08-9	s	Hungarian	Positive	positive	4.666	1	37	45	0	
+ParlaMint-HU_2017-03-08.seg123.6	u2017-03-08-9	s	Hungarian	Positive	mixed positive	3.917	1	50	61	0	
+ParlaMint-HU_2017-03-08.seg124.1	u2017-03-08-9	s	Hungarian	Neutral	neutral postive	3.208	1	16	18	0	
+ParlaMint-HU_2017-03-08.seg124.2	u2017-03-08-9	s	Hungarian	Neutral	neutral negative	1.951	1	43	48	0	
+ParlaMint-HU_2017-03-08.seg124.3	u2017-03-08-9	s	Hungarian	Neutral	neutral negative	2.380	1	34	40	0	
+ParlaMint-HU_2017-03-08.seg124.4	u2017-03-08-9	s	Hungarian	Negative	mixed negative	1.285	1	30	35	0	
+ParlaMint-HU_2017-03-08.seg124.5	u2017-03-08-9	s	Hungarian	Negative	negative	0.479	1	31	38	0	
+ParlaMint-HU_2017-03-08.seg125.1	u2017-03-08-9	s	Hungarian	Positive	positive	4.806	1	54	62	0	
+ParlaMint-HU_2017-03-08.seg126.1	u2017-03-08-9	s	Hungarian	Positive	positive	5.204	1	14	16	0	
+ParlaMint-HU_2017-03-08.seg126.2	u2017-03-08-9	s	Hungarian	Neutral	neutral postive	2.942	1	9	11	0	
+ParlaMint-HU_2017-03-08.seg126.3	u2017-03-08-9	s	Hungarian	Neutral	neutral negative	2.194	1	11	13	0	
+ParlaMint-HU_2017-03-08.seg126.4	u2017-03-08-9	s	Hungarian	Neutral	neutral negative	1.735	1	40	47	0	
+ParlaMint-HU_2017-03-08.seg126.5	u2017-03-08-9	s	Hungarian	Negative	mixed negative	0.863	1	48	55	2	
+ParlaMint-HU_2017-03-08.seg126.6	u2017-03-08-9	s	Hungarian	Negative	mixed negative	0.997	1	9	11	1	
+ParlaMint-HU_2017-03-08.seg126.7	u2017-03-08-9	s	Hungarian	Positive	positive	5.270	1	21	24	0	
+ParlaMint-HU_2017-03-08.seg127.1	u2017-03-08-9	s	Hungarian	Neutral	neutral negative	2.467	1	20	24	0	
+ParlaMint-HU_2017-03-08.seg127.2	u2017-03-08-9	s	Hungarian	Negative	mixed negative	0.777	1	42	51	0	
+ParlaMint-HU_2017-03-08.seg127.3	u2017-03-08-9	s	Hungarian	Neutral	neutral postive	3.244	1	5	6	0	
+ParlaMint-HU_2017-03-08.seg127.4	u2017-03-08-9	s	Hungarian	Neutral	neutral postive	3.230	1	15	17	0	
+ParlaMint-HU_2017-03-08.seg128.1	u2017-03-08-9	s	Hungarian	Negative	mixed negative	1.382	1	17	20	0	
+ParlaMint-HU_2017-03-08.seg128.2	u2017-03-08-9	s	Hungarian	Negative	mixed negative	1.147	1	39	45	0	
+ParlaMint-HU_2017-03-08.seg128.3	u2017-03-08-9	s	Hungarian	Neutral	neutral negative	1.790	1	43	49	0	
+ParlaMint-HU_2017-03-08.seg128.4	u2017-03-08-9	s	Hungarian	Negative	negative	0.219	1	12	14	0	
+ParlaMint-HU_2017-03-08.seg128.5	u2017-03-08-9	s	Hungarian	Neutral	neutral negative	2.215	1	31	38	0	
+ParlaMint-HU_2017-03-08.seg128.6	u2017-03-08-9	s	Hungarian	Negative	negative	0.461	1	55	66	0	
+ParlaMint-HU_2017-03-08.seg128.7	u2017-03-08-9	s	Hungarian	Negative	mixed negative	1.197	1	57	67	0	
+ParlaMint-HU_2017-03-08.seg128.8	u2017-03-08-9	s	Hungarian	Neutral	neutral negative	1.667	1	21	26	0	
+ParlaMint-HU_2017-03-08.seg128.9	u2017-03-08-9	s	Hungarian	Positive	mixed positive	3.692	1	23	26	0	
+ParlaMint-HU_2017-03-08.seg128.10	u2017-03-08-9	s	Hungarian	Neutral	neutral negative	1.764	1	25	29	1	
+ParlaMint-HU_2017-03-08.seg128.11	u2017-03-08-9	s	Hungarian	Negative	negative	0.260	1	45	56	0	
+ParlaMint-HU_2017-03-08.seg128.12	u2017-03-08-9	s	Hungarian	Negative	negative	0.207	1	14	17	0	
+ParlaMint-HU_2017-03-08.seg128.13	u2017-03-08-9	s	Hungarian	Negative	negative	0.188	1	14	16	0	
+ParlaMint-HU_2017-03-08.seg128.14	u2017-03-08-9	s	Hungarian	Negative	negative	0.356	1	34	40	0	
+ParlaMint-HU_2017-03-08.seg128.15	u2017-03-08-9	s	Hungarian	Negative	negative	0.290	1	30	35	0	
+ParlaMint-HU_2017-03-08.seg128.16	u2017-03-08-9	s	Hungarian	Positive	positive	4.544	1	19	22	0	
+ParlaMint-HU_2017-03-08.seg128.17	u2017-03-08-9	s	Hungarian	Neutral	neutral negative	1.805	1	12	13	0	
+ParlaMint-HU_2017-03-08.seg128.18	u2017-03-08-9	s	Hungarian	Neutral	neutral negative	2.464	1	112	129	2	
+ParlaMint-HU_2017-03-08.seg128.19	u2017-03-08-9	s	Hungarian	Neutral	neutral postive	2.628	1	10	11	0	
+ParlaMint-HU_2017-03-08.seg128.20	u2017-03-08-9	s	Hungarian	Positive	mixed positive	4.360	1	9	11	0	
+ParlaMint-HU_2017-03-08.seg128.21	u2017-03-08-9	s	Hungarian	Positive	positive	4.838	1	16	19	0	
+ParlaMint-HU_2017-03-08.seg128.22	u2017-03-08-9	s	Hungarian	Positive	positive	4.800	1	27	31	0	
+ParlaMint-HU_2017-03-08.seg128.23	u2017-03-08-9	s	Hungarian	Positive	mixed positive	3.704	1	4	5	0	
+ParlaMint-HU_2017-03-08.seg128.24	u2017-03-08-9	s	Hungarian	Neutral	neutral negative	2.169	1	53	64	0	
+ParlaMint-HU_2017-03-08.seg128.25	u2017-03-08-9	s	Hungarian	Neutral	neutral negative	1.789	1	21	24	0	
+ParlaMint-HU_2017-03-08.seg128.26	u2017-03-08-9	s	Hungarian	Positive	positive	4.890	1	11	13	0	
+ParlaMint-HU_2017-03-08.seg128.27	u2017-03-08-9	s	Hungarian	Neutral	neutral negative	1.892	1	26	31	0	
+ParlaMint-HU_2017-03-08.seg128.28	u2017-03-08-9	s	Hungarian	Positive	positive	4.660	1	8	9	0	
+ParlaMint-HU_2017-03-08.seg128.29	u2017-03-08-9	s	Hungarian	Positive	positive	4.555	1	19	23	0	
+ParlaMint-HU_2017-03-08.seg128.30	u2017-03-08-9	s	Hungarian	Negative	mixed negative	0.935	1	35	43	0	
+ParlaMint-HU_2017-03-08.seg128.31	u2017-03-08-9	s	Hungarian	Negative	mixed negative	0.940	1	76	88	0	
+ParlaMint-HU_2017-03-08.seg129.1	u2017-03-08-9	s	Hungarian	Negative	mixed negative	1.233	1	42	52	1	
+ParlaMint-HU_2017-03-08.seg129.2	u2017-03-08-9	s	Hungarian	Negative	negative	0.159	1	23	28	0	
+ParlaMint-HU_2017-03-08.seg129.3	u2017-03-08-9	s	Hungarian	Negative	negative	0.154	1	16	18	0	
+ParlaMint-HU_2017-03-08.seg129.4	u2017-03-08-9	s	Hungarian	Positive	mixed positive	3.790	1	9	11	0	
+ParlaMint-HU_2017-03-08.seg129.5	u2017-03-08-9	s	Hungarian	Neutral	neutral postive	2.622	1	20	24	0	
+ParlaMint-HU_2017-03-08.seg129.6	u2017-03-08-9	s	Hungarian	Neutral	neutral negative	2.070	1	26	30	1	
+ParlaMint-HU_2017-03-08.seg129.7	u2017-03-08-9	s	Hungarian	Negative	mixed negative	1.354	1	26	33	0	
+ParlaMint-HU_2017-03-08.seg129.8	u2017-03-08-9	s	Hungarian	Neutral	neutral negative	2.462	1	9	10	0	
+ParlaMint-HU_2017-03-08.seg129.9	u2017-03-08-9	s	Hungarian	Neutral	neutral negative	2.336	1	14	16	0	
+ParlaMint-HU_2017-03-08.seg129.10	u2017-03-08-9	s	Hungarian	Negative	negative	0.289	1	32	36	0	
+ParlaMint-HU_2017-03-08.seg129.11	u2017-03-08-9	s	Hungarian	Negative	negative	0.409	1	25	29	0	
+ParlaMint-HU_2017-03-08.seg129.12	u2017-03-08-9	s	Hungarian	Negative	negative	0.441	1	21	24	0	
+ParlaMint-HU_2017-03-08.seg129.13	u2017-03-08-9	s	Hungarian	Negative	negative	0.263	1	32	40	0	
+ParlaMint-HU_2017-03-08.seg129.14	u2017-03-08-9	s	Hungarian	Negative	mixed negative	1.141	1	22	26	0	
+ParlaMint-HU_2017-03-08.seg129.15	u2017-03-08-9	s	Hungarian	Neutral	neutral postive	2.524	1	30	37	1	
+ParlaMint-HU_2017-03-08.seg129.16	u2017-03-08-9	s	Hungarian	Negative	negative	0.370	1	23	28	0	
+ParlaMint-HU_2017-03-08.seg129.17	u2017-03-08-9	s	Hungarian	Negative	negative	0.377	1	16	20	0	
+ParlaMint-HU_2017-03-08.seg130.1	u2017-03-08-9	s	Hungarian	Positive	positive	5.004	1	11	13	0	
+ParlaMint-HU_2017-03-08.seg130.2	u2017-03-08-9	s	Hungarian	Positive	mixed positive	3.892	1	20	23	0	
+ParlaMint-HU_2017-03-08.seg130.3	u2017-03-08-9	s	Hungarian	Neutral	neutral postive	2.863	1	47	58	0	
+ParlaMint-HU_2017-03-08.seg130.4	u2017-03-08-9	s	Hungarian	Negative	mixed negative	1.442	1	44	51	0	
+ParlaMint-HU_2017-03-08.seg130.5	u2017-03-08-9	s	Hungarian	Negative	negative	0.474	1	63	78	0	
+ParlaMint-HU_2017-03-08.seg130.6	u2017-03-08-9	s	Hungarian	Positive	mixed positive	4.381	1	18	21	0	
+ParlaMint-HU_2017-03-08.seg130.7	u2017-03-08-9	s	Hungarian	Neutral	neutral postive	3.435	1	13	15	0	
+ParlaMint-HU_2017-03-08.seg131.1	u2017-03-08-9	s	Hungarian	Neutral	neutral postive	3.108	1	6	7	0	
+ParlaMint-HU_2017-03-08.seg131.2	u2017-03-08-9	s	Hungarian	Positive	mixed positive	3.560	1	34	39	1	
+ParlaMint-HU_2017-03-08.seg131.3	u2017-03-08-9	s	Hungarian	Positive	positive	4.696	1	2	3	0	
+u2017-03-08-10	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	3	7	10	1	
+ParlaMint-HU_2017-03-08.seg132.1	u2017-03-08-10	s	Hungarian	Positive	positive	4.696	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg132.2	u2017-03-08-10	s	Hungarian	Positive	mixed positive	3.590	1	4	5	1	
+ParlaMint-HU_2017-03-08.seg132.3	u2017-03-08-10	s	Hungarian	Neutral	neutral postive	3.399	1	1	2	0	
+u2017-03-08-11	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	69	1384	1650	13	
+ParlaMint-HU_2017-03-08.seg133.1	u2017-03-08-11	s	Hungarian	Positive	mixed positive	4.334	1	6	8	0	
+ParlaMint-HU_2017-03-08.seg133.2	u2017-03-08-11	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg133.3	u2017-03-08-11	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg133.4	u2017-03-08-11	s	Hungarian	Positive	mixed positive	4.292	1	3	4	0	
+ParlaMint-HU_2017-03-08.seg133.5	u2017-03-08-11	s	Hungarian	Neutral	neutral postive	3.013	1	10	12	0	
+ParlaMint-HU_2017-03-08.seg133.6	u2017-03-08-11	s	Hungarian	Neutral	neutral postive	3.100	1	11	12	0	
+ParlaMint-HU_2017-03-08.seg133.7	u2017-03-08-11	s	Hungarian	Neutral	neutral negative	1.668	1	5	6	0	
+ParlaMint-HU_2017-03-08.seg133.8	u2017-03-08-11	s	Hungarian	Negative	negative	0.331	1	18	22	0	
+ParlaMint-HU_2017-03-08.seg133.9	u2017-03-08-11	s	Hungarian	Negative	negative	0.177	1	20	24	0	
+ParlaMint-HU_2017-03-08.seg134.1	u2017-03-08-11	s	Hungarian	Neutral	neutral postive	2.897	1	16	19	1	
+ParlaMint-HU_2017-03-08.seg134.2	u2017-03-08-11	s	Hungarian	Neutral	neutral postive	2.998	1	13	16	1	
+ParlaMint-HU_2017-03-08.seg134.3	u2017-03-08-11	s	Hungarian	Positive	mixed positive	3.799	1	5	6	0	
+ParlaMint-HU_2017-03-08.seg134.4	u2017-03-08-11	s	Hungarian	Negative	negative	0.308	1	21	25	0	
+ParlaMint-HU_2017-03-08.seg134.5	u2017-03-08-11	s	Hungarian	Negative	mixed negative	1.159	1	12	16	0	
+ParlaMint-HU_2017-03-08.seg134.6	u2017-03-08-11	s	Hungarian	Negative	negative	0.215	1	7	8	0	
+ParlaMint-HU_2017-03-08.seg135.1	u2017-03-08-11	s	Hungarian	Neutral	neutral postive	3.061	1	30	37	0	
+ParlaMint-HU_2017-03-08.seg135.2	u2017-03-08-11	s	Hungarian	Neutral	neutral negative	2.074	1	24	30	1	
+ParlaMint-HU_2017-03-08.seg135.3	u2017-03-08-11	s	Hungarian	Neutral	neutral negative	1.767	1	11	13	0	
+ParlaMint-HU_2017-03-08.seg135.4	u2017-03-08-11	s	Hungarian	Negative	mixed negative	1.198	1	32	36	1	
+ParlaMint-HU_2017-03-08.seg135.5	u2017-03-08-11	s	Hungarian	Negative	mixed negative	1.209	1	8	9	0	
+ParlaMint-HU_2017-03-08.seg135.6	u2017-03-08-11	s	Hungarian	Negative	mixed negative	1.500	1	14	16	0	
+ParlaMint-HU_2017-03-08.seg135.7	u2017-03-08-11	s	Hungarian	Positive	mixed positive	3.850	1	17	20	0	
+ParlaMint-HU_2017-03-08.seg136.1	u2017-03-08-11	s	Hungarian	Neutral	neutral negative	2.305	1	14	16	0	
+ParlaMint-HU_2017-03-08.seg136.2	u2017-03-08-11	s	Hungarian	Negative	mixed negative	0.734	1	17	21	0	
+ParlaMint-HU_2017-03-08.seg136.3	u2017-03-08-11	s	Hungarian	Neutral	neutral negative	1.575	1	20	25	0	
+ParlaMint-HU_2017-03-08.seg136.4	u2017-03-08-11	s	Hungarian	Neutral	neutral postive	2.539	1	32	38	1	
+ParlaMint-HU_2017-03-08.seg136.5	u2017-03-08-11	s	Hungarian	Negative	mixed negative	0.736	1	40	48	0	
+ParlaMint-HU_2017-03-08.seg137.1	u2017-03-08-11	s	Hungarian	Positive	mixed positive	3.585	1	43	51	0	
+ParlaMint-HU_2017-03-08.seg137.2	u2017-03-08-11	s	Hungarian	Neutral	neutral negative	2.026	1	10	12	0	
+ParlaMint-HU_2017-03-08.seg137.3	u2017-03-08-11	s	Hungarian	Neutral	neutral postive	3.009	1	28	34	1	
+ParlaMint-HU_2017-03-08.seg137.4	u2017-03-08-11	s	Hungarian	Positive	positive	4.754	1	26	34	0	
+ParlaMint-HU_2017-03-08.seg137.5	u2017-03-08-11	s	Hungarian	Negative	mixed negative	0.973	1	15	19	0	
+ParlaMint-HU_2017-03-08.seg137.6	u2017-03-08-11	s	Hungarian	Neutral	neutral negative	2.025	1	20	24	0	
+ParlaMint-HU_2017-03-08.seg138.1	u2017-03-08-11	s	Hungarian	Positive	mixed positive	4.434	1	19	22	0	
+ParlaMint-HU_2017-03-08.seg138.2	u2017-03-08-11	s	Hungarian	Negative	mixed negative	1.314	1	14	17	0	
+ParlaMint-HU_2017-03-08.seg138.3	u2017-03-08-11	s	Hungarian	Negative	mixed negative	0.541	1	29	34	0	
+ParlaMint-HU_2017-03-08.seg138.4	u2017-03-08-11	s	Hungarian	Neutral	neutral postive	3.465	1	8	9	1	
+ParlaMint-HU_2017-03-08.seg138.5	u2017-03-08-11	s	Hungarian	Neutral	neutral postive	3.024	1	22	28	0	
+ParlaMint-HU_2017-03-08.seg138.6	u2017-03-08-11	s	Hungarian	Negative	mixed negative	1.086	1	20	24	1	
+ParlaMint-HU_2017-03-08.seg138.7	u2017-03-08-11	s	Hungarian	Neutral	neutral postive	2.656	1	23	28	1	
+ParlaMint-HU_2017-03-08.seg138.8	u2017-03-08-11	s	Hungarian	Neutral	neutral postive	2.925	1	5	6	0	
+ParlaMint-HU_2017-03-08.seg139.1	u2017-03-08-11	s	Hungarian	Positive	mixed positive	3.513	1	25	28	0	
+ParlaMint-HU_2017-03-08.seg139.2	u2017-03-08-11	s	Hungarian	Neutral	neutral negative	1.678	1	17	20	0	
+ParlaMint-HU_2017-03-08.seg139.3	u2017-03-08-11	s	Hungarian	Negative	negative	0.408	1	18	22	0	
+ParlaMint-HU_2017-03-08.seg139.4	u2017-03-08-11	s	Hungarian	Positive	mixed positive	3.737	1	26	30	0	
+ParlaMint-HU_2017-03-08.seg139.5	u2017-03-08-11	s	Hungarian	Neutral	neutral negative	2.295	1	27	32	0	
+ParlaMint-HU_2017-03-08.seg139.6	u2017-03-08-11	s	Hungarian	Neutral	neutral postive	3.206	1	45	53	0	
+ParlaMint-HU_2017-03-08.seg140.1	u2017-03-08-11	s	Hungarian	Positive	mixed positive	4.263	1	24	30	1	
+ParlaMint-HU_2017-03-08.seg140.2	u2017-03-08-11	s	Hungarian	Positive	mixed positive	4.438	1	20	22	0	
+ParlaMint-HU_2017-03-08.seg140.3	u2017-03-08-11	s	Hungarian	Negative	mixed negative	1.059	1	44	52	0	
+ParlaMint-HU_2017-03-08.seg140.4	u2017-03-08-11	s	Hungarian	Neutral	neutral postive	2.556	1	28	33	0	
+ParlaMint-HU_2017-03-08.seg140.5	u2017-03-08-11	s	Hungarian	Positive	positive	4.674	1	21	26	0	
+ParlaMint-HU_2017-03-08.seg141.1	u2017-03-08-11	s	Hungarian	Negative	negative	0.106	1	23	30	0	
+ParlaMint-HU_2017-03-08.seg141.2	u2017-03-08-11	s	Hungarian	Negative	negative	0.146	1	13	16	0	
+ParlaMint-HU_2017-03-08.seg141.3	u2017-03-08-11	s	Hungarian	Negative	mixed negative	1.001	1	15	19	0	
+ParlaMint-HU_2017-03-08.seg141.4	u2017-03-08-11	s	Hungarian	Negative	negative	0.374	1	29	34	2	
+ParlaMint-HU_2017-03-08.seg141.5	u2017-03-08-11	s	Hungarian	Negative	negative	0.361	1	24	28	0	
+ParlaMint-HU_2017-03-08.seg141.6	u2017-03-08-11	s	Hungarian	Positive	mixed positive	4.289	1	29	34	0	
+ParlaMint-HU_2017-03-08.seg142.1	u2017-03-08-11	s	Hungarian	Neutral	neutral postive	2.966	1	10	12	0	
+ParlaMint-HU_2017-03-08.seg142.2	u2017-03-08-11	s	Hungarian	Negative	mixed negative	1.304	1	22	25	0	
+ParlaMint-HU_2017-03-08.seg142.3	u2017-03-08-11	s	Hungarian	Neutral	neutral negative	2.029	1	23	26	0	
+ParlaMint-HU_2017-03-08.seg142.4	u2017-03-08-11	s	Hungarian	Neutral	neutral negative	2.342	1	22	24	0	
+ParlaMint-HU_2017-03-08.seg142.5	u2017-03-08-11	s	Hungarian	Neutral	neutral postive	2.832	1	25	29	0	
+ParlaMint-HU_2017-03-08.seg143.1	u2017-03-08-11	s	Hungarian	Negative	mixed negative	1.166	1	34	40	1	
+ParlaMint-HU_2017-03-08.seg143.2	u2017-03-08-11	s	Hungarian	Neutral	neutral negative	2.333	1	16	18	0	
+ParlaMint-HU_2017-03-08.seg143.3	u2017-03-08-11	s	Hungarian	Negative	mixed negative	1.372	1	50	58	0	
+ParlaMint-HU_2017-03-08.seg143.4	u2017-03-08-11	s	Hungarian	Negative	mixed negative	0.984	1	11	14	0	
+ParlaMint-HU_2017-03-08.seg143.5	u2017-03-08-11	s	Hungarian	Positive	mixed positive	3.858	1	41	47	0	
+ParlaMint-HU_2017-03-08.seg144.1	u2017-03-08-11	s	Hungarian	Neutral	neutral postive	3.021	1	10	13	0	
+u2017-03-08-12	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	5	17	22	3	
+ParlaMint-HU_2017-03-08.seg145.1	u2017-03-08-12	s	Hungarian	Positive	positive	4.828	1	3	4	0	
+ParlaMint-HU_2017-03-08.seg145.2	u2017-03-08-12	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2017-03-08.seg145.3	u2017-03-08-12	s	Hungarian	Neutral	neutral postive	3.274	1	6	7	1	
+ParlaMint-HU_2017-03-08.seg145.4	u2017-03-08-12	s	Hungarian	Positive	mixed positive	3.603	1	5	6	1	
+ParlaMint-HU_2017-03-08.seg145.5	u2017-03-08-12	s	Hungarian	Neutral	neutral postive	3.399	1	1	2	0	
+u2017-03-08-13	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	121	2745	3140	16	
+ParlaMint-HU_2017-03-08.seg146.1	u2017-03-08-13	s	Hungarian	Positive	mixed positive	4.046	1	5	7	0	
+ParlaMint-HU_2017-03-08.seg146.2	u2017-03-08-13	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2017-03-08.seg146.3	u2017-03-08-13	s	Hungarian	Positive	mixed positive	4.153	1	15	18	0	
+ParlaMint-HU_2017-03-08.seg147.1	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	1.695	1	62	71	0	
+ParlaMint-HU_2017-03-08.seg148.1	u2017-03-08-13	s	Hungarian	Positive	mixed positive	4.383	1	29	33	1	
+ParlaMint-HU_2017-03-08.seg148.2	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	2.413	1	20	22	0	
+ParlaMint-HU_2017-03-08.seg149.1	u2017-03-08-13	s	Hungarian	Negative	mixed negative	0.603	1	47	55	0	
+ParlaMint-HU_2017-03-08.seg149.2	u2017-03-08-13	s	Hungarian	Negative	mixed negative	1.138	1	53	59	1	
+ParlaMint-HU_2017-03-08.seg149.3	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	3.013	1	10	12	0	
+ParlaMint-HU_2017-03-08.seg149.4	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	2.497	1	9	10	0	
+ParlaMint-HU_2017-03-08.seg149.5	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	2.659	1	30	34	0	
+ParlaMint-HU_2017-03-08.seg149.6	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	3.340	1	32	36	0	
+ParlaMint-HU_2017-03-08.seg150.1	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	2.022	1	26	30	0	
+ParlaMint-HU_2017-03-08.seg150.2	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	2.714	1	24	27	0	
+ParlaMint-HU_2017-03-08.seg150.3	u2017-03-08-13	s	Hungarian	Positive	positive	5.344	1	22	26	0	
+ParlaMint-HU_2017-03-08.seg150.4	u2017-03-08-13	s	Hungarian	Positive	mixed positive	4.226	1	19	22	0	
+ParlaMint-HU_2017-03-08.seg150.5	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	3.430	1	37	41	0	
+ParlaMint-HU_2017-03-08.seg151.1	u2017-03-08-13	s	Hungarian	Negative	mixed negative	0.894	1	39	46	0	
+ParlaMint-HU_2017-03-08.seg151.2	u2017-03-08-13	s	Hungarian	Negative	mixed negative	1.284	1	37	42	0	
+ParlaMint-HU_2017-03-08.seg152.1	u2017-03-08-13	s	Hungarian	Negative	negative	0.456	1	15	16	0	
+ParlaMint-HU_2017-03-08.seg152.2	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	2.573	1	10	11	0	
+ParlaMint-HU_2017-03-08.seg152.3	u2017-03-08-13	s	Hungarian	Negative	negative	0.193	1	16	17	0	
+ParlaMint-HU_2017-03-08.seg152.4	u2017-03-08-13	s	Hungarian	Negative	negative	0.094	1	4	5	0	
+ParlaMint-HU_2017-03-08.seg152.5	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	1.539	1	24	27	0	
+ParlaMint-HU_2017-03-08.seg152.6	u2017-03-08-13	s	Hungarian	Negative	mixed negative	0.528	1	31	36	0	
+ParlaMint-HU_2017-03-08.seg152.7	u2017-03-08-13	s	Hungarian	Negative	negative	0.306	1	21	24	0	
+ParlaMint-HU_2017-03-08.seg152.8	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	1.637	1	25	27	0	
+ParlaMint-HU_2017-03-08.seg152.9	u2017-03-08-13	s	Hungarian	Negative	mixed negative	0.615	1	36	41	0	
+ParlaMint-HU_2017-03-08.seg152.10	u2017-03-08-13	s	Hungarian	Negative	negative	0.295	1	19	23	0	
+ParlaMint-HU_2017-03-08.seg152.11	u2017-03-08-13	s	Hungarian	Negative	negative	0.227	1	14	17	0	
+ParlaMint-HU_2017-03-08.seg152.12	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	2.376	1	9	12	0	
+ParlaMint-HU_2017-03-08.seg152.13	u2017-03-08-13	s	Hungarian	Negative	mixed negative	0.543	1	20	24	0	
+ParlaMint-HU_2017-03-08.seg152.14	u2017-03-08-13	s	Hungarian	Negative	negative	0.345	1	37	43	0	
+ParlaMint-HU_2017-03-08.seg152.15	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	3.109	1	16	17	0	
+ParlaMint-HU_2017-03-08.seg152.16	u2017-03-08-13	s	Hungarian	Negative	negative	0.226	1	17	20	0	
+ParlaMint-HU_2017-03-08.seg152.17	u2017-03-08-13	s	Hungarian	Negative	negative	0.333	1	9	11	0	
+ParlaMint-HU_2017-03-08.seg152.18	u2017-03-08-13	s	Hungarian	Negative	negative	0.330	1	47	55	1	
+ParlaMint-HU_2017-03-08.seg152.19	u2017-03-08-13	s	Hungarian	Negative	negative	0.181	1	36	44	0	
+ParlaMint-HU_2017-03-08.seg152.20	u2017-03-08-13	s	Hungarian	Negative	mixed negative	0.899	1	23	28	0	
+ParlaMint-HU_2017-03-08.seg152.21	u2017-03-08-13	s	Hungarian	Negative	mixed negative	0.604	1	32	35	0	
+ParlaMint-HU_2017-03-08.seg152.22	u2017-03-08-13	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2017-03-08.seg152.23	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	1.738	1	13	15	1	
+ParlaMint-HU_2017-03-08.seg152.24	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	1.863	1	15	17	0	
+ParlaMint-HU_2017-03-08.seg152.25	u2017-03-08-13	s	Hungarian	Positive	positive	5.074	1	16	18	0	
+ParlaMint-HU_2017-03-08.seg152.26	u2017-03-08-13	s	Hungarian	Positive	positive	4.804	1	18	20	0	
+ParlaMint-HU_2017-03-08.seg152.27	u2017-03-08-13	s	Hungarian	Positive	positive	5.312	1	5	6	0	
+ParlaMint-HU_2017-03-08.seg152.28	u2017-03-08-13	s	Hungarian	Positive	mixed positive	3.853	1	16	18	0	
+ParlaMint-HU_2017-03-08.seg152.29	u2017-03-08-13	s	Hungarian	Negative	negative	0.335	1	12	13	0	
+ParlaMint-HU_2017-03-08.seg152.30	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	3.162	1	5	6	0	
+ParlaMint-HU_2017-03-08.seg152.31	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	2.144	1	24	27	0	
+ParlaMint-HU_2017-03-08.seg152.32	u2017-03-08-13	s	Hungarian	Negative	negative	0.374	1	65	77	0	
+ParlaMint-HU_2017-03-08.seg152.33	u2017-03-08-13	s	Hungarian	Negative	negative	0.419	1	10	11	0	
+ParlaMint-HU_2017-03-08.seg152.34	u2017-03-08-13	s	Hungarian	Negative	negative	0.259	1	16	17	0	
+ParlaMint-HU_2017-03-08.seg152.35	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	2.230	1	21	23	0	
+ParlaMint-HU_2017-03-08.seg152.36	u2017-03-08-13	s	Hungarian	Negative	negative	0.335	1	36	41	0	
+ParlaMint-HU_2017-03-08.seg152.37	u2017-03-08-13	s	Hungarian	Negative	mixed negative	1.467	1	68	77	0	
+ParlaMint-HU_2017-03-08.seg152.38	u2017-03-08-13	s	Hungarian	Negative	negative	0.250	1	22	26	0	
+ParlaMint-HU_2017-03-08.seg152.39	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	3.022	1	21	23	0	
+ParlaMint-HU_2017-03-08.seg152.40	u2017-03-08-13	s	Hungarian	Negative	negative	0.355	1	43	49	0	
+ParlaMint-HU_2017-03-08.seg152.41	u2017-03-08-13	s	Hungarian	Negative	negative	0.094	1	39	42	0	
+ParlaMint-HU_2017-03-08.seg152.42	u2017-03-08-13	s	Hungarian	Negative	negative	0.163	1	45	49	0	
+ParlaMint-HU_2017-03-08.seg152.43	u2017-03-08-13	s	Hungarian	Negative	negative	0.472	1	25	28	0	
+ParlaMint-HU_2017-03-08.seg152.44	u2017-03-08-13	s	Hungarian	Negative	mixed negative	1.313	1	8	10	0	
+ParlaMint-HU_2017-03-08.seg152.45	u2017-03-08-13	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg152.46	u2017-03-08-13	s	Hungarian	Positive	positive	4.575	1	26	28	0	
+ParlaMint-HU_2017-03-08.seg152.47	u2017-03-08-13	s	Hungarian	Negative	mixed negative	0.535	1	23	26	0	
+ParlaMint-HU_2017-03-08.seg152.48	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	2.513	1	7	9	0	
+ParlaMint-HU_2017-03-08.seg152.49	u2017-03-08-13	s	Hungarian	Negative	negative	0.343	1	32	37	0	
+ParlaMint-HU_2017-03-08.seg152.50	u2017-03-08-13	s	Hungarian	Negative	negative	0.199	1	5	6	0	
+ParlaMint-HU_2017-03-08.seg153.1	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	1.503	1	41	50	0	
+ParlaMint-HU_2017-03-08.seg153.2	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	1.902	1	11	15	0	
+ParlaMint-HU_2017-03-08.seg153.3	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	3.389	1	16	17	1	
+ParlaMint-HU_2017-03-08.seg153.4	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	2.026	1	21	27	1	
+ParlaMint-HU_2017-03-08.seg153.5	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	1.569	1	21	25	0	
+ParlaMint-HU_2017-03-08.seg153.6	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	2.541	1	8	9	0	
+ParlaMint-HU_2017-03-08.seg153.7	u2017-03-08-13	s	Hungarian	Negative	negative	0.288	1	48	54	1	
+ParlaMint-HU_2017-03-08.seg153.8	u2017-03-08-13	s	Hungarian	Positive	mixed positive	4.122	1	6	7	0	
+ParlaMint-HU_2017-03-08.seg153.9	u2017-03-08-13	s	Hungarian	Negative	negative	0.235	1	17	21	0	
+ParlaMint-HU_2017-03-08.seg153.10	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	1.755	1	14	15	0	
+ParlaMint-HU_2017-03-08.seg153.11	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	2.263	1	19	22	0	
+ParlaMint-HU_2017-03-08.seg153.12	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	2.758	1	12	14	0	
+ParlaMint-HU_2017-03-08.seg153.13	u2017-03-08-13	s	Hungarian	Negative	negative	0.194	1	40	45	1	
+ParlaMint-HU_2017-03-08.seg153.14	u2017-03-08-13	s	Hungarian	Negative	negative	0.298	1	28	32	0	
+ParlaMint-HU_2017-03-08.seg153.15	u2017-03-08-13	s	Hungarian	Negative	mixed negative	1.303	1	16	18	0	
+ParlaMint-HU_2017-03-08.seg153.16	u2017-03-08-13	s	Hungarian	Positive	mixed positive	4.126	1	36	40	0	
+ParlaMint-HU_2017-03-08.seg153.17	u2017-03-08-13	s	Hungarian	Negative	negative	0.264	1	32	35	0	
+ParlaMint-HU_2017-03-08.seg154.1	u2017-03-08-13	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg154.2	u2017-03-08-13	s	Hungarian	Positive	mixed positive	4.007	1	11	12	1	
+ParlaMint-HU_2017-03-08.seg154.3	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	1.542	1	63	70	1	
+ParlaMint-HU_2017-03-08.seg155.1	u2017-03-08-13	s	Hungarian	Positive	mixed positive	3.830	1	29	35	0	
+ParlaMint-HU_2017-03-08.seg155.2	u2017-03-08-13	s	Hungarian	Negative	negative	0.200	1	19	22	0	
+ParlaMint-HU_2017-03-08.seg155.3	u2017-03-08-13	s	Hungarian	Negative	negative	0.119	1	16	18	0	
+ParlaMint-HU_2017-03-08.seg155.4	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	2.221	1	7	8	0	
+ParlaMint-HU_2017-03-08.seg155.5	u2017-03-08-13	s	Hungarian	Negative	negative	0.265	1	12	13	1	
+ParlaMint-HU_2017-03-08.seg155.6	u2017-03-08-13	s	Hungarian	Negative	negative	0.216	1	19	24	0	
+ParlaMint-HU_2017-03-08.seg155.7	u2017-03-08-13	s	Hungarian	Negative	negative	0.209	1	10	11	0	
+ParlaMint-HU_2017-03-08.seg155.8	u2017-03-08-13	s	Hungarian	Negative	negative	0.307	1	15	16	0	
+ParlaMint-HU_2017-03-08.seg155.9	u2017-03-08-13	s	Hungarian	Negative	negative	0.007	1	30	36	0	
+ParlaMint-HU_2017-03-08.seg155.10	u2017-03-08-13	s	Hungarian	Negative	negative	0.212	1	20	23	0	
+ParlaMint-HU_2017-03-08.seg155.11	u2017-03-08-13	s	Hungarian	Negative	mixed negative	0.778	1	10	11	0	
+ParlaMint-HU_2017-03-08.seg155.12	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	2.155	1	7	8	0	
+ParlaMint-HU_2017-03-08.seg155.13	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	2.293	1	19	22	0	
+ParlaMint-HU_2017-03-08.seg155.14	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	2.883	1	43	50	0	
+ParlaMint-HU_2017-03-08.seg155.15	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	2.252	1	46	51	0	
+ParlaMint-HU_2017-03-08.seg155.16	u2017-03-08-13	s	Hungarian	Negative	negative	0.422	1	8	9	0	
+ParlaMint-HU_2017-03-08.seg155.17	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	3.236	1	23	26	0	
+ParlaMint-HU_2017-03-08.seg155.18	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	2.443	1	21	23	0	
+ParlaMint-HU_2017-03-08.seg155.19	u2017-03-08-13	s	Hungarian	Negative	mixed negative	0.792	1	11	12	0	
+ParlaMint-HU_2017-03-08.seg155.20	u2017-03-08-13	s	Hungarian	Negative	mixed negative	1.345	1	63	69	0	
+ParlaMint-HU_2017-03-08.seg155.21	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	3.359	1	55	60	0	
+ParlaMint-HU_2017-03-08.seg155.22	u2017-03-08-13	s	Hungarian	Positive	mixed positive	4.151	1	9	11	0	
+ParlaMint-HU_2017-03-08.seg155.23	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	2.888	1	27	33	1	
+ParlaMint-HU_2017-03-08.seg155.24	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	2.868	1	22	25	1	
+ParlaMint-HU_2017-03-08.seg156.1	u2017-03-08-13	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg156.2	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	3.020	1	18	20	0	
+ParlaMint-HU_2017-03-08.seg156.3	u2017-03-08-13	s	Hungarian	Positive	mixed positive	3.826	1	13	15	1	
+ParlaMint-HU_2017-03-08.seg156.4	u2017-03-08-13	s	Hungarian	Neutral	neutral negative	1.711	1	21	25	0	
+ParlaMint-HU_2017-03-08.seg156.5	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	3.247	1	18	21	0	
+ParlaMint-HU_2017-03-08.seg157.1	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	2.678	1	38	42	0	
+ParlaMint-HU_2017-03-08.seg157.2	u2017-03-08-13	s	Hungarian	Neutral	neutral postive	3.218	1	9	10	0	
+ParlaMint-HU_2017-03-08.seg158.1	u2017-03-08-13	s	Hungarian	Positive	mixed positive	4.363	1	4	5	0	
+u2017-03-08-14	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	7	40	49	3	
+ParlaMint-HU_2017-03-08.seg159.1	u2017-03-08-14	s	Hungarian	Positive	mixed positive	4.351	1	4	6	0	
+ParlaMint-HU_2017-03-08.seg159.2	u2017-03-08-14	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2017-03-08.seg159.3	u2017-03-08-14	s	Hungarian	Neutral	neutral postive	3.186	1	5	6	0	
+ParlaMint-HU_2017-03-08.seg159.4	u2017-03-08-14	s	Hungarian	Neutral	neutral negative	1.812	1	6	7	1	
+ParlaMint-HU_2017-03-08.seg159.5	u2017-03-08-14	s	Hungarian	Neutral	neutral postive	2.730	1	11	12	0	
+ParlaMint-HU_2017-03-08.seg159.6	u2017-03-08-14	s	Hungarian	Neutral	neutral postive	3.401	1	9	10	1	
+ParlaMint-HU_2017-03-08.seg159.7	u2017-03-08-14	s	Hungarian	Neutral	neutral postive	2.816	1	3	5	0	
+u2017-03-08-15	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	51	1196	1364	8	
+ParlaMint-HU_2017-03-08.seg160.1	u2017-03-08-15	s	Hungarian	Positive	mixed positive	4.046	1	5	7	0	
+ParlaMint-HU_2017-03-08.seg160.2	u2017-03-08-15	s	Hungarian	Positive	mixed positive	3.983	1	2	3	1	
+ParlaMint-HU_2017-03-08.seg160.3	u2017-03-08-15	s	Hungarian	Positive	mixed positive	4.319	1	2	3	1	
+ParlaMint-HU_2017-03-08.seg160.4	u2017-03-08-15	s	Hungarian	Neutral	neutral negative	2.492	1	49	53	0	
+ParlaMint-HU_2017-03-08.seg160.5	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	3.442	1	6	8	0	
+ParlaMint-HU_2017-03-08.seg160.6	u2017-03-08-15	s	Hungarian	Positive	mixed positive	4.466	1	3	4	0	
+ParlaMint-HU_2017-03-08.seg160.7	u2017-03-08-15	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2017-03-08.seg160.8	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	2.636	1	30	32	0	
+ParlaMint-HU_2017-03-08.seg161.1	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	3.152	1	13	16	0	
+ParlaMint-HU_2017-03-08.seg161.2	u2017-03-08-15	s	Hungarian	Positive	positive	4.760	1	29	32	1	
+ParlaMint-HU_2017-03-08.seg161.3	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	3.055	1	27	37	1	
+ParlaMint-HU_2017-03-08.seg161.4	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	3.159	1	30	37	0	
+ParlaMint-HU_2017-03-08.seg161.5	u2017-03-08-15	s	Hungarian	Positive	mixed positive	3.629	1	27	32	0	
+ParlaMint-HU_2017-03-08.seg161.6	u2017-03-08-15	s	Hungarian	Positive	positive	5.147	1	14	16	0	
+ParlaMint-HU_2017-03-08.seg161.7	u2017-03-08-15	s	Hungarian	Positive	mixed positive	3.567	1	21	24	0	
+ParlaMint-HU_2017-03-08.seg161.8	u2017-03-08-15	s	Hungarian	Positive	positive	4.640	1	11	12	0	
+ParlaMint-HU_2017-03-08.seg161.9	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	3.274	1	19	21	1	
+ParlaMint-HU_2017-03-08.seg161.10	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	2.604	1	26	29	0	
+ParlaMint-HU_2017-03-08.seg161.11	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	2.981	1	17	19	0	
+ParlaMint-HU_2017-03-08.seg161.12	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	2.947	1	36	38	0	
+ParlaMint-HU_2017-03-08.seg161.13	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	2.876	1	5	6	0	
+ParlaMint-HU_2017-03-08.seg161.14	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	2.537	1	13	15	1	
+ParlaMint-HU_2017-03-08.seg161.15	u2017-03-08-15	s	Hungarian	Neutral	neutral negative	1.723	1	11	13	0	
+ParlaMint-HU_2017-03-08.seg161.16	u2017-03-08-15	s	Hungarian	Neutral	neutral negative	2.149	1	18	22	0	
+ParlaMint-HU_2017-03-08.seg161.17	u2017-03-08-15	s	Hungarian	Neutral	neutral negative	2.436	1	27	29	0	
+ParlaMint-HU_2017-03-08.seg161.18	u2017-03-08-15	s	Hungarian	Neutral	neutral negative	1.909	1	39	46	0	
+ParlaMint-HU_2017-03-08.seg161.19	u2017-03-08-15	s	Hungarian	Neutral	neutral negative	1.762	1	23	25	0	
+ParlaMint-HU_2017-03-08.seg161.20	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	3.354	1	21	25	0	
+ParlaMint-HU_2017-03-08.seg161.21	u2017-03-08-15	s	Hungarian	Positive	positive	4.708	1	19	22	0	
+ParlaMint-HU_2017-03-08.seg161.22	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	2.782	1	28	31	0	
+ParlaMint-HU_2017-03-08.seg161.23	u2017-03-08-15	s	Hungarian	Negative	negative	0.482	1	46	48	0	
+ParlaMint-HU_2017-03-08.seg161.24	u2017-03-08-15	s	Hungarian	Negative	negative	0.427	1	21	24	0	
+ParlaMint-HU_2017-03-08.seg161.25	u2017-03-08-15	s	Hungarian	Negative	mixed negative	0.658	1	9	11	0	
+ParlaMint-HU_2017-03-08.seg161.26	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	2.948	1	23	26	0	
+ParlaMint-HU_2017-03-08.seg161.27	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	2.712	1	53	59	0	
+ParlaMint-HU_2017-03-08.seg161.28	u2017-03-08-15	s	Hungarian	Neutral	neutral negative	2.352	1	53	62	0	
+ParlaMint-HU_2017-03-08.seg161.29	u2017-03-08-15	s	Hungarian	Negative	negative	0.439	1	39	44	0	
+ParlaMint-HU_2017-03-08.seg161.30	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	2.597	1	72	85	0	
+ParlaMint-HU_2017-03-08.seg161.31	u2017-03-08-15	s	Hungarian	Neutral	neutral negative	2.400	1	19	21	0	
+ParlaMint-HU_2017-03-08.seg161.32	u2017-03-08-15	s	Hungarian	Negative	negative	0.405	1	23	25	0	
+ParlaMint-HU_2017-03-08.seg161.33	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	2.659	1	59	65	0	
+ParlaMint-HU_2017-03-08.seg161.34	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	2.625	1	36	39	0	
+ParlaMint-HU_2017-03-08.seg161.35	u2017-03-08-15	s	Hungarian	Neutral	neutral negative	1.540	1	29	34	0	
+ParlaMint-HU_2017-03-08.seg162.1	u2017-03-08-15	s	Hungarian	Negative	mixed negative	0.754	1	30	33	0	
+ParlaMint-HU_2017-03-08.seg162.2	u2017-03-08-15	s	Hungarian	Negative	negative	0.300	1	34	40	0	
+ParlaMint-HU_2017-03-08.seg162.3	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	2.553	1	23	24	0	
+ParlaMint-HU_2017-03-08.seg162.4	u2017-03-08-15	s	Hungarian	Positive	positive	4.521	1	3	5	0	
+ParlaMint-HU_2017-03-08.seg163.1	u2017-03-08-15	s	Hungarian	Neutral	neutral negative	2.000	1	24	26	0	
+ParlaMint-HU_2017-03-08.seg163.2	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	2.553	1	23	24	0	
+ParlaMint-HU_2017-03-08.seg163.3	u2017-03-08-15	s	Hungarian	Positive	positive	4.521	1	3	5	0	
+ParlaMint-HU_2017-03-08.seg163.4	u2017-03-08-15	s	Hungarian	Neutral	neutral postive	3.195	1	1	4	1	
+u2017-03-08-16	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	7	37	49	0	
+ParlaMint-HU_2017-03-08.seg164.1	u2017-03-08-16	s	Hungarian	Positive	positive	4.828	1	3	4	0	
+ParlaMint-HU_2017-03-08.seg164.2	u2017-03-08-16	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg164.3	u2017-03-08-16	s	Hungarian	Neutral	neutral negative	2.387	1	11	13	0	
+ParlaMint-HU_2017-03-08.seg165.1	u2017-03-08-16	s	Hungarian	Neutral	neutral negative	2.407	1	3	5	0	
+ParlaMint-HU_2017-03-08.seg165.2	u2017-03-08-16	s	Hungarian	Neutral	neutral negative	2.286	1	10	12	0	
+ParlaMint-HU_2017-03-08.seg166.1	u2017-03-08-16	s	Hungarian	Neutral	neutral postive	3.063	1	7	10	0	
+ParlaMint-HU_2017-03-08.seg167.1	u2017-03-08-16	s	Hungarian	Neutral	neutral postive	3.399	1	1	2	0	
+u2017-03-08-17	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	35	555	657	5	
+ParlaMint-HU_2017-03-08.seg168.1	u2017-03-08-17	s	Hungarian	Positive	mixed positive	4.037	1	5	7	0	
+ParlaMint-HU_2017-03-08.seg168.2	u2017-03-08-17	s	Hungarian	Neutral	neutral negative	2.216	1	12	14	0	
+ParlaMint-HU_2017-03-08.seg169.1	u2017-03-08-17	s	Hungarian	Positive	positive	5.180	1	24	31	1	
+ParlaMint-HU_2017-03-08.seg169.2	u2017-03-08-17	s	Hungarian	Negative	mixed negative	0.579	1	5	6	0	
+ParlaMint-HU_2017-03-08.seg169.3	u2017-03-08-17	s	Hungarian	Neutral	neutral negative	2.355	1	18	21	0	
+ParlaMint-HU_2017-03-08.seg169.4	u2017-03-08-17	s	Hungarian	Positive	positive	5.012	1	15	17	0	
+ParlaMint-HU_2017-03-08.seg169.5	u2017-03-08-17	s	Hungarian	Positive	positive	4.569	1	7	8	0	
+ParlaMint-HU_2017-03-08.seg169.6	u2017-03-08-17	s	Hungarian	Positive	mixed positive	4.006	1	6	8	0	
+ParlaMint-HU_2017-03-08.seg169.7	u2017-03-08-17	s	Hungarian	Neutral	neutral postive	3.245	1	31	36	0	
+ParlaMint-HU_2017-03-08.seg169.8	u2017-03-08-17	s	Hungarian	Neutral	neutral negative	2.207	1	8	10	0	
+ParlaMint-HU_2017-03-08.seg169.9	u2017-03-08-17	s	Hungarian	Neutral	neutral negative	2.040	1	7	8	0	
+ParlaMint-HU_2017-03-08.seg169.10	u2017-03-08-17	s	Hungarian	Neutral	neutral postive	3.296	1	20	24	1	
+ParlaMint-HU_2017-03-08.seg169.11	u2017-03-08-17	s	Hungarian	Negative	mixed negative	0.696	1	43	49	0	
+ParlaMint-HU_2017-03-08.seg169.12	u2017-03-08-17	s	Hungarian	Negative	negative	0.462	1	21	24	0	
+ParlaMint-HU_2017-03-08.seg169.13	u2017-03-08-17	s	Hungarian	Neutral	neutral negative	2.388	1	16	19	0	
+ParlaMint-HU_2017-03-08.seg169.14	u2017-03-08-17	s	Hungarian	Positive	mixed positive	3.892	1	10	11	0	
+ParlaMint-HU_2017-03-08.seg169.15	u2017-03-08-17	s	Hungarian	Neutral	neutral postive	2.970	1	26	31	0	
+ParlaMint-HU_2017-03-08.seg169.16	u2017-03-08-17	s	Hungarian	Positive	positive	4.623	1	5	6	0	
+ParlaMint-HU_2017-03-08.seg169.17	u2017-03-08-17	s	Hungarian	Neutral	neutral postive	2.880	1	9	10	1	
+ParlaMint-HU_2017-03-08.seg169.18	u2017-03-08-17	s	Hungarian	Neutral	neutral postive	3.361	1	28	33	0	
+ParlaMint-HU_2017-03-08.seg169.19	u2017-03-08-17	s	Hungarian	Positive	positive	5.058	1	8	10	0	
+ParlaMint-HU_2017-03-08.seg169.20	u2017-03-08-17	s	Hungarian	Positive	positive	5.082	1	9	12	1	
+ParlaMint-HU_2017-03-08.seg169.21	u2017-03-08-17	s	Hungarian	Positive	mixed positive	4.091	1	15	17	0	
+ParlaMint-HU_2017-03-08.seg169.22	u2017-03-08-17	s	Hungarian	Negative	mixed negative	1.315	1	21	24	1	
+ParlaMint-HU_2017-03-08.seg169.23	u2017-03-08-17	s	Hungarian	Neutral	neutral postive	2.602	1	17	19	0	
+ParlaMint-HU_2017-03-08.seg169.24	u2017-03-08-17	s	Hungarian	Positive	positive	5.305	1	8	11	0	
+ParlaMint-HU_2017-03-08.seg169.25	u2017-03-08-17	s	Hungarian	Neutral	neutral postive	2.604	1	53	62	0	
+ParlaMint-HU_2017-03-08.seg169.26	u2017-03-08-17	s	Hungarian	Neutral	neutral negative	1.587	1	7	9	0	
+ParlaMint-HU_2017-03-08.seg169.27	u2017-03-08-17	s	Hungarian	Neutral	neutral negative	2.151	1	15	17	0	
+ParlaMint-HU_2017-03-08.seg169.28	u2017-03-08-17	s	Hungarian	Negative	mixed negative	1.225	1	21	24	0	
+ParlaMint-HU_2017-03-08.seg169.29	u2017-03-08-17	s	Hungarian	Positive	mixed positive	3.590	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg169.30	u2017-03-08-17	s	Hungarian	Positive	mixed positive	3.598	1	9	12	0	
+ParlaMint-HU_2017-03-08.seg169.31	u2017-03-08-17	s	Hungarian	Positive	positive	5.106	1	36	42	0	
+ParlaMint-HU_2017-03-08.seg170.1	u2017-03-08-17	s	Hungarian	Positive	positive	4.666	1	4	5	0	
+ParlaMint-HU_2017-03-08.seg170.2	u2017-03-08-17	s	Hungarian	Positive	mixed positive	4.175	1	14	17	0	
+u2017-03-08-18	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	8	56	70	4	
+ParlaMint-HU_2017-03-08.seg171.1	u2017-03-08-18	s	Hungarian	Positive	positive	4.690	1	4	6	0	
+ParlaMint-HU_2017-03-08.seg171.2	u2017-03-08-18	s	Hungarian	Positive	mixed positive	4.409	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg171.3	u2017-03-08-18	s	Hungarian	Neutral	neutral postive	3.032	1	12	14	0	
+ParlaMint-HU_2017-03-08.seg172.1	u2017-03-08-18	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2017-03-08.seg172.2	u2017-03-08-18	s	Hungarian	Neutral	neutral postive	3.258	1	7	8	0	
+ParlaMint-HU_2017-03-08.seg172.3	u2017-03-08-18	s	Hungarian	Neutral	neutral postive	2.789	1	6	7	0	
+ParlaMint-HU_2017-03-08.seg173.1	u2017-03-08-18	s	Hungarian	Neutral	neutral postive	3.203	1	20	24	3	
+ParlaMint-HU_2017-03-08.seg173.2	u2017-03-08-18	s	Hungarian	Positive	mixed positive	3.564	1	3	5	0	
+u2017-03-08-19	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	46	534	648	23	
+ParlaMint-HU_2017-03-08.seg174.1	u2017-03-08-19	s	Hungarian	Positive	positive	4.710	1	4	6	0	
+ParlaMint-HU_2017-03-08.seg174.2	u2017-03-08-19	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg174.3	u2017-03-08-19	s	Hungarian	Neutral	neutral negative	2.252	1	11	13	1	
+ParlaMint-HU_2017-03-08.seg174.4	u2017-03-08-19	s	Hungarian	Positive	mixed positive	4.194	1	12	16	0	
+ParlaMint-HU_2017-03-08.seg174.5	u2017-03-08-19	s	Hungarian	Negative	negative	0.135	1	15	17	0	
+ParlaMint-HU_2017-03-08.seg174.6	u2017-03-08-19	s	Hungarian	Negative	negative	0.122	1	23	25	1	
+ParlaMint-HU_2017-03-08.seg175.1	u2017-03-08-19	s	Hungarian	Negative	negative	0.112	1	22	31	0	
+ParlaMint-HU_2017-03-08.seg175.2	u2017-03-08-19	s	Hungarian	Negative	negative	0.434	1	5	6	0	
+ParlaMint-HU_2017-03-08.seg175.3	u2017-03-08-19	s	Hungarian	Negative	negative	0.399	1	15	17	1	
+ParlaMint-HU_2017-03-08.seg175.4	u2017-03-08-19	s	Hungarian	Positive	mixed positive	4.400	1	43	53	3	
+ParlaMint-HU_2017-03-08.seg175.5	u2017-03-08-19	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg175.6	u2017-03-08-19	s	Hungarian	Neutral	neutral negative	2.368	1	11	13	0	
+ParlaMint-HU_2017-03-08.seg175.7	u2017-03-08-19	s	Hungarian	Neutral	neutral negative	2.395	1	6	8	0	
+ParlaMint-HU_2017-03-08.seg175.8	u2017-03-08-19	s	Hungarian	Positive	mixed positive	3.538	1	14	17	2	
+ParlaMint-HU_2017-03-08.seg175.9	u2017-03-08-19	s	Hungarian	Positive	mixed positive	3.501	1	8	9	1	
+ParlaMint-HU_2017-03-08.seg175.10	u2017-03-08-19	s	Hungarian	Positive	mixed positive	3.977	1	14	17	0	
+ParlaMint-HU_2017-03-08.seg175.11	u2017-03-08-19	s	Hungarian	Neutral	neutral postive	2.683	1	7	9	0	
+ParlaMint-HU_2017-03-08.seg175.12	u2017-03-08-19	s	Hungarian	Neutral	neutral postive	3.167	1	8	9	0	
+ParlaMint-HU_2017-03-08.seg175.13	u2017-03-08-19	s	Hungarian	Neutral	neutral postive	2.826	1	6	8	1	
+ParlaMint-HU_2017-03-08.seg175.14	u2017-03-08-19	s	Hungarian	Neutral	neutral postive	3.173	1	3	4	0	
+ParlaMint-HU_2017-03-08.seg175.15	u2017-03-08-19	s	Hungarian	Positive	mixed positive	3.940	1	11	12	0	
+ParlaMint-HU_2017-03-08.seg175.16	u2017-03-08-19	s	Hungarian	Neutral	neutral negative	1.824	1	19	23	0	
+ParlaMint-HU_2017-03-08.seg175.17	u2017-03-08-19	s	Hungarian	Negative	mixed negative	0.570	1	7	9	1	
+ParlaMint-HU_2017-03-08.seg175.18	u2017-03-08-19	s	Hungarian	Positive	positive	4.857	1	12	16	1	
+ParlaMint-HU_2017-03-08.seg176.1	u2017-03-08-19	s	Hungarian	Positive	mixed positive	4.416	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg176.2	u2017-03-08-19	s	Hungarian	Positive	positive	4.794	1	28	32	3	
+ParlaMint-HU_2017-03-08.seg176.3	u2017-03-08-19	s	Hungarian	Positive	positive	4.670	1	19	23	1	
+ParlaMint-HU_2017-03-08.seg176.4	u2017-03-08-19	s	Hungarian	Positive	mixed positive	3.913	1	20	26	1	
+ParlaMint-HU_2017-03-08.seg176.5	u2017-03-08-19	s	Hungarian	Positive	positive	4.969	1	9	11	1	
+ParlaMint-HU_2017-03-08.seg176.6	u2017-03-08-19	s	Hungarian	Neutral	neutral postive	2.684	1	13	15	0	
+ParlaMint-HU_2017-03-08.seg176.7	u2017-03-08-19	s	Hungarian	Positive	mixed positive	4.492	1	5	6	0	
+ParlaMint-HU_2017-03-08.seg176.8	u2017-03-08-19	s	Hungarian	Positive	mixed positive	4.410	1	11	15	0	
+ParlaMint-HU_2017-03-08.seg176.9	u2017-03-08-19	s	Hungarian	Neutral	neutral postive	3.181	1	9	11	0	
+ParlaMint-HU_2017-03-08.seg176.10	u2017-03-08-19	s	Hungarian	Positive	positive	4.728	1	14	16	0	
+ParlaMint-HU_2017-03-08.seg176.11	u2017-03-08-19	s	Hungarian	Positive	positive	4.996	1	9	11	1	
+ParlaMint-HU_2017-03-08.seg176.12	u2017-03-08-19	s	Hungarian	Positive	mixed positive	3.596	1	5	6	0	
+ParlaMint-HU_2017-03-08.seg176.13	u2017-03-08-19	s	Hungarian	Positive	mixed positive	4.127	1	25	29	0	
+ParlaMint-HU_2017-03-08.seg176.14	u2017-03-08-19	s	Hungarian	Neutral	neutral postive	2.728	1	12	15	0	
+ParlaMint-HU_2017-03-08.seg176.15	u2017-03-08-19	s	Hungarian	Positive	mixed positive	4.481	1	10	11	0	
+ParlaMint-HU_2017-03-08.seg177.1	u2017-03-08-19	s	Hungarian	Positive	mixed positive	4.043	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg177.2	u2017-03-08-19	s	Hungarian	Neutral	neutral postive	3.284	1	13	15	1	
+ParlaMint-HU_2017-03-08.seg177.3	u2017-03-08-19	s	Hungarian	Negative	mixed negative	1.235	1	6	7	0	
+ParlaMint-HU_2017-03-08.seg177.4	u2017-03-08-19	s	Hungarian	Positive	mixed positive	3.748	1	19	21	2	
+ParlaMint-HU_2017-03-08.seg177.5	u2017-03-08-19	s	Hungarian	Positive	positive	5.278	1	14	17	1	
+ParlaMint-HU_2017-03-08.seg177.6	u2017-03-08-19	s	Hungarian	Positive	mixed positive	3.704	1	6	7	0	
+ParlaMint-HU_2017-03-08.seg177.7	u2017-03-08-19	s	Hungarian	Positive	mixed positive	4.473	1	3	4	0	
+u2017-03-08-20	ParlaMint-HU_2017-03-08	u	Hungarian	-	-	-	5	31	38	2	
+ParlaMint-HU_2017-03-08.seg178.1	u2017-03-08-20	s	Hungarian	Positive	positive	4.696	1	2	3	0	
+ParlaMint-HU_2017-03-08.seg178.2	u2017-03-08-20	s	Hungarian	Positive	mixed positive	4.409	1	2	3	1	
+ParlaMint-HU_2017-03-08.seg178.3	u2017-03-08-20	s	Hungarian	Positive	positive	4.914	1	3	4	0	
+ParlaMint-HU_2017-03-08.seg178.4	u2017-03-08-20	s	Hungarian	Neutral	neutral postive	2.990	1	13	15	1	
+ParlaMint-HU_2017-03-08.seg179.1	u2017-03-08-20	s	Hungarian	Positive	mixed positive	4.192	1	11	13	0	
