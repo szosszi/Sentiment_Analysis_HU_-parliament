@@ -1,0 +1,12 @@
+# ParlaMint-HU korpusz (több GB, a README alapján letölthető)
+ParlaMint-HU.conllu/
+ParlaMint-HU.TEI.ana/
+ParlaMint-HU.txt/
+ParlaMint-HU.vert/
+
+# Helyi környezet és ideiglenes fájlok
+.venv/
+_to_delete/
+kod_backup_javitas_elott.ipynb
+.ipynb_checkpoints/
+__pycache__/
