@@ -76,7 +76,7 @@ A cellák egymásra épülnek, ezért a notebookot elejétől sorban kell lefutt
 
 ### Adatok
 
-A korpusz mérete miatt az adatok nem részei a repónak. A ParlaMint-HU 5.0 nyelvileg annotált (`.ana`) változata a [ParlaMint projekt oldaláról](https://www.clarin.eu/parlamint) érhető el. A kicsomagolt `ParlaMint-HU.TEI.ana` mappának a notebook mellett kell lennie:
+A korpusz mérete miatt az adatok nem részei a repónak. A ParlaMint-HU 5.0 nyelvileg annotált változata a CLARIN.SI repozitóriumban, a ParlaMint.ana 5.0 kiadás részeként érhető el: <http://hdl.handle.net/11356/2005>. Innen a magyar alkorpusz (`ParlaMint-HU.TEI.ana`) letöltése elég. A kicsomagolt `ParlaMint-HU.TEI.ana` mappának a notebook mellett kell lennie:
 
 ```
 .
@@ -97,4 +97,14 @@ A notebook az ülésnapok `.ana.xml` fájljait az alkönyvtárakban is megkeresi
 
 ## Hivatkozás
 
-Az adatok forrása: Erjavec, T., Ogrodniczuk, M., Osenova, P. és mtsai (2023). The ParlaMint corpora of parliamentary proceedings. *Language Resources and Evaluation*, 57(1), 415–448.
+Az adatállomány:
+
+> Erjavec, T., Kopp, M., Kuzman Pungeršek, T., Ljubešić, N., Ogrodniczuk, M. és mtsai (2025). *Linguistically annotated multilingual comparable corpora of parliamentary debates ParlaMint.ana 5.0* [Adatállomány]. CLARIN ERIC. http://hdl.handle.net/11356/2005
+
+A ParlaMint projekt leírása:
+
+> Erjavec, T., Ogrodniczuk, M., Osenova, P. és mtsai (2023). The ParlaMint corpora of parliamentary proceedings. *Language Resources and Evaluation*, 57(1), 415–448.
+
+## Licenc
+
+A ParlaMint.ana 5.0 korpusz a [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) licenc alatt érhető el.
